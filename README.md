@@ -4,6 +4,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/misrapk?style=social)  
 ![Twitter Follow](https://img.shields.io/twitter/follow/peeyushkmisra?style=social)
 
+- 🔭 &nbsp;I’m currently working on an amazing project :wink:
+- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 💬 &nbsp;Ask me about anything related to Machine Learning/Javascript/C++/Python or Angular/React/Express/Django
+- 📫 &nbsp;How to reach me: [@letscode_daily](https://www.instagram.com/letscode_daily/) or [@peeyushkmisra](https://www.instagram.com/peeyushkmisra/)
+- 👨‍💻 &nbsp;Contact me for freelancing projects [Linkedin](https://www.linkedin.com/in/peeyushkmisra/)
+- ⚡ &nbsp;Fun fact: I love to teach and learn
+
 ### Profile Summary
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misrapk&theme=dracula)
