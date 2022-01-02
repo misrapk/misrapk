@@ -17,7 +17,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tJRRrMpJl18"><img width="140px" src="https://i.ytimg.com/vi/tJRRrMpJl18/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sRxsjeWaYHM"><img width="140px" src="https://i.ytimg.com/vi/sRxsjeWaYHM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sRxsjeWaYHM">My Honest Engineering Journey in @CGC Landran | 2017 - 2021 | #batchof21</a><br/>Jan 2, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tJRRrMpJl18"><img width="140px" src="https://i.ytimg.com/vi/tJRRrMpJl18/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tJRRrMpJl18">Swagatam 2022!!</a><br/>Jan 1, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rtwMwgJVSUY"><img width="140px" src="https://i.ytimg.com/vi/rtwMwgJVSUY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rtwMwgJVSUY">the book that changed my life......</a><br/>Dec 29, 2021</td></tr></table>
@@ -25,6 +27,4 @@
 <td><a href="https://www.youtube.com/watch?v=196z03cZw_s">Roadmap to Learn Machine Learning in 2022 | Best Roadmap 🔥🔥</a><br/>Dec 25, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=u1x6qQ4Fm8E"><img width="140px" src="https://i.ytimg.com/vi/u1x6qQ4Fm8E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u1x6qQ4Fm8E">How much Maths is needed for Machine Learning??🤷‍♀️🤷‍♀️🤷‍♂️</a><br/>Dec 22, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=73XkkzTAOs0"><img width="140px" src="https://i.ytimg.com/vi/73XkkzTAOs0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=73XkkzTAOs0">How much Maths is needed for Programming and DSA??🤷‍♀️🤷‍♀️🤷‍♂️</a><br/>Dec 21, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
