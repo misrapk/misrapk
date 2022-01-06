@@ -17,7 +17,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oi4pxNaWtO8"><img width="140px" src="https://i.ytimg.com/vi/oi4pxNaWtO8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4qOTUQToOlk"><img width="140px" src="https://i.ytimg.com/vi/4qOTUQToOlk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4qOTUQToOlk">QUADRATIC EQUATION | PART - 1 | TERM -  2 | CBSE</a><br/>Jan 6, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=oi4pxNaWtO8"><img width="140px" src="https://i.ytimg.com/vi/oi4pxNaWtO8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oi4pxNaWtO8">Shukriya ap sb ka!!!!</a><br/>Jan 3, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sRxsjeWaYHM"><img width="140px" src="https://i.ytimg.com/vi/sRxsjeWaYHM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sRxsjeWaYHM">My Honest Engineering Journey in @CGC Landran | 2017 - 2021 | #batchof21</a><br/>Jan 2, 2022</td></tr></table>
@@ -25,6 +27,4 @@
 <td><a href="https://www.youtube.com/watch?v=tJRRrMpJl18">Swagatam 2022!!</a><br/>Jan 1, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rtwMwgJVSUY"><img width="140px" src="https://i.ytimg.com/vi/rtwMwgJVSUY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rtwMwgJVSUY">the book that changed my life......</a><br/>Dec 29, 2021</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=196z03cZw_s"><img width="140px" src="https://i.ytimg.com/vi/196z03cZw_s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=196z03cZw_s">Roadmap to Learn Machine Learning in 2022 | Best Roadmap 🔥🔥</a><br/>Dec 25, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
