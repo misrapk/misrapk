@@ -17,7 +17,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ok5Tl_IJdzM"><img width="140px" src="https://i.ytimg.com/vi/Ok5Tl_IJdzM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mBM3cwHUFw4"><img width="140px" src="https://i.ytimg.com/vi/mBM3cwHUFw4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mBM3cwHUFw4">6. First Revision till Recursion | Basics | Gadar DSA Series | LIVE</a><br/>Jan 9, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ok5Tl_IJdzM"><img width="140px" src="https://i.ytimg.com/vi/Ok5Tl_IJdzM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ok5Tl_IJdzM">Watch these DSA videos before today&#39;s class.....</a><br/>Jan 9, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=seje_nxYofQ"><img width="140px" src="https://i.ytimg.com/vi/seje_nxYofQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=seje_nxYofQ">LinkedIn &amp; Lockdown Changed Nikhil&#39;s Life |  Pk&#39;s Talk | Podcast</a><br/>Jan 9, 2022</td></tr></table>
@@ -25,6 +27,4 @@
 <td><a href="https://www.youtube.com/watch?v=71aTI-emqSY">Things to know before start Learning ML &amp; DSA | Class - 0 | Pre-Tutorial</a><br/>Jan 9, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2Q5KY_guuag"><img width="140px" src="https://i.ytimg.com/vi/2Q5KY_guuag/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2Q5KY_guuag">QUADRATIC EQUATION | PART - 3 | TERM -  2 | CBSE</a><br/>Jan 8, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yBqPTlFQmLg"><img width="140px" src="https://i.ytimg.com/vi/yBqPTlFQmLg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yBqPTlFQmLg">LIVE CLASS ANNOUNCEMENT FOR PROGRAMMERS AND DATA SCIENTIST | 2022</a><br/>Jan 7, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
