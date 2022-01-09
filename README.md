@@ -17,7 +17,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=71aTI-emqSY"><img width="140px" src="https://i.ytimg.com/vi/71aTI-emqSY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=seje_nxYofQ"><img width="140px" src="https://i.ytimg.com/vi/seje_nxYofQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=seje_nxYofQ">LinkedIn &amp; Lockdown Changed Nikhil&#39;s Life |  Pk&#39;s Talk | Podcast</a><br/>Jan 9, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=71aTI-emqSY"><img width="140px" src="https://i.ytimg.com/vi/71aTI-emqSY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=71aTI-emqSY">Things to know before start Learning ML &amp; DSA | Class - 0 | Pre-Tutorial</a><br/>Jan 9, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2Q5KY_guuag"><img width="140px" src="https://i.ytimg.com/vi/2Q5KY_guuag/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2Q5KY_guuag">QUADRATIC EQUATION | PART - 3 | TERM -  2 | CBSE</a><br/>Jan 8, 2022</td></tr></table>
@@ -25,6 +27,4 @@
 <td><a href="https://www.youtube.com/watch?v=yBqPTlFQmLg">LIVE CLASS ANNOUNCEMENT FOR PROGRAMMERS AND DATA SCIENTIST | 2022</a><br/>Jan 7, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1zc2oL-fDOo"><img width="140px" src="https://i.ytimg.com/vi/1zc2oL-fDOo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1zc2oL-fDOo">QUADRATIC EQUATION | PART - 2 | TERM -  2 | CBSE</a><br/>Jan 7, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4qOTUQToOlk"><img width="140px" src="https://i.ytimg.com/vi/4qOTUQToOlk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4qOTUQToOlk">QUADRATIC EQUATION | PART - 1 | TERM -  2 | CBSE</a><br/>Jan 6, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
