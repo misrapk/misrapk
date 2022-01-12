@@ -18,14 +18,14 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ffrvrcsF8is"><img width="140px" src="https://i.ytimg.com/vi/ffrvrcsF8is/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5rg_Evhp-h8"><img width="140px" src="https://i.ytimg.com/vi/5rg_Evhp-h8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5rg_Evhp-h8">Linear Algebra of Linear Regression | Class - 2 | ML Free</a><br/>Jan 12, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=H6jSrhdJN3o"><img width="140px" src="https://i.ytimg.com/vi/H6jSrhdJN3o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=H6jSrhdJN3o">9. Problems on Recursion - II | Basics | Gadar DSA Series | LIVE</a><br/>Jan 12, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ffrvrcsF8is"><img width="140px" src="https://i.ytimg.com/vi/ffrvrcsF8is/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ffrvrcsF8is">8. Problems on Recursion - I | Basics | Gadar DSA Series | LIVE</a><br/>Jan 12, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0m3KsG6l2LA"><img width="140px" src="https://i.ytimg.com/vi/0m3KsG6l2LA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0m3KsG6l2LA">Best Introduction to Machine Learning and Maths Concept | Class - 1 | ML Free</a><br/>Jan 11, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pcGOj_x4KWo"><img width="140px" src="https://i.ytimg.com/vi/pcGOj_x4KWo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pcGOj_x4KWo">7. Types of Recursion and Memory Stack| Basics | Gadar DSA Series | LIVE</a><br/>Jan 11, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mBM3cwHUFw4"><img width="140px" src="https://i.ytimg.com/vi/mBM3cwHUFw4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mBM3cwHUFw4">6. First Revision till Recursion | Basics | Gadar DSA Series | LIVE</a><br/>Jan 10, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ok5Tl_IJdzM"><img width="140px" src="https://i.ytimg.com/vi/Ok5Tl_IJdzM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ok5Tl_IJdzM">Watch these DSA videos before today&#39;s class.....</a><br/>Jan 9, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
