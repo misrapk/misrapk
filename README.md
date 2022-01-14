@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mb1pPk1ThFo"><img width="140px" src="https://i.ytimg.com/vi/Mb1pPk1ThFo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hcBkePTdF1E"><img width="140px" src="https://i.ytimg.com/vi/hcBkePTdF1E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hcBkePTdF1E">Pearson Coefficient, Variance, R Value in Linear Regression | Class - 3 | ML Free</a><br/>Jan 14, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Mb1pPk1ThFo"><img width="140px" src="https://i.ytimg.com/vi/Mb1pPk1ThFo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mb1pPk1ThFo">10. Problems on Recursion - III | Basics | Gadar DSA Series | LIVE</a><br/>Jan 13, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5rg_Evhp-h8"><img width="140px" src="https://i.ytimg.com/vi/5rg_Evhp-h8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5rg_Evhp-h8">Linear Algebra of Linear Regression | Class - 2 | ML Free</a><br/>Jan 13, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=H6jSrhdJN3o">9. Problems on Recursion - II | Basics | Gadar DSA Series | LIVE</a><br/>Jan 13, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ffrvrcsF8is"><img width="140px" src="https://i.ytimg.com/vi/ffrvrcsF8is/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ffrvrcsF8is">8. Problems on Recursion - I | Basics | Gadar DSA Series | LIVE</a><br/>Jan 12, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0m3KsG6l2LA"><img width="140px" src="https://i.ytimg.com/vi/0m3KsG6l2LA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0m3KsG6l2LA">Best Introduction to Machine Learning and Maths Concept | Class - 1 | ML Free</a><br/>Jan 11, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
