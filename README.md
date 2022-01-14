@@ -18,8 +18,8 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CUtx22rh7LU"><img width="140px" src="https://i.ytimg.com/vi/CUtx22rh7LU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CUtx22rh7LU">Errors, Coeff. of Determinant and Gradient Descent in Linear Regression | Class - 4 | ML Free</a><br/>Jan 14, 2022</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=I1ETY7xZuEU"><img width="140px" src="https://i.ytimg.com/vi/I1ETY7xZuEU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=I1ETY7xZuEU">GATE 2022 Admit Card Released.......</a><br/>Jan 14, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hcBkePTdF1E"><img width="140px" src="https://i.ytimg.com/vi/hcBkePTdF1E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hcBkePTdF1E">Pearson Coefficient, Variance, R Value in Linear Regression | Class - 3 | ML Free</a><br/>Jan 14, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Mb1pPk1ThFo"><img width="140px" src="https://i.ytimg.com/vi/Mb1pPk1ThFo/mqdefault.jpg"></a></td>
