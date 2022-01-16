@@ -24,8 +24,8 @@
 <td><a href="https://www.youtube.com/watch?v=I1ETY7xZuEU">GATE 2022 Admit Card Released.......</a><br/>Jan 14, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hcBkePTdF1E"><img width="140px" src="https://i.ytimg.com/vi/hcBkePTdF1E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hcBkePTdF1E">Pearson Coefficient, Variance, R Value in Linear Regression | Class - 3 | ML Free</a><br/>Jan 14, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Mb1pPk1ThFo"><img width="140px" src="https://i.ytimg.com/vi/Mb1pPk1ThFo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Mb1pPk1ThFo">10. Problems on Recursion - III | Basics | Gadar DSA Series | LIVE</a><br/>Jan 13, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5rg_Evhp-h8"><img width="140px" src="https://i.ytimg.com/vi/5rg_Evhp-h8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5rg_Evhp-h8">Linear Algebra of Linear Regression | Class - 2 | ML Free</a><br/>Jan 13, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=H6jSrhdJN3o"><img width="140px" src="https://i.ytimg.com/vi/H6jSrhdJN3o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=H6jSrhdJN3o">9. Problems on Recursion - II | Basics | Gadar DSA Series | LIVE</a><br/>Jan 13, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
