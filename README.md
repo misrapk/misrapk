@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=q3j0Xpmk1rg"><img width="140px" src="https://i.ytimg.com/vi/q3j0Xpmk1rg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wZ9IgCfWysc"><img width="140px" src="https://i.ytimg.com/vi/wZ9IgCfWysc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wZ9IgCfWysc">Exam Date Updated for JEE 2022   #jee2022 #jeemains</a><br/>Mar 14, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=q3j0Xpmk1rg"><img width="140px" src="https://i.ytimg.com/vi/q3j0Xpmk1rg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=q3j0Xpmk1rg">DATE SHEET ANNOUNCED for X and XII CBSE BOARD!!!!</a><br/>Mar 11, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CUtx22rh7LU"><img width="140px" src="https://i.ytimg.com/vi/CUtx22rh7LU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CUtx22rh7LU">Errors, Coeff. of Determinant and Gradient Descent in Linear Regression | Class - 4 | ML Free</a><br/>Jan 15, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=I1ETY7xZuEU">GATE 2022 Admit Card Released.......</a><br/>Jan 14, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hcBkePTdF1E"><img width="140px" src="https://i.ytimg.com/vi/hcBkePTdF1E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hcBkePTdF1E">Pearson Coefficient, Variance, R Value in Linear Regression | Class - 3 | ML Free</a><br/>Jan 14, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5rg_Evhp-h8"><img width="140px" src="https://i.ytimg.com/vi/5rg_Evhp-h8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5rg_Evhp-h8">Linear Algebra of Linear Regression | Class - 2 | ML Free</a><br/>Jan 13, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
