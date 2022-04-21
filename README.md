@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RGhfZlQPIEM"><img width="140px" src="https://i.ytimg.com/vi/RGhfZlQPIEM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GmxXXWLF3Zw"><img width="140px" src="https://i.ytimg.com/vi/GmxXXWLF3Zw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GmxXXWLF3Zw">Introduction to ARRAY | ARRAY| Gadar DSA Series |</a><br/>Apr 21, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RGhfZlQPIEM"><img width="140px" src="https://i.ytimg.com/vi/RGhfZlQPIEM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RGhfZlQPIEM">Free New Portal Launch for Learners | LearningPhase</a><br/>Apr 7, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fEhOck8WK7k"><img width="140px" src="https://i.ytimg.com/vi/fEhOck8WK7k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fEhOck8WK7k">REFLECTION - ONE SHOT | ICSE MATHS | TERM 2 | CLASS 10th</a><br/>Apr 6, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=8mIJ0NMy9N8">College Review | Chandigarh University | Admission, Hostel, Faculty</a><br/>Apr 5, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pp_PjwYCGnw"><img width="140px" src="https://i.ytimg.com/vi/pp_PjwYCGnw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pp_PjwYCGnw">College Review | CGC Landran | Chandigarh Group of Colleges</a><br/>Mar 29, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0Q8typfnReY"><img width="140px" src="https://i.ytimg.com/vi/0Q8typfnReY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0Q8typfnReY">CUET for Class 12th Students | Undergraduation Admission | UGC</a><br/>Mar 26, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
