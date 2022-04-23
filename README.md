@@ -18,12 +18,12 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1JbBXtdm3pU"><img width="140px" src="https://i.ytimg.com/vi/1JbBXtdm3pU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=M-arBL-uHB4"><img width="140px" src="https://i.ytimg.com/vi/M-arBL-uHB4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=M-arBL-uHB4">Increase Size of Array Dynamically | Arrays | Gadar DSA Series</a><br/>Apr 23, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1JbBXtdm3pU"><img width="140px" src="https://i.ytimg.com/vi/1JbBXtdm3pU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1JbBXtdm3pU">Static Array v/s Dynamic Array | Arrays | Gadar DSA Series</a><br/>Apr 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qdmiK0BAxCA"><img width="140px" src="https://i.ytimg.com/vi/qdmiK0BAxCA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qdmiK0BAxCA">Big Update from cbse form 2022-23</a><br/>Apr 21, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=M-arBL-uHB4"><img width="140px" src="https://i.ytimg.com/vi/M-arBL-uHB4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M-arBL-uHB4">Increase Size of Array Dynamically | Arrays | Gadar DSA Series</a><br/>Apr 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GmxXXWLF3Zw"><img width="140px" src="https://i.ytimg.com/vi/GmxXXWLF3Zw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GmxXXWLF3Zw">Introduction to ARRAY | ARRAY| Gadar DSA Series |</a><br/>Apr 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RGhfZlQPIEM"><img width="140px" src="https://i.ytimg.com/vi/RGhfZlQPIEM/mqdefault.jpg"></a></td>
