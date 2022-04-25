@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gOwaz8mmJu0"><img width="140px" src="https://i.ytimg.com/vi/gOwaz8mmJu0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ANniHH6LccI"><img width="140px" src="https://i.ytimg.com/vi/ANniHH6LccI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ANniHH6LccI">Is CGPA really important in college?????</a><br/>Apr 25, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gOwaz8mmJu0"><img width="140px" src="https://i.ytimg.com/vi/gOwaz8mmJu0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gOwaz8mmJu0">Configure Sublime Text for Competitive Programming | For C++</a><br/>Apr 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=M-arBL-uHB4"><img width="140px" src="https://i.ytimg.com/vi/M-arBL-uHB4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=M-arBL-uHB4">Increase Size of Array Dynamically | Arrays | Gadar DSA Series</a><br/>Apr 23, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=1JbBXtdm3pU">Static Array v/s Dynamic Array | Arrays | Gadar DSA Series</a><br/>Apr 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qdmiK0BAxCA"><img width="140px" src="https://i.ytimg.com/vi/qdmiK0BAxCA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qdmiK0BAxCA">Big Update from cbse form 2022-23</a><br/>Apr 21, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GmxXXWLF3Zw"><img width="140px" src="https://i.ytimg.com/vi/GmxXXWLF3Zw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GmxXXWLF3Zw">Introduction to ARRAY | ARRAY| Gadar DSA Series |</a><br/>Apr 21, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
