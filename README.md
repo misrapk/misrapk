@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2er60ZBQl9c"><img width="140px" src="https://i.ytimg.com/vi/2er60ZBQl9c/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bS21gpVqqU0"><img width="140px" src="https://i.ytimg.com/vi/bS21gpVqqU0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bS21gpVqqU0">Array as Abstract Data Type  | Array ADT Theory  | DSA Hindi</a><br/>Apr 27, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2er60ZBQl9c"><img width="140px" src="https://i.ytimg.com/vi/2er60ZBQl9c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2er60ZBQl9c">ADT - Abstract Data Type  | Theory  | DSA Hindi</a><br/>Apr 26, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aSKbsMsfVec"><img width="140px" src="https://i.ytimg.com/vi/aSKbsMsfVec/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aSKbsMsfVec">pro learning tips.....</a><br/>Apr 26, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=62rSaK8RMlM">Increase Size of Array Dynamically | C++ Code | Array</a><br/>Apr 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ANniHH6LccI"><img width="140px" src="https://i.ytimg.com/vi/ANniHH6LccI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ANniHH6LccI">Is CGPA really important in college?????</a><br/>Apr 25, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gOwaz8mmJu0"><img width="140px" src="https://i.ytimg.com/vi/gOwaz8mmJu0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gOwaz8mmJu0">Configure Sublime Text for Competitive Programming | For C++</a><br/>Apr 24, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
