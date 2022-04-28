@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bS21gpVqqU0"><img width="140px" src="https://i.ytimg.com/vi/bS21gpVqqU0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4tHxJ0buqXQ"><img width="140px" src="https://i.ytimg.com/vi/4tHxJ0buqXQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4tHxJ0buqXQ">C ++ Code to display Array as ADT | Array ADT Theory  | DSA Hindi</a><br/>Apr 28, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bS21gpVqqU0"><img width="140px" src="https://i.ytimg.com/vi/bS21gpVqqU0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bS21gpVqqU0">Array as Abstract Data Type  | Array ADT Theory  | DSA Hindi</a><br/>Apr 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2er60ZBQl9c"><img width="140px" src="https://i.ytimg.com/vi/2er60ZBQl9c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2er60ZBQl9c">ADT - Abstract Data Type  | Theory  | DSA Hindi</a><br/>Apr 26, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=aSKbsMsfVec">pro learning tips.....</a><br/>Apr 26, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=62rSaK8RMlM"><img width="140px" src="https://i.ytimg.com/vi/62rSaK8RMlM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=62rSaK8RMlM">Increase Size of Array Dynamically | C++ Code | Array</a><br/>Apr 25, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ANniHH6LccI"><img width="140px" src="https://i.ytimg.com/vi/ANniHH6LccI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ANniHH6LccI">Is CGPA really important in college?????</a><br/>Apr 25, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
