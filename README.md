@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4tHxJ0buqXQ"><img width="140px" src="https://i.ytimg.com/vi/4tHxJ0buqXQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hjM2Kewt83U"><img width="140px" src="https://i.ytimg.com/vi/hjM2Kewt83U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hjM2Kewt83U">Display Function in Array | Abstract Data Type  | Hindi | DSA</a><br/>Apr 29, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4tHxJ0buqXQ"><img width="140px" src="https://i.ytimg.com/vi/4tHxJ0buqXQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4tHxJ0buqXQ">C ++ Code to Create Array as ADT | Array ADT Theory  | DSA Hindi</a><br/>Apr 28, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bS21gpVqqU0"><img width="140px" src="https://i.ytimg.com/vi/bS21gpVqqU0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bS21gpVqqU0">Array as Abstract Data Type  | Array ADT Theory  | DSA Hindi</a><br/>Apr 27, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=2er60ZBQl9c">ADT - Abstract Data Type  | Theory  | DSA Hindi</a><br/>Apr 26, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aSKbsMsfVec"><img width="140px" src="https://i.ytimg.com/vi/aSKbsMsfVec/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aSKbsMsfVec">pro learning tips.....</a><br/>Apr 26, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=62rSaK8RMlM"><img width="140px" src="https://i.ytimg.com/vi/62rSaK8RMlM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=62rSaK8RMlM">Increase Size of Array Dynamically | C++ Code | Array</a><br/>Apr 25, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
