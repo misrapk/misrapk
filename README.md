@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nbl6Lx_xsGY"><img width="140px" src="https://i.ytimg.com/vi/nbl6Lx_xsGY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mGKQrtRFVJE"><img width="140px" src="https://i.ytimg.com/vi/mGKQrtRFVJE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mGKQrtRFVJE">Easy Explanation......</a><br/>May 1, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=nbl6Lx_xsGY"><img width="140px" src="https://i.ytimg.com/vi/nbl6Lx_xsGY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nbl6Lx_xsGY">Append Element in Existing Array | Array ADT  | Hindi | DSA</a><br/>Apr 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zCB_XOMLJic"><img width="140px" src="https://i.ytimg.com/vi/zCB_XOMLJic/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zCB_XOMLJic">PROBABILITY - ONE SHOT | ICSE MATHS | TERM 2 | CLASS 10th</a><br/>Apr 30, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=mJJWnDvIl48">Importance of Resume in Placements...... ft. Akash Narang</a><br/>Apr 29, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hjM2Kewt83U"><img width="140px" src="https://i.ytimg.com/vi/hjM2Kewt83U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hjM2Kewt83U">Display Function in Array | Abstract Data Type  | Hindi | DSA</a><br/>Apr 29, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4tHxJ0buqXQ"><img width="140px" src="https://i.ytimg.com/vi/4tHxJ0buqXQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4tHxJ0buqXQ">C ++ Code to Create Array as ADT | Array ADT Theory  | DSA Hindi</a><br/>Apr 28, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
