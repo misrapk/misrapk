@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=a4QYegRIXBs"><img width="140px" src="https://i.ytimg.com/vi/a4QYegRIXBs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_qkbEQF5cWo"><img width="140px" src="https://i.ytimg.com/vi/_qkbEQF5cWo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_qkbEQF5cWo">Delete Element From Array | Array ADT  | Hindi | DSA</a><br/>May 2, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=a4QYegRIXBs"><img width="140px" src="https://i.ytimg.com/vi/a4QYegRIXBs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a4QYegRIXBs">Insert Element at Particular Index | Array ADT  | Hindi | DSA</a><br/>May 1, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mGKQrtRFVJE"><img width="140px" src="https://i.ytimg.com/vi/mGKQrtRFVJE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mGKQrtRFVJE">Easy Explanation......</a><br/>May 1, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=nbl6Lx_xsGY">Append Element in Existing Array | Array ADT  | Hindi | DSA</a><br/>Apr 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zCB_XOMLJic"><img width="140px" src="https://i.ytimg.com/vi/zCB_XOMLJic/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zCB_XOMLJic">PROBABILITY - ONE SHOT | ICSE MATHS | TERM 2 | CLASS 10th</a><br/>Apr 30, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mJJWnDvIl48"><img width="140px" src="https://i.ytimg.com/vi/mJJWnDvIl48/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mJJWnDvIl48">Importance of Resume in Placements...... ft. Akash Narang</a><br/>Apr 29, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
