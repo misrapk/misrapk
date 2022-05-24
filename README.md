@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kKBJvaQANZc"><img width="140px" src="https://i.ytimg.com/vi/kKBJvaQANZc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_MXP0qR0wok"><img width="140px" src="https://i.ytimg.com/vi/_MXP0qR0wok/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_MXP0qR0wok">Ep.05 | What is Algorithm?? | CSHindi</a><br/>May 24, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kKBJvaQANZc"><img width="140px" src="https://i.ytimg.com/vi/kKBJvaQANZc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kKBJvaQANZc">B. Tech v/s B.E. | Which Course to Choose???</a><br/>May 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sOBBq5TZmxI"><img width="140px" src="https://i.ytimg.com/vi/sOBBq5TZmxI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sOBBq5TZmxI">CBSE Maths Exam Pattern &amp; Syllabus | Class X | 2022-23</a><br/>May 23, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=aaPPw9NG9e4">CSE v/s IT | Which Stream is Better for B.Tech Degree???</a><br/>May 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=O9Yj-f7Lu94"><img width="140px" src="https://i.ytimg.com/vi/O9Yj-f7Lu94/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=O9Yj-f7Lu94">Ep.04 | Misconceptions And Definition of Computer Science | CSHindi</a><br/>May 21, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FmYU16l24eA"><img width="140px" src="https://i.ytimg.com/vi/FmYU16l24eA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FmYU16l24eA">Ep.03 | High-Level And Low-Level Languages, Compiler and Interpreter | CSHindi</a><br/>May 20, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
