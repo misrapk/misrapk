@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_MXP0qR0wok"><img width="140px" src="https://i.ytimg.com/vi/_MXP0qR0wok/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XG6zkm3jMvY"><img width="140px" src="https://i.ytimg.com/vi/XG6zkm3jMvY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XG6zkm3jMvY">What is QUAD FellowShip Program? | QUAD Fellowship प्रोग्राम क्या है? | Study Abroad</a><br/>May 25, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_MXP0qR0wok"><img width="140px" src="https://i.ytimg.com/vi/_MXP0qR0wok/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_MXP0qR0wok">Ep.05 | What is Algorithm?? | CSHindi</a><br/>May 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kKBJvaQANZc"><img width="140px" src="https://i.ytimg.com/vi/kKBJvaQANZc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kKBJvaQANZc">B. Tech v/s B.E. | Which Course to Choose???</a><br/>May 24, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=sOBBq5TZmxI">CBSE Maths Exam Pattern &amp; Syllabus | Class X | 2022-23</a><br/>May 23, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aaPPw9NG9e4"><img width="140px" src="https://i.ytimg.com/vi/aaPPw9NG9e4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aaPPw9NG9e4">CSE v/s IT | Which Stream is Better for B.Tech Degree???</a><br/>May 22, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=O9Yj-f7Lu94"><img width="140px" src="https://i.ytimg.com/vi/O9Yj-f7Lu94/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=O9Yj-f7Lu94">Ep.04 | Misconceptions And Definition of Computer Science | CSHindi</a><br/>May 21, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
