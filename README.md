@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UWjdTY6ii0Y"><img width="140px" src="https://i.ytimg.com/vi/UWjdTY6ii0Y/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eS5-1HdW_MA"><img width="140px" src="https://i.ytimg.com/vi/eS5-1HdW_MA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eS5-1HdW_MA">VS Code Setup &amp; Compiler Installation | C++ Tutorial Hindi | Lecture-2</a><br/>Jun 16, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UWjdTY6ii0Y"><img width="140px" src="https://i.ytimg.com/vi/UWjdTY6ii0Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UWjdTY6ii0Y">Introduction &amp; History of C++ | C++ Tutorial Hindi | Lecture-1</a><br/>Jun 14, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XG6zkm3jMvY"><img width="140px" src="https://i.ytimg.com/vi/XG6zkm3jMvY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XG6zkm3jMvY">What is QUAD FellowShip Program? | QUAD Fellowship प्रोग्राम क्या है? | Study Abroad</a><br/>May 25, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=_MXP0qR0wok">Ep.05 | What is Algorithm?? | CSHindi</a><br/>May 24, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kKBJvaQANZc"><img width="140px" src="https://i.ytimg.com/vi/kKBJvaQANZc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kKBJvaQANZc">B. Tech v/s B.E. | Which Course to Choose???</a><br/>May 24, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sOBBq5TZmxI"><img width="140px" src="https://i.ytimg.com/vi/sOBBq5TZmxI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sOBBq5TZmxI">CBSE Maths Exam Pattern &amp; Syllabus | Class X | 2022-23</a><br/>May 23, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
