@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eS5-1HdW_MA"><img width="140px" src="https://i.ytimg.com/vi/eS5-1HdW_MA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QBbnpph46dE"><img width="140px" src="https://i.ytimg.com/vi/QBbnpph46dE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QBbnpph46dE">Compilation Process of C++ Program | C++ Tutorial Hindi | Lecture-3</a><br/>Jun 17, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eS5-1HdW_MA"><img width="140px" src="https://i.ytimg.com/vi/eS5-1HdW_MA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eS5-1HdW_MA">VS Code Setup &amp; Compiler Installation | C++ Tutorial Hindi | Lecture-2</a><br/>Jun 16, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UWjdTY6ii0Y"><img width="140px" src="https://i.ytimg.com/vi/UWjdTY6ii0Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UWjdTY6ii0Y">Introduction &amp; History of C++ | C++ Tutorial Hindi | Lecture-1</a><br/>Jun 14, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=XG6zkm3jMvY">What is QUAD FellowShip Program? | QUAD Fellowship प्रोग्राम क्या है? | Study Abroad</a><br/>May 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_MXP0qR0wok"><img width="140px" src="https://i.ytimg.com/vi/_MXP0qR0wok/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_MXP0qR0wok">Ep.05 | What is Algorithm?? | CSHindi</a><br/>May 24, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kKBJvaQANZc"><img width="140px" src="https://i.ytimg.com/vi/kKBJvaQANZc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kKBJvaQANZc">B. Tech v/s B.E. | Which Course to Choose???</a><br/>May 24, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
