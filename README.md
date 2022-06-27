@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tm4LakBnmqI"><img width="140px" src="https://i.ytimg.com/vi/tm4LakBnmqI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pEbWQtT5MGw"><img width="140px" src="https://i.ytimg.com/vi/pEbWQtT5MGw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pEbWQtT5MGw">Ep.6 | Take Input  &amp; First Project in C++ | C++ Tutorial Hindi</a><br/>Jun 27, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tm4LakBnmqI"><img width="140px" src="https://i.ytimg.com/vi/tm4LakBnmqI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tm4LakBnmqI">Weekend Live | QnA with PK | #1 | Hindi | Pk Live</a><br/>Jun 26, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=I1zUjnbN7kg"><img width="140px" src="https://i.ytimg.com/vi/I1zUjnbN7kg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=I1zUjnbN7kg">Ep.5 | Data Type Modifiers,  Signed &amp; Unsigned | C++ Tutorial Hindi</a><br/>Jun 22, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=jmtUtgCkPos">Variables &amp; Basic Data Types | C++ Tutorial Hindi | Lecture-4</a><br/>Jun 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QBbnpph46dE"><img width="140px" src="https://i.ytimg.com/vi/QBbnpph46dE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QBbnpph46dE">Compilation Process of C++ Program | C++ Tutorial Hindi | Lecture-3</a><br/>Jun 17, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=eS5-1HdW_MA"><img width="140px" src="https://i.ytimg.com/vi/eS5-1HdW_MA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eS5-1HdW_MA">VS Code Setup &amp; Compiler Installation | C++ Tutorial Hindi | Lecture-2</a><br/>Jun 16, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
