@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pWZkYiQYAeU"><img width="140px" src="https://i.ytimg.com/vi/pWZkYiQYAeU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sYWBIyL9OJA"><img width="140px" src="https://i.ytimg.com/vi/sYWBIyL9OJA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sYWBIyL9OJA">Ep.9 | Conditional Statements &lpar;IF-Else Statement&rpar; | C++ Tutorial Hindi</a><br/>Jul 4, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pWZkYiQYAeU"><img width="140px" src="https://i.ytimg.com/vi/pWZkYiQYAeU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pWZkYiQYAeU">Ep.8 | Operators - Part 1 | C++ Tutorial Hindi</a><br/>Jun 29, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vKsVm0C7ThA"><img width="140px" src="https://i.ytimg.com/vi/vKsVm0C7ThA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vKsVm0C7ThA">Ep.7 | Lifetime and Scope of a Variable | C++ Tutorial Hindi</a><br/>Jun 28, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=pEbWQtT5MGw">Ep.6 | Take Input  &amp; First Project in C++ | C++ Tutorial Hindi</a><br/>Jun 27, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tm4LakBnmqI"><img width="140px" src="https://i.ytimg.com/vi/tm4LakBnmqI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tm4LakBnmqI">Weekend Live | QnA with PK | #1 | Hindi | Pk Live</a><br/>Jun 26, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=I1zUjnbN7kg"><img width="140px" src="https://i.ytimg.com/vi/I1zUjnbN7kg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=I1zUjnbN7kg">Ep.5 | Data Type Modifiers,  Signed &amp; Unsigned | C++ Tutorial Hindi</a><br/>Jun 22, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
