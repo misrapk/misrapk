@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BRNN2lTt2Cg"><img width="140px" src="https://i.ytimg.com/vi/BRNN2lTt2Cg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-JCuAMdYgbE"><img width="140px" src="https://i.ytimg.com/vi/-JCuAMdYgbE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-JCuAMdYgbE">🔴 Ep.12 | Introduction to Loops - &quot;For Loop&quot; | C++ Tutorial Hindi</a><br/>Jul 13, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BRNN2lTt2Cg"><img width="140px" src="https://i.ytimg.com/vi/BRNN2lTt2Cg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BRNN2lTt2Cg">🔴 Ep.11 | Switch and BREAK Statement | C++ Tutorial Hindi</a><br/>Jul 13, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6FhCmhBDDlg"><img width="140px" src="https://i.ytimg.com/vi/6FhCmhBDDlg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6FhCmhBDDlg">Ep.10 | Mistakes while Writing &quot;If-Else&quot; Statements | C++ Tutorial Hindi</a><br/>Jul 5, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=sYWBIyL9OJA">Ep.9 | Conditional Statements &lpar;IF-Else Statement&rpar; | C++ Tutorial Hindi</a><br/>Jul 4, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pWZkYiQYAeU"><img width="140px" src="https://i.ytimg.com/vi/pWZkYiQYAeU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pWZkYiQYAeU">Ep.8 | Operators - Part 1 | C++ Tutorial Hindi</a><br/>Jun 29, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vKsVm0C7ThA"><img width="140px" src="https://i.ytimg.com/vi/vKsVm0C7ThA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vKsVm0C7ThA">Ep.7 | Lifetime and Scope of a Variable | C++ Tutorial Hindi</a><br/>Jun 28, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
