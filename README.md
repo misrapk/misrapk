@@ -18,9 +18,7 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Okmn2o1Umhw"><img width="140px" src="https://i.ytimg.com/vi/Okmn2o1Umhw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Okmn2o1Umhw">🔴 Ep.14 | Solve Any Pattern Printing Within Seconds | Pattern Problems | C++ Tutorial Hindi</a><br/>Jul 15, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xLtuY08Ccf0"><img width="140px" src="https://i.ytimg.com/vi/xLtuY08Ccf0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xLtuY08Ccf0"><img width="140px" src="https://i.ytimg.com/vi/xLtuY08Ccf0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xLtuY08Ccf0">🔴 Ep.13 | While &amp; do-while Loops | C++ Tutorial Hindi</a><br/>Jul 15, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=B2C620VYDhk"><img width="140px" src="https://i.ytimg.com/vi/B2C620VYDhk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=B2C620VYDhk">BIG NEWS for College Admission from UGC | Extended the Registration Date</a><br/>Jul 14, 2022</td></tr></table>
@@ -28,4 +26,6 @@
 <td><a href="https://www.youtube.com/watch?v=-JCuAMdYgbE">🔴 Ep.12 | Introduction to Loops - &quot;For Loop&quot; | C++ Tutorial Hindi</a><br/>Jul 14, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BRNN2lTt2Cg"><img width="140px" src="https://i.ytimg.com/vi/BRNN2lTt2Cg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BRNN2lTt2Cg">🔴 Ep.11 | Switch and BREAK Statement | C++ Tutorial Hindi</a><br/>Jul 13, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6FhCmhBDDlg"><img width="140px" src="https://i.ytimg.com/vi/6FhCmhBDDlg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6FhCmhBDDlg">Ep.10 | Mistakes while Writing &quot;If-Else&quot; Statements | C++ Tutorial Hindi</a><br/>Jul 5, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
