@@ -19,7 +19,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=d-A8rFo3vZ0"><img width="140px" src="https://i.ytimg.com/vi/d-A8rFo3vZ0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=d-A8rFo3vZ0">G. L. Bajaj Inst. of Technology and Management | Placement, Admission, Hostel | College Review</a><br/>Jul 19, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=d-A8rFo3vZ0">G L Bajaj Institute of Management and Technology | Aff. By AKTU | College Review</a><br/>Jul 19, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4ZmVg9f4aVE"><img width="140px" src="https://i.ytimg.com/vi/4ZmVg9f4aVE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4ZmVg9f4aVE">Galgotias University | 147th Eng. University | Placement, Admission, Hostel | College Review</a><br/>Jul 16, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Okmn2o1Umhw"><img width="140px" src="https://i.ytimg.com/vi/Okmn2o1Umhw/mqdefault.jpg"></a></td>
