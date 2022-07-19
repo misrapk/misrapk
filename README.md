@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4ZmVg9f4aVE"><img width="140px" src="https://i.ytimg.com/vi/4ZmVg9f4aVE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=d-A8rFo3vZ0"><img width="140px" src="https://i.ytimg.com/vi/d-A8rFo3vZ0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=d-A8rFo3vZ0">G. L. Bajaj Inst. of Technology and Management | Placement, Admission, Hostel | College Review</a><br/>Jul 19, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4ZmVg9f4aVE"><img width="140px" src="https://i.ytimg.com/vi/4ZmVg9f4aVE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4ZmVg9f4aVE">Galgotias University | 147th Eng. University | Placement, Admission, Hostel | College Review</a><br/>Jul 16, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Okmn2o1Umhw"><img width="140px" src="https://i.ytimg.com/vi/Okmn2o1Umhw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Okmn2o1Umhw">🔴 Ep.14 | Solve Any Pattern Printing Within Seconds | Pattern Problems | C++ Tutorial Hindi</a><br/>Jul 16, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=xLtuY08Ccf0">🔴 Ep.13 | While &amp; do-while Loops | C++ Tutorial Hindi</a><br/>Jul 15, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=B2C620VYDhk"><img width="140px" src="https://i.ytimg.com/vi/B2C620VYDhk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=B2C620VYDhk">BIG NEWS for College Admission from UGC | Extended the Registration Date</a><br/>Jul 14, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-JCuAMdYgbE"><img width="140px" src="https://i.ytimg.com/vi/-JCuAMdYgbE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-JCuAMdYgbE">🔴 Ep.12 | Introduction to Loops - &quot;For Loop&quot; | C++ Tutorial Hindi</a><br/>Jul 14, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
