@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4Kd4bbsfjpA"><img width="140px" src="https://i.ytimg.com/vi/4Kd4bbsfjpA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bXgrP2YDZ5w"><img width="140px" src="https://i.ytimg.com/vi/bXgrP2YDZ5w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bXgrP2YDZ5w">🔴 Ep.16 | Multidimensional Array in C++  | Array Part - 2 | C++ Tutorial Hindi</a><br/>Jul 21, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4Kd4bbsfjpA"><img width="140px" src="https://i.ytimg.com/vi/4Kd4bbsfjpA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4Kd4bbsfjpA">🔴 Ep.15 | Arrays in C++  | Part - 1 | C++ Tutorial Hindi</a><br/>Jul 20, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=d-A8rFo3vZ0"><img width="140px" src="https://i.ytimg.com/vi/d-A8rFo3vZ0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=d-A8rFo3vZ0">G L Bajaj Institute of Management and Technology | Aff. By AKTU | College Review</a><br/>Jul 19, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=4ZmVg9f4aVE">Galgotias University | 147th Eng. University | Placement, Admission, Hostel | College Review</a><br/>Jul 16, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Okmn2o1Umhw"><img width="140px" src="https://i.ytimg.com/vi/Okmn2o1Umhw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Okmn2o1Umhw">🔴 Ep.14 | Solve Any Pattern Printing Within Seconds | Pattern Problems | C++ Tutorial Hindi</a><br/>Jul 16, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xLtuY08Ccf0"><img width="140px" src="https://i.ytimg.com/vi/xLtuY08Ccf0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xLtuY08Ccf0">🔴 Ep.13 | While &amp; do-while Loops | C++ Tutorial Hindi</a><br/>Jul 15, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
