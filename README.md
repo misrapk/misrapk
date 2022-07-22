@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0brNZ2CxWy8"><img width="140px" src="https://i.ytimg.com/vi/0brNZ2CxWy8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OLy5XwIckR4"><img width="140px" src="https://i.ytimg.com/vi/OLy5XwIckR4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OLy5XwIckR4">10th 12th CBSE results out....congrats to.all🔥🔥🔥</a><br/>Jul 22, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0brNZ2CxWy8"><img width="140px" src="https://i.ytimg.com/vi/0brNZ2CxWy8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0brNZ2CxWy8">🔴 Ep.17 | lValue &amp; rValue and Introduction to Pointers  | Pointers Part - 1 | C++ Tutorial Hindi</a><br/>Jul 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1p5qcUpEUNg"><img width="140px" src="https://i.ytimg.com/vi/1p5qcUpEUNg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1p5qcUpEUNg">Sharda University  | Engineering  | College Review</a><br/>Jul 21, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=bXgrP2YDZ5w">🔴 Ep.16 | Multidimensional Array in C++  | Array Part - 2 | C++ Tutorial Hindi</a><br/>Jul 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4Kd4bbsfjpA"><img width="140px" src="https://i.ytimg.com/vi/4Kd4bbsfjpA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4Kd4bbsfjpA">🔴 Ep.15 | Arrays in C++  | Part - 1 | C++ Tutorial Hindi</a><br/>Jul 20, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=d-A8rFo3vZ0"><img width="140px" src="https://i.ytimg.com/vi/d-A8rFo3vZ0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=d-A8rFo3vZ0">G L Bajaj Institute of Management and Technology | Aff. By AKTU | College Review</a><br/>Jul 19, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
