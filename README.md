@@ -22,10 +22,10 @@
 <td><a href="https://www.youtube.com/watch?v=Xs0qlIycBDk">Sunday LIVE Talk | How to be consistent? | Consistent कैसे रहे?</a><br/>Jul 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ld1dw6H3LOo"><img width="140px" src="https://i.ytimg.com/vi/ld1dw6H3LOo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ld1dw6H3LOo">🔴 Ep.18 | Types of Pointers, Pointers and Const  | Pointers Part - 2 | C++ Tutorial Hindi</a><br/>Jul 24, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_KwnH52RFvM"><img width="140px" src="https://i.ytimg.com/vi/_KwnH52RFvM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_KwnH52RFvM">🔴 Study With Me LIVE | Software Engineer&#39;s Morning | 50/10 Pomodoro</a><br/>Jul 23, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OLy5XwIckR4"><img width="140px" src="https://i.ytimg.com/vi/OLy5XwIckR4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OLy5XwIckR4">10th 12th CBSE results out....congrats to.all🔥🔥🔥</a><br/>Jul 22, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0brNZ2CxWy8"><img width="140px" src="https://i.ytimg.com/vi/0brNZ2CxWy8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0brNZ2CxWy8">🔴 Ep.17 | lValue &amp; rValue and Introduction to Pointers  | Pointers Part - 1 | C++ Tutorial Hindi</a><br/>Jul 22, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1p5qcUpEUNg"><img width="140px" src="https://i.ytimg.com/vi/1p5qcUpEUNg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1p5qcUpEUNg">Sharda University  | Engineering  | College Review</a><br/>Jul 21, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
