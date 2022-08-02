@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ncl_DbkePBc"><img width="140px" src="https://i.ytimg.com/vi/ncl_DbkePBc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Y_Zk3B02ogo"><img width="140px" src="https://i.ytimg.com/vi/Y_Zk3B02ogo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Y_Zk3B02ogo">🔴 Ep.20 | Dynamic Memory Allocation | Introduction | C++ Tutorial Hindi</a><br/>Aug 2, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ncl_DbkePBc"><img width="140px" src="https://i.ytimg.com/vi/ncl_DbkePBc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ncl_DbkePBc">🔴 Ep.19 | Arithmatic Operations on Pointer, Pointers and Array | C++ Tutorial Hindi</a><br/>Jul 29, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_KwnH52RFvM"><img width="140px" src="https://i.ytimg.com/vi/_KwnH52RFvM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_KwnH52RFvM">🔴 Study With Me LIVE | Software Engineer&#39;s Morning | 50/10 Pomodoro</a><br/>Jul 26, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=Xs0qlIycBDk">Sunday LIVE Talk | How to be consistent? | Consistent कैसे रहे?</a><br/>Jul 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ld1dw6H3LOo"><img width="140px" src="https://i.ytimg.com/vi/ld1dw6H3LOo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ld1dw6H3LOo">🔴 Ep.18 | Types of Pointers, Pointers and Const  | Pointers Part - 2 | C++ Tutorial Hindi</a><br/>Jul 24, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OLy5XwIckR4"><img width="140px" src="https://i.ytimg.com/vi/OLy5XwIckR4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OLy5XwIckR4">10th 12th CBSE results out....congrats to.all🔥🔥🔥</a><br/>Jul 22, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
