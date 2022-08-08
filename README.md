@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2Bwa-2PoACY"><img width="140px" src="https://i.ytimg.com/vi/2Bwa-2PoACY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rNK_u_aFiVc"><img width="140px" src="https://i.ytimg.com/vi/rNK_u_aFiVc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rNK_u_aFiVc">🔴 Ep.24 | Functions Introduciton, Declaration, Definition &amp; Return Type | C++ Tutorial Hindi</a><br/>Aug 8, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2Bwa-2PoACY"><img width="140px" src="https://i.ytimg.com/vi/2Bwa-2PoACY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2Bwa-2PoACY">🔴 Ep.23 | Complete STRINGS | C++ Tutorial Hindi</a><br/>Aug 7, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vCTbZzbIMJg"><img width="140px" src="https://i.ytimg.com/vi/vCTbZzbIMJg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vCTbZzbIMJg">🔴 Ep.22 | BASICS OF STRINGS, STRING CONCATENATION | STRINGS | C++ Tutorial Hindi</a><br/>Aug 4, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=UdLYcNH33cg">🔴 Ep.21 | Dynamic Memory Allocation of Array | Array | C++ Tutorial Hindi</a><br/>Aug 3, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Y_Zk3B02ogo"><img width="140px" src="https://i.ytimg.com/vi/Y_Zk3B02ogo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Y_Zk3B02ogo">🔴 Ep.20 | Dynamic Memory Allocation | Introduction | C++ Tutorial Hindi</a><br/>Aug 2, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ncl_DbkePBc"><img width="140px" src="https://i.ytimg.com/vi/ncl_DbkePBc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ncl_DbkePBc">🔴 Ep.19 | Arithmatic Operations on Pointer, Pointers and Array | C++ Tutorial Hindi</a><br/>Jul 29, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
