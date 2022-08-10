@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UtO3hW2Q5kc"><img width="140px" src="https://i.ytimg.com/vi/UtO3hW2Q5kc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4WaYtDUJcPk"><img width="140px" src="https://i.ytimg.com/vi/4WaYtDUJcPk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4WaYtDUJcPk">🔴 Ep.25 | Function Paramenters , Pass By Value &amp; Pass by Pointers | C++ Tutorial Hindi</a><br/>Aug 10, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UtO3hW2Q5kc"><img width="140px" src="https://i.ytimg.com/vi/UtO3hW2Q5kc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UtO3hW2Q5kc">🔴 Ep.26 | Scope of Function Arguments | C++ Tutorial Hindi</a><br/>Aug 9, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rNK_u_aFiVc"><img width="140px" src="https://i.ytimg.com/vi/rNK_u_aFiVc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rNK_u_aFiVc">🔴 Ep.24 | Functions Introduciton, Declaration, Definition &amp; Return Type | C++ Tutorial Hindi</a><br/>Aug 9, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=2Bwa-2PoACY">🔴 Ep.23 | Complete STRINGS | C++ Tutorial Hindi</a><br/>Aug 7, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vCTbZzbIMJg"><img width="140px" src="https://i.ytimg.com/vi/vCTbZzbIMJg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vCTbZzbIMJg">🔴 Ep.22 | BASICS OF STRINGS, STRING CONCATENATION | STRINGS | C++ Tutorial Hindi</a><br/>Aug 4, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UdLYcNH33cg"><img width="140px" src="https://i.ytimg.com/vi/UdLYcNH33cg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UdLYcNH33cg">🔴 Ep.21 | Dynamic Memory Allocation of Array | Array | C++ Tutorial Hindi</a><br/>Aug 3, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
