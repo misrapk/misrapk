@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sSgXbBEmlJ4"><img width="140px" src="https://i.ytimg.com/vi/sSgXbBEmlJ4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PcoJeg5A6Bc"><img width="140px" src="https://i.ytimg.com/vi/PcoJeg5A6Bc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PcoJeg5A6Bc">Learning Angular From Scratch with Documentation | LoFi Music + Coding</a><br/>Aug 19, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sSgXbBEmlJ4"><img width="140px" src="https://i.ytimg.com/vi/sSgXbBEmlJ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sSgXbBEmlJ4">For the COLLEGE FRESHERS | How to be better or perfect in college</a><br/>Aug 18, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ALf6hHxMelE"><img width="140px" src="https://i.ytimg.com/vi/ALf6hHxMelE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ALf6hHxMelE">🔴 Ep.29 | Function Overloading | C++ Tutorial Hindi</a><br/>Aug 17, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=YNGsevf0MQw">🔴 Ep.28 | Default Arguments in Functions | C++ Tutorial Hindi</a><br/>Aug 16, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jcf0s34dY1Y"><img width="140px" src="https://i.ytimg.com/vi/jcf0s34dY1Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jcf0s34dY1Y">एक सन्देश भारत के नाम | A message to India | INDIA @75 🇮🇳</a><br/>Aug 15, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YCAfjxgy2bA"><img width="140px" src="https://i.ytimg.com/vi/YCAfjxgy2bA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YCAfjxgy2bA">🔴 Ep.27 | Pass By Value v/s Pass By Reference v/s Pass by Pointers | C++ Tutorial Hindi</a><br/>Aug 10, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
