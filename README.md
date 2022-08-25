@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4CE3STO_me0"><img width="140px" src="https://i.ytimg.com/vi/4CE3STO_me0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3rgFkWa80Xg"><img width="140px" src="https://i.ytimg.com/vi/3rgFkWa80Xg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3rgFkWa80Xg">🔴 Ep.31 | Introduction to Classes &amp; Objects | C++ OOPS Tutorial |  Hindi</a><br/>Aug 25, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4CE3STO_me0"><img width="140px" src="https://i.ytimg.com/vi/4CE3STO_me0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4CE3STO_me0">🔴 Ep.30 | How Function Call Works?? | C++ Tutorial Hindi</a><br/>Aug 23, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xvNU6THwxtQ"><img width="140px" src="https://i.ytimg.com/vi/xvNU6THwxtQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xvNU6THwxtQ">Ask All your doubts before JOINING college | Saturday Live  | Hindi</a><br/>Aug 21, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=PcoJeg5A6Bc">Learning Angular From Scratch with Documentation | LoFi Music + Coding</a><br/>Aug 19, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sSgXbBEmlJ4"><img width="140px" src="https://i.ytimg.com/vi/sSgXbBEmlJ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sSgXbBEmlJ4">For the COLLEGE FRESHERS | How to be better or perfect in college</a><br/>Aug 18, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ALf6hHxMelE"><img width="140px" src="https://i.ytimg.com/vi/ALf6hHxMelE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ALf6hHxMelE">🔴 Ep.29 | Function Overloading | C++ Tutorial Hindi</a><br/>Aug 17, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
