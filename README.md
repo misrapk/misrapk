@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=185fMwWJ3dk"><img width="140px" src="https://i.ytimg.com/vi/185fMwWJ3dk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-7xxWeOiKL4"><img width="140px" src="https://i.ytimg.com/vi/-7xxWeOiKL4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-7xxWeOiKL4">Avoid DISTRACTIONS in College | Weekend LIVE</a><br/>Sep 4, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=185fMwWJ3dk"><img width="140px" src="https://i.ytimg.com/vi/185fMwWJ3dk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=185fMwWJ3dk">🔴 Ep.33 | Access Modifiers - Public v/s Private v/s Protected | C++ OOPS Tutorial |  Hindi</a><br/>Aug 31, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Fst3iqnJ2Aw"><img width="140px" src="https://i.ytimg.com/vi/Fst3iqnJ2Aw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Fst3iqnJ2Aw">🔴 Ep.32 | Write Code for Classes and Objects | C++ OOPS Tutorial |  Hindi</a><br/>Aug 30, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=Id0QGbP1g9A">Weekend Live | ROADMAP FOR 1st YEAR CSE STUDENTS | LIVE</a><br/>Aug 28, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3rgFkWa80Xg"><img width="140px" src="https://i.ytimg.com/vi/3rgFkWa80Xg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3rgFkWa80Xg">🔴 Ep.31 | Introduction to Classes &amp; Objects | C++ OOPS Tutorial |  Hindi</a><br/>Aug 25, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4CE3STO_me0"><img width="140px" src="https://i.ytimg.com/vi/4CE3STO_me0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4CE3STO_me0">🔴 Ep.30 | How Function Call Works?? | C++ Tutorial Hindi</a><br/>Aug 23, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
