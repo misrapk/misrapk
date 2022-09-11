@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7EdiZag0t4g"><img width="140px" src="https://i.ytimg.com/vi/7EdiZag0t4g/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MfQ5JwmKmf0"><img width="140px" src="https://i.ytimg.com/vi/MfQ5JwmKmf0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MfQ5JwmKmf0">Sunday Live | Importance of CGPA in College</a><br/>Sep 11, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7EdiZag0t4g"><img width="140px" src="https://i.ytimg.com/vi/7EdiZag0t4g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7EdiZag0t4g">Say NO to HIGH END Laptops | Cloud Coding | @iNeuron Intelligence</a><br/>Sep 6, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yP-2NlKdEQ4"><img width="140px" src="https://i.ytimg.com/vi/yP-2NlKdEQ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yP-2NlKdEQ4">Happy Teachers Day! | Message to All the teachers!</a><br/>Sep 5, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=-7xxWeOiKL4">Avoid DISTRACTIONS in College | Weekend LIVE</a><br/>Sep 4, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=185fMwWJ3dk"><img width="140px" src="https://i.ytimg.com/vi/185fMwWJ3dk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=185fMwWJ3dk">🔴 Ep.33 | Access Modifiers - Public v/s Private v/s Protected | C++ OOPS Tutorial |  Hindi</a><br/>Aug 31, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Fst3iqnJ2Aw"><img width="140px" src="https://i.ytimg.com/vi/Fst3iqnJ2Aw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Fst3iqnJ2Aw">🔴 Ep.32 | Write Code for Classes and Objects | C++ OOPS Tutorial |  Hindi</a><br/>Aug 30, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
