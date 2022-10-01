@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-akcjA6X9pk"><img width="140px" src="https://i.ytimg.com/vi/-akcjA6X9pk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zPTpbgNOjzs"><img width="140px" src="https://i.ytimg.com/vi/zPTpbgNOjzs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zPTpbgNOjzs">L-2 | Rolle&#39;s Theorem - Theory and Numericals | M-1 with Notes</a><br/>Oct 1, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-akcjA6X9pk"><img width="140px" src="https://i.ytimg.com/vi/-akcjA6X9pk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-akcjA6X9pk">🔴 L-1 | Calculus - Introduction, Leibnitz theorem, Successive Differentiation | M-1 with Notes</a><br/>Sep 28, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0uw0jxoeNws"><img width="140px" src="https://i.ytimg.com/vi/0uw0jxoeNws/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0uw0jxoeNws">🔴 Ep.34 | ENCAPSULATION | C++ OOPS Tutorial |  Hindi</a><br/>Sep 23, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=MfQ5JwmKmf0">Sunday Live | Importance of CGPA in College</a><br/>Sep 12, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7EdiZag0t4g"><img width="140px" src="https://i.ytimg.com/vi/7EdiZag0t4g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7EdiZag0t4g">Say NO to HIGH END Laptops | Cloud Coding | @iNeuron Intelligence</a><br/>Sep 6, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yP-2NlKdEQ4"><img width="140px" src="https://i.ytimg.com/vi/yP-2NlKdEQ4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yP-2NlKdEQ4">Happy Teachers Day! | Message to All the teachers!</a><br/>Sep 5, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
