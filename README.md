@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=353UQr7idt0"><img width="140px" src="https://i.ytimg.com/vi/353UQr7idt0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Q-9VJCkj2dw"><img width="140px" src="https://i.ytimg.com/vi/Q-9VJCkj2dw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Q-9VJCkj2dw">Ep.35 | Constructors - Definition and Types | C++ OOPS Tutorial |  Hindi</a><br/>Oct 25, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=353UQr7idt0"><img width="140px" src="https://i.ytimg.com/vi/353UQr7idt0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=353UQr7idt0">L-4 | Expansion of Functions - Maclaurin&#39;s Series, Taylor&#39;s Series | M-1 with Notes</a><br/>Oct 19, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=39o9FBW2JpQ"><img width="140px" src="https://i.ytimg.com/vi/39o9FBW2JpQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=39o9FBW2JpQ">thank you each and everyone!!!</a><br/>Oct 19, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=375kUuKT1Mg">L-3 | Langrange&#39;s Mean Value Theorem &lpar;MVT&rpar; - Theory and Numericals | M-1 with Notes</a><br/>Oct 3, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zPTpbgNOjzs"><img width="140px" src="https://i.ytimg.com/vi/zPTpbgNOjzs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zPTpbgNOjzs">L-2 | Rolle&#39;s Theorem - Theory and Numericals | M-1 with Notes</a><br/>Oct 1, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-akcjA6X9pk"><img width="140px" src="https://i.ytimg.com/vi/-akcjA6X9pk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-akcjA6X9pk">🔴 L-1 | Calculus - Introduction, Leibnitz theorem, Successive Differentiation | M-1 with Notes</a><br/>Sep 28, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
