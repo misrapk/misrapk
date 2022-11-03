@@ -18,9 +18,7 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3PtAHvhwjV8"><img width="140px" src="https://i.ytimg.com/vi/3PtAHvhwjV8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3PtAHvhwjV8">AVAST LICENSE KEY 2022  AVAST CRACK  BEST ANTIVIRUS 2022  AVAST PREMIUM CRACK</a><br/>Nov 2, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yiGBD9ETGmc"><img width="140px" src="https://i.ytimg.com/vi/yiGBD9ETGmc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yiGBD9ETGmc"><img width="140px" src="https://i.ytimg.com/vi/yiGBD9ETGmc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yiGBD9ETGmc">Ep.36 | Constructor Member Initializer Lists | C++ OOPS Tutorial |  Hindi</a><br/>Oct 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e0GKJO61Wwg"><img width="140px" src="https://i.ytimg.com/vi/e0GKJO61Wwg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e0GKJO61Wwg">BIG NEWS | B.Tech Course अब हिंदी में भी</a><br/>Oct 27, 2022</td></tr></table>
@@ -28,4 +26,6 @@
 <td><a href="https://www.youtube.com/watch?v=Q-9VJCkj2dw">Ep.35 | Constructors - Definition and Types | C++ OOPS Tutorial |  Hindi</a><br/>Oct 25, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=353UQr7idt0"><img width="140px" src="https://i.ytimg.com/vi/353UQr7idt0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=353UQr7idt0">L-4 | Expansion of Functions - Maclaurin&#39;s Series, Taylor&#39;s Series | M-1 with Notes</a><br/>Oct 19, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=39o9FBW2JpQ"><img width="140px" src="https://i.ytimg.com/vi/39o9FBW2JpQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=39o9FBW2JpQ">thank you each and everyone!!!</a><br/>Oct 19, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
