@@ -19,7 +19,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9_dJhFvReyk"><img width="140px" src="https://i.ytimg.com/vi/9_dJhFvReyk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9_dJhFvReyk">How to handle STRESS during Exams??? | General Talk</a><br/>Nov 12, 2022</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=9_dJhFvReyk">How to handle STRESS during Exams??? | General Talk</a><br/>Nov 13, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yiGBD9ETGmc"><img width="140px" src="https://i.ytimg.com/vi/yiGBD9ETGmc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yiGBD9ETGmc">Ep.36 | Constructor Member Initializer Lists | C++ OOPS Tutorial |  Hindi</a><br/>Oct 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e0GKJO61Wwg"><img width="140px" src="https://i.ytimg.com/vi/e0GKJO61Wwg/mqdefault.jpg"></a></td>
