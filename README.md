@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WDerACNoLd8"><img width="140px" src="https://i.ytimg.com/vi/WDerACNoLd8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=c1XqAYibrDs"><img width="140px" src="https://i.ytimg.com/vi/c1XqAYibrDs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=c1XqAYibrDs">Ep.38 | Delegating Constructors | C++ OOPS Tutorial |  Hindi</a><br/>Dec 4, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WDerACNoLd8"><img width="140px" src="https://i.ytimg.com/vi/WDerACNoLd8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WDerACNoLd8">Ep.37 | Constructor Overloading | C++ OOPS Tutorial |  Hindi</a><br/>Dec 3, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9_dJhFvReyk"><img width="140px" src="https://i.ytimg.com/vi/9_dJhFvReyk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9_dJhFvReyk">How to handle STRESS during Exams??? | General Talk</a><br/>Nov 13, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=yiGBD9ETGmc">Ep.36 | Constructor Member Initializer Lists | C++ OOPS Tutorial |  Hindi</a><br/>Oct 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e0GKJO61Wwg"><img width="140px" src="https://i.ytimg.com/vi/e0GKJO61Wwg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e0GKJO61Wwg">BIG NEWS | B.Tech Course अब हिंदी में भी</a><br/>Oct 27, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Q-9VJCkj2dw"><img width="140px" src="https://i.ytimg.com/vi/Q-9VJCkj2dw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Q-9VJCkj2dw">Ep.35 | Constructors - Definition and Types | C++ OOPS Tutorial |  Hindi</a><br/>Oct 25, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
