@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZxFXyphFRnE"><img width="140px" src="https://i.ytimg.com/vi/ZxFXyphFRnE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=13aKbokOMh4"><img width="140px" src="https://i.ytimg.com/vi/13aKbokOMh4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=13aKbokOMh4">Ep.43 | Binary Operator Overloading | C++ OOPS Tutorial |  Hindi</a><br/>Jan 9, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZxFXyphFRnE"><img width="140px" src="https://i.ytimg.com/vi/ZxFXyphFRnE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZxFXyphFRnE">Ep.42 | Increament and Decrement Unary Operator Overloading | C++ OOPS Tutorial |  Hindi</a><br/>Jan 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KWo87koL7f0"><img width="140px" src="https://i.ytimg.com/vi/KWo87koL7f0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KWo87koL7f0">Happy New Year 2023..... ❤️❤️</a><br/>Dec 31, 2022</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=deTCoetssZE">Final QnA of 2022 | PK Live</a><br/>Dec 30, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KdDcPEWK4X0"><img width="140px" src="https://i.ytimg.com/vi/KdDcPEWK4X0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KdDcPEWK4X0">Ep.41 | Introduction to Operator Overloading | C++ OOPS Tutorial |  Hindi</a><br/>Dec 23, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6IdIRvkZhoU"><img width="140px" src="https://i.ytimg.com/vi/6IdIRvkZhoU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6IdIRvkZhoU">Ep.40 | Deep &amp; Shallow Copy Constructor | C++ OOPS Tutorial |  Hindi</a><br/>Dec 14, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
