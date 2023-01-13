@@ -18,9 +18,7 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZBzW0G8V9Hg"><img width="140px" src="https://i.ytimg.com/vi/ZBzW0G8V9Hg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZBzW0G8V9Hg">Ep.44 | First Code of Inheritance &lpar;Basics&rpar; | C++ OOPS Tutorial |  Hindi</a><br/>Jan 13, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4MUl7SwOrZU"><img width="140px" src="https://i.ytimg.com/vi/4MUl7SwOrZU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4MUl7SwOrZU"><img width="140px" src="https://i.ytimg.com/vi/4MUl7SwOrZU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4MUl7SwOrZU">Ep.44 | Introduction and Terminologies in INHERITANCE | C++ OOPS Tutorial |  Hindi</a><br/>Jan 12, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=13aKbokOMh4"><img width="140px" src="https://i.ytimg.com/vi/13aKbokOMh4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=13aKbokOMh4">Ep.43 | Binary Operator Overloading | C++ OOPS Tutorial |  Hindi</a><br/>Jan 9, 2023</td></tr></table>
@@ -28,4 +26,6 @@
 <td><a href="https://www.youtube.com/watch?v=ZxFXyphFRnE">Ep.42 | Increament and Decrement Unary Operator Overloading | C++ OOPS Tutorial |  Hindi</a><br/>Jan 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KWo87koL7f0"><img width="140px" src="https://i.ytimg.com/vi/KWo87koL7f0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KWo87koL7f0">Happy New Year 2023..... ❤️❤️</a><br/>Dec 31, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=deTCoetssZE"><img width="140px" src="https://i.ytimg.com/vi/deTCoetssZE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=deTCoetssZE">Final QnA of 2022 | PK Live</a><br/>Dec 30, 2022</td></tr></table>
 <!-- YOUTUBE:END -->
