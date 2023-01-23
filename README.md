@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uLv9asG1das"><img width="140px" src="https://i.ytimg.com/vi/uLv9asG1das/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9LIWV9nkpn4"><img width="140px" src="https://i.ytimg.com/vi/9LIWV9nkpn4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9LIWV9nkpn4">Best Roadmap for Data structures 2023.  #dsa #roadmap #dsaroadmap #dsa2023 #datastructures</a><br/>Jan 23, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uLv9asG1das"><img width="140px" src="https://i.ytimg.com/vi/uLv9asG1das/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uLv9asG1das">Maths required for DSA.     #datastructures #mathsfordsa #codinghindi #dsa #maths</a><br/>Jan 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TOGhlXBrkCc"><img width="140px" src="https://i.ytimg.com/vi/TOGhlXBrkCc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TOGhlXBrkCc">Ep.46 | Use of CONSTRUCTORS in Inheritance | C++ OOPS Tutorial |  Hindi</a><br/>Jan 21, 2023</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=mManO7ftIog">delete element from array #cpptutorial #array #datastructures #Codinghindi #coding</a><br/>Jan 21, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=youKbHWu7iU"><img width="140px" src="https://i.ytimg.com/vi/youKbHWu7iU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=youKbHWu7iU">Chapter 1 : Fundamentals of Computers | CBSE 11th | Computer Science 2023</a><br/>Jan 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=H20PQUkjdZg"><img width="140px" src="https://i.ytimg.com/vi/H20PQUkjdZg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=H20PQUkjdZg">Control flow of If statement | programming reel #cpptutorial</a><br/>Jan 20, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
