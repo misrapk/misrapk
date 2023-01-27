@@ -18,14 +18,14 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=f48ncX-CrAc"><img width="140px" src="https://i.ytimg.com/vi/f48ncX-CrAc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WOu8LpYmA6E"><img width="140px" src="https://i.ytimg.com/vi/WOu8LpYmA6E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WOu8LpYmA6E">Importance of programming in DSA.     #datastructures #basics #coding #programming #codinghindi</a><br/>Jan 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=N97YNKHNmbE"><img width="140px" src="https://i.ytimg.com/vi/N97YNKHNmbE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N97YNKHNmbE">Chapter 2 : Software Concepts | CBSE 11th | Computer Science 2023</a><br/>Jan 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=f48ncX-CrAc"><img width="140px" src="https://i.ytimg.com/vi/f48ncX-CrAc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=f48ncX-CrAc">Ep.47 | Protected Access Specifier in Inheritance | C++ OOPS Tutorial |  Hindi</a><br/>Jan 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7iQJE5UDRwQ"><img width="140px" src="https://i.ytimg.com/vi/7iQJE5UDRwQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7iQJE5UDRwQ">What is Kaggle??   #machinelearning #kaggle #datastructures #datascience #datascienceroadmap #ml</a><br/>Jan 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9LIWV9nkpn4"><img width="140px" src="https://i.ytimg.com/vi/9LIWV9nkpn4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9LIWV9nkpn4">Best Roadmap for Data structures 2023.  #dsa #roadmap #dsaroadmap #dsa2023 #datastructures</a><br/>Jan 23, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uLv9asG1das"><img width="140px" src="https://i.ytimg.com/vi/uLv9asG1das/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uLv9asG1das">Maths required for DSA.     #datastructures #mathsfordsa #codinghindi #dsa #maths</a><br/>Jan 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TOGhlXBrkCc"><img width="140px" src="https://i.ytimg.com/vi/TOGhlXBrkCc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TOGhlXBrkCc">Ep.46 | Use of CONSTRUCTORS in Inheritance | C++ OOPS Tutorial |  Hindi</a><br/>Jan 21, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
