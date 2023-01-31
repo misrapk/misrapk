@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1y1ZppWYasA"><img width="140px" src="https://i.ytimg.com/vi/1y1ZppWYasA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zFDaTzTpd_w"><img width="140px" src="https://i.ytimg.com/vi/zFDaTzTpd_w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zFDaTzTpd_w">🔴 Ep.48 | Destructors in Inheritance | C++ OOPS Tutorial |  Hindi</a><br/>Jan 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1y1ZppWYasA"><img width="140px" src="https://i.ytimg.com/vi/1y1ZppWYasA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1y1ZppWYasA">Tips for Placement.   #job #placement #collegeplacement #campusplacement2023 #placementtips</a><br/>Jan 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=N97YNKHNmbE"><img width="140px" src="https://i.ytimg.com/vi/N97YNKHNmbE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=N97YNKHNmbE">Chapter 2 : Software Concepts | CBSE 11th | Computer Science 2023</a><br/>Jan 27, 2023</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=WOu8LpYmA6E">Importance of programming in DSA.     #datastructures #basics #coding #programming #codinghindi</a><br/>Jan 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=f48ncX-CrAc"><img width="140px" src="https://i.ytimg.com/vi/f48ncX-CrAc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=f48ncX-CrAc">Ep.47 | Protected Access Specifier in Inheritance | C++ OOPS Tutorial |  Hindi</a><br/>Jan 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7iQJE5UDRwQ"><img width="140px" src="https://i.ytimg.com/vi/7iQJE5UDRwQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7iQJE5UDRwQ">What is Kaggle??   #machinelearning #kaggle #datastructures #datascience #datascienceroadmap #ml</a><br/>Jan 25, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
