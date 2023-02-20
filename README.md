@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XyJJmAGhLbE"><img width="140px" src="https://i.ytimg.com/vi/XyJJmAGhLbE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YWxyzk9c-t4"><img width="140px" src="https://i.ytimg.com/vi/YWxyzk9c-t4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YWxyzk9c-t4">cpu cycles in process.  #datastructures #dsa #datascience #placement #placementtips</a><br/>Feb 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XyJJmAGhLbE"><img width="140px" src="https://i.ytimg.com/vi/XyJJmAGhLbE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XyJJmAGhLbE">random experiment in probability।  #probability #cbse11and12 #icse #randomexperiment</a><br/>Feb 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FkYvaGQ9XBg"><img width="140px" src="https://i.ytimg.com/vi/FkYvaGQ9XBg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FkYvaGQ9XBg">🔴 Ep.50 | Repeated Inheritance | C++ OOPS Tutorial |  Hindi</a><br/>Feb 5, 2023</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=s61zKmZr4IA">power of habits.  #motivation #habitsforsuccess #powerfulmotivation #inspiration #motivationalvideo</a><br/>Feb 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hDJhGlQzv6w"><img width="140px" src="https://i.ytimg.com/vi/hDJhGlQzv6w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hDJhGlQzv6w">🔴 Ep.49 | Multiple Inheritance | C++ OOPS Tutorial |  Hindi</a><br/>Feb 1, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=m_foF50tMZI"><img width="140px" src="https://i.ytimg.com/vi/m_foF50tMZI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=m_foF50tMZI">Memory Allocation Array!    #datastructure #array #memoryallocation #coding #coder #programming</a><br/>Jan 31, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
