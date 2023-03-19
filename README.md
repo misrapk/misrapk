@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OWD0YokH0sQ"><img width="140px" src="https://i.ytimg.com/vi/OWD0YokH0sQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=14_AvViFY6c"><img width="140px" src="https://i.ytimg.com/vi/14_AvViFY6c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=14_AvViFY6c">Data Science Bachelors Degree from IIT Madras WITHOUT JEE Exam!!! 😲😲😲</a><br/>Mar 19, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OWD0YokH0sQ"><img width="140px" src="https://i.ytimg.com/vi/OWD0YokH0sQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OWD0YokH0sQ">Only 1 exam for JEE, CUET and NEET 😲😲.       #cuet #jee #neet</a><br/>Mar 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hlHrKu9zha0"><img width="140px" src="https://i.ytimg.com/vi/hlHrKu9zha0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hlHrKu9zha0">Holi Surpirse! Channel Launch!💥💥</a><br/>Mar 8, 2023</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=i5CZtyf0lrA">Ep.53 | Generic/Template Functions | C++ OOPS Tutorial |  Hindi</a><br/>Mar 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pOu_hEjUxxs"><img width="140px" src="https://i.ytimg.com/vi/pOu_hEjUxxs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pOu_hEjUxxs">Ep.52 | Abstract Classes | C++ OOPS Tutorial |  Hindi</a><br/>Mar 6, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pL35z7FysfQ"><img width="140px" src="https://i.ytimg.com/vi/pL35z7FysfQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pL35z7FysfQ">🔴 Ep.51 | Polymorphism &amp; Virtual Function | C++ OOPS Tutorial |  Hindi</a><br/>Feb 27, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
