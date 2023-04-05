@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sqKxjOrjHBM"><img width="140px" src="https://i.ytimg.com/vi/sqKxjOrjHBM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YnauEPSrW5E"><img width="140px" src="https://i.ytimg.com/vi/YnauEPSrW5E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YnauEPSrW5E">Ques.1: IS UNIQUE Characters in String? | Explanation + Code | Interview तthaस्तु</a><br/>Apr 5, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sqKxjOrjHBM"><img width="140px" src="https://i.ytimg.com/vi/sqKxjOrjHBM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sqKxjOrjHBM">New Coding Series | Programming Questions</a><br/>Apr 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=14_AvViFY6c"><img width="140px" src="https://i.ytimg.com/vi/14_AvViFY6c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=14_AvViFY6c">Data Science Bachelors Degree from IIT Madras WITHOUT JEE Exam!!! 😲😲😲</a><br/>Mar 19, 2023</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=OWD0YokH0sQ">Only 1 exam for JEE, CUET and NEET 😲😲.       #cuet #jee #neet</a><br/>Mar 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hlHrKu9zha0"><img width="140px" src="https://i.ytimg.com/vi/hlHrKu9zha0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hlHrKu9zha0">Holi Surpirse! Channel Launch!💥💥</a><br/>Mar 8, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=i5CZtyf0lrA"><img width="140px" src="https://i.ytimg.com/vi/i5CZtyf0lrA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=i5CZtyf0lrA">Ep.53 | Generic/Template Functions | C++ OOPS Tutorial |  Hindi</a><br/>Mar 8, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
