@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5fLvw02539A"><img width="140px" src="https://i.ytimg.com/vi/5fLvw02539A/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=t9Wix75617I"><img width="140px" src="https://i.ytimg.com/vi/t9Wix75617I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=t9Wix75617I">Ques.3: URLify - Replace spaces in a string with &quot;%20&quot; | Explanation + Code | Interview तthaस्तु</a><br/>Apr 7, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5fLvw02539A"><img width="140px" src="https://i.ytimg.com/vi/5fLvw02539A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5fLvw02539A">Ques.2: Check Permutation in String? | Explanation + Code | Interview तthaस्तु</a><br/>Apr 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YnauEPSrW5E"><img width="140px" src="https://i.ytimg.com/vi/YnauEPSrW5E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YnauEPSrW5E">Ques.1: IS UNIQUE Characters in String? | Explanation + Code | Interview तthaस्तु</a><br/>Apr 5, 2023</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=sqKxjOrjHBM">New Coding Series | Programming Questions</a><br/>Apr 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=14_AvViFY6c"><img width="140px" src="https://i.ytimg.com/vi/14_AvViFY6c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=14_AvViFY6c">Data Science Bachelors Degree from IIT Madras WITHOUT JEE Exam!!! 😲😲😲</a><br/>Mar 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OWD0YokH0sQ"><img width="140px" src="https://i.ytimg.com/vi/OWD0YokH0sQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OWD0YokH0sQ">Only 1 exam for JEE, CUET and NEET 😲😲.       #cuet #jee #neet</a><br/>Mar 17, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
