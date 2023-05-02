@@ -18,9 +18,7 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=l8eqnsFP9kQ"><img width="140px" src="https://i.ytimg.com/vi/l8eqnsFP9kQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=l8eqnsFP9kQ">Complete C++ Tutorial for Begineers in 23 Hours | Hindi</a><br/>May 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ymJjK5oo3l8"><img width="140px" src="https://i.ytimg.com/vi/ymJjK5oo3l8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ymJjK5oo3l8"><img width="140px" src="https://i.ytimg.com/vi/ymJjK5oo3l8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ymJjK5oo3l8">Ques.4: Permutation of a Palindrome| Explanation + Code | Interview तthaस्तु</a><br/>Apr 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=t9Wix75617I"><img width="140px" src="https://i.ytimg.com/vi/t9Wix75617I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t9Wix75617I">Ques.3: URLify - Replace spaces in a string with &quot;%20&quot; | Explanation + Code | Interview तthaस्तु</a><br/>Apr 7, 2023</td></tr></table>
@@ -28,4 +26,6 @@
 <td><a href="https://www.youtube.com/watch?v=5fLvw02539A">Ques.2: Check Permutation in String? | Explanation + Code | Interview तthaस्तु</a><br/>Apr 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YnauEPSrW5E"><img width="140px" src="https://i.ytimg.com/vi/YnauEPSrW5E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YnauEPSrW5E">Ques.1: IS UNIQUE Characters in String? | Explanation + Code | Interview तthaस्तु</a><br/>Apr 5, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sqKxjOrjHBM"><img width="140px" src="https://i.ytimg.com/vi/sqKxjOrjHBM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sqKxjOrjHBM">New Coding Series | Programming Questions</a><br/>Apr 4, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
