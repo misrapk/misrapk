@@ -19,7 +19,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=t-4swp_j6kA"><img width="140px" src="https://i.ytimg.com/vi/t-4swp_j6kA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t-4swp_j6kA">Complete C++ Tutorial for Begineers in 23 Hours | Part -1 | Hindi</a><br/>May 6, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=t-4swp_j6kA">Part - 1 | Complete C++ Tutorial for Begineers in 23 Hours | Hindi</a><br/>May 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ymJjK5oo3l8"><img width="140px" src="https://i.ytimg.com/vi/ymJjK5oo3l8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ymJjK5oo3l8">Ques.4: Permutation of a Palindrome| Explanation + Code | Interview तthaस्तु</a><br/>Apr 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=t9Wix75617I"><img width="140px" src="https://i.ytimg.com/vi/t9Wix75617I/mqdefault.jpg"></a></td>
