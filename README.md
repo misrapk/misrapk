@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jDL5wtIC2cQ"><img width="140px" src="https://i.ytimg.com/vi/jDL5wtIC2cQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0objKOLnpnE"><img width="140px" src="https://i.ytimg.com/vi/0objKOLnpnE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0objKOLnpnE">Changes in NCERT text book for 10th CBSE</a><br/>Jun 2, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jDL5wtIC2cQ"><img width="140px" src="https://i.ytimg.com/vi/jDL5wtIC2cQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jDL5wtIC2cQ">Part -2 | Complete C++ Tutorial for Begineers in 23 Hours | Hindi</a><br/>May 7, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=t-4swp_j6kA"><img width="140px" src="https://i.ytimg.com/vi/t-4swp_j6kA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t-4swp_j6kA">Part - 1 | Complete C++ Tutorial for Begineers in 23 Hours | Hindi</a><br/>May 6, 2023</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=ymJjK5oo3l8">Ques.4: Permutation of a Palindrome| Explanation + Code | Interview तthaस्तु</a><br/>Apr 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=t9Wix75617I"><img width="140px" src="https://i.ytimg.com/vi/t9Wix75617I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t9Wix75617I">Ques.3: URLify - Replace spaces in a string with &quot;%20&quot; | Explanation + Code | Interview तthaस्तु</a><br/>Apr 7, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5fLvw02539A"><img width="140px" src="https://i.ytimg.com/vi/5fLvw02539A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5fLvw02539A">Ques.2: Check Permutation in String? | Explanation + Code | Interview तthaस्तु</a><br/>Apr 6, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
