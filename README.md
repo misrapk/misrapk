@@ -19,7 +19,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QKnPMZuWcV4"><img width="140px" src="https://i.ytimg.com/vi/QKnPMZuWcV4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QKnPMZuWcV4">#thread #instagramthread #twitter #muskvszukerberg #musk #instagram #trendingshorts</a><br/>Jul 6, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=QKnPMZuWcV4">Thread on Insta!</a><br/>Jul 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0objKOLnpnE"><img width="140px" src="https://i.ytimg.com/vi/0objKOLnpnE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0objKOLnpnE">Changes in NCERT text book for 10th CBSE</a><br/>Jun 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jDL5wtIC2cQ"><img width="140px" src="https://i.ytimg.com/vi/jDL5wtIC2cQ/mqdefault.jpg"></a></td>
