@@ -19,7 +19,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ghW6EeILTD4"><img width="140px" src="https://i.ytimg.com/vi/ghW6EeILTD4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ghW6EeILTD4">Learn to Code with Me | LoFi Music + Coding</a><br/>Jul 9, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=ghW6EeILTD4">Building ChatBot using Deep Learning | LoFi Music | LIVE</a><br/>Jul 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Noqrq8FkJjI"><img width="140px" src="https://i.ytimg.com/vi/Noqrq8FkJjI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Noqrq8FkJjI">Why we use OOP???</a><br/>Jul 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QKnPMZuWcV4"><img width="140px" src="https://i.ytimg.com/vi/QKnPMZuWcV4/mqdefault.jpg"></a></td>
