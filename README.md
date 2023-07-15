@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ghW6EeILTD4"><img width="140px" src="https://i.ytimg.com/vi/ghW6EeILTD4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sGKVNoq2a9M"><img width="140px" src="https://i.ytimg.com/vi/sGKVNoq2a9M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sGKVNoq2a9M">Chat Lock in whatsapp</a><br/>Jul 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ghW6EeILTD4"><img width="140px" src="https://i.ytimg.com/vi/ghW6EeILTD4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ghW6EeILTD4">Building ChatBot using Deep Learning | LoFi Music | LIVE</a><br/>Jul 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Noqrq8FkJjI"><img width="140px" src="https://i.ytimg.com/vi/Noqrq8FkJjI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Noqrq8FkJjI">Why we use OOP???</a><br/>Jul 8, 2023</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=QKnPMZuWcV4">Thread on Insta!</a><br/>Jul 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0objKOLnpnE"><img width="140px" src="https://i.ytimg.com/vi/0objKOLnpnE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0objKOLnpnE">Changes in NCERT text book for 10th CBSE</a><br/>Jun 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jDL5wtIC2cQ"><img width="140px" src="https://i.ytimg.com/vi/jDL5wtIC2cQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jDL5wtIC2cQ">Part -2 | Complete C++ Tutorial for Begineers in 23 Hours | Hindi</a><br/>May 7, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
