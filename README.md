@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vK1J0lmWaCI"><img width="140px" src="https://i.ytimg.com/vi/vK1J0lmWaCI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jIP30PYQ_-o"><img width="140px" src="https://i.ytimg.com/vi/jIP30PYQ_-o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jIP30PYQ_-o">How to Handle Coding Question in Technical Interview?? | HTHTI</a><br/>Sep 29, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vK1J0lmWaCI"><img width="140px" src="https://i.ytimg.com/vi/vK1J0lmWaCI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vK1J0lmWaCI">What to do after Losing or getting laid off from Job?? | General Talk</a><br/>Sep 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=U2l4fB6yZsw"><img width="140px" src="https://i.ytimg.com/vi/U2l4fB6yZsw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U2l4fB6yZsw">History of SMARTPHONE!!!</a><br/>Jul 16, 2023</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=sGKVNoq2a9M">Chat Lock in whatsapp</a><br/>Jul 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ghW6EeILTD4"><img width="140px" src="https://i.ytimg.com/vi/ghW6EeILTD4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ghW6EeILTD4">Building ChatBot using Deep Learning | LoFi Music | LIVE</a><br/>Jul 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Noqrq8FkJjI"><img width="140px" src="https://i.ytimg.com/vi/Noqrq8FkJjI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Noqrq8FkJjI">Why we use OOP???</a><br/>Jul 8, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
