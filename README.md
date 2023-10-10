@@ -19,7 +19,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QMe-pLJ-kFc"><img width="140px" src="https://i.ytimg.com/vi/QMe-pLJ-kFc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QMe-pLJ-kFc">From Idea to Reality: The Ultimate Guide to Software Project Success 🔥🔥</a><br/>Oct 9, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=QMe-pLJ-kFc">From Idea to Reality: The Ultimate Guide to Software Project Success 🔥🔥</a><br/>Oct 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=i66Hkx05Iek"><img width="140px" src="https://i.ytimg.com/vi/i66Hkx05Iek/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=i66Hkx05Iek">Part 2 - DIY Technique | How to OPTIMIZE any code?? | HTHTI</a><br/>Oct 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eg-5g5DXnWA"><img width="140px" src="https://i.ytimg.com/vi/eg-5g5DXnWA/mqdefault.jpg"></a></td>
