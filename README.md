@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QMe-pLJ-kFc"><img width="140px" src="https://i.ytimg.com/vi/QMe-pLJ-kFc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Xk_mgD9zGIk"><img width="140px" src="https://i.ytimg.com/vi/Xk_mgD9zGIk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Xk_mgD9zGIk">&quot;Day 7 Triumphs: X-ray Projects, Python Preparations, and Rohit&#39;s Sixes! 🚀✨ | #30DaysChallenge&quot;</a><br/>Oct 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=QMe-pLJ-kFc"><img width="140px" src="https://i.ytimg.com/vi/QMe-pLJ-kFc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QMe-pLJ-kFc">From Idea to Reality: The Ultimate Guide to Software Project Success 🔥🔥</a><br/>Oct 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=i66Hkx05Iek"><img width="140px" src="https://i.ytimg.com/vi/i66Hkx05Iek/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=i66Hkx05Iek">Part 2 - DIY Technique | How to OPTIMIZE any code?? | HTHTI</a><br/>Oct 6, 2023</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=eg-5g5DXnWA">How to OPTIMIZE any code?? | Part 1 - BUD Technique| HTHTI</a><br/>Oct 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bxoSNk4yx5k"><img width="140px" src="https://i.ytimg.com/vi/bxoSNk4yx5k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bxoSNk4yx5k">Edit Message on Whatsapp 🔥</a><br/>Sep 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jIP30PYQ_-o"><img width="140px" src="https://i.ytimg.com/vi/jIP30PYQ_-o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jIP30PYQ_-o">How to Handle Coding Question in Technical Interview?? | HTHTI</a><br/>Sep 29, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
