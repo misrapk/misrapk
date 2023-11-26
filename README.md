@@ -18,7 +18,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hSJfYsBBb7U"><img width="140px" src="https://i.ytimg.com/vi/hSJfYsBBb7U/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NYYQeRHL6KU"><img width="140px" src="https://i.ytimg.com/vi/NYYQeRHL6KU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NYYQeRHL6KU">#2 Dependent v/s Independent Variable in ML | #mlshortsbyPK</a><br/>Nov 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hSJfYsBBb7U"><img width="140px" src="https://i.ytimg.com/vi/hSJfYsBBb7U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hSJfYsBBb7U">Precision v/s Accuracy in ML | #mlshortsbyPK</a><br/>Nov 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1IPf-z1Pdgg"><img width="140px" src="https://i.ytimg.com/vi/1IPf-z1Pdgg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1IPf-z1Pdgg">Admission in NEET - UG without Biology in 12th CBSE</a><br/>Nov 23, 2023</td></tr></table>
@@ -26,6 +28,4 @@
 <td><a href="https://www.youtube.com/watch?v=uDFm6nsNprM">How to Validate your Resume???</a><br/>Oct 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zdLS2hqArao"><img width="140px" src="https://i.ytimg.com/vi/zdLS2hqArao/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zdLS2hqArao">Promotion Time - No Ads</a><br/>Oct 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Xk_mgD9zGIk"><img width="140px" src="https://i.ytimg.com/vi/Xk_mgD9zGIk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Xk_mgD9zGIk">&quot;Day 7 Triumphs: X-ray Projects, Python Preparations, and Rohit&#39;s Sixes! 🚀✨ | #30DaysChallenge&quot;</a><br/>Oct 11, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
