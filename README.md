@@ -18,14 +18,14 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NYYQeRHL6KU"><img width="140px" src="https://i.ytimg.com/vi/NYYQeRHL6KU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KVywiEy--lU"><img width="140px" src="https://i.ytimg.com/vi/KVywiEy--lU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KVywiEy--lU">Tools Installation and First Code | Python</a><br/>Nov 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-OVjPxSQC1s"><img width="140px" src="https://i.ytimg.com/vi/-OVjPxSQC1s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-OVjPxSQC1s">Should you learn Python in 2024??? | Python</a><br/>Nov 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NYYQeRHL6KU"><img width="140px" src="https://i.ytimg.com/vi/NYYQeRHL6KU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NYYQeRHL6KU">#2 Dependent v/s Independent Variable in ML | #mlshortsbyPK</a><br/>Nov 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hSJfYsBBb7U"><img width="140px" src="https://i.ytimg.com/vi/hSJfYsBBb7U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hSJfYsBBb7U">Precision v/s Accuracy in ML | #mlshortsbyPK</a><br/>Nov 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1IPf-z1Pdgg"><img width="140px" src="https://i.ytimg.com/vi/1IPf-z1Pdgg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1IPf-z1Pdgg">Admission in NEET - UG without Biology in 12th CBSE</a><br/>Nov 23, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uDFm6nsNprM"><img width="140px" src="https://i.ytimg.com/vi/uDFm6nsNprM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uDFm6nsNprM">How to Validate your Resume???</a><br/>Oct 29, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zdLS2hqArao"><img width="140px" src="https://i.ytimg.com/vi/zdLS2hqArao/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zdLS2hqArao">Promotion Time - No Ads</a><br/>Oct 16, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
