@@ -8,9 +8,8 @@
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Machine Learning/Javascript/C++/Python or Angular/React/Express/Django
 - 📫 &nbsp;How to reach me: [@letscode_daily](https://www.instagram.com/letscode_daily/) or [@peeyushkmisra](https://www.instagram.com/peeyushkmisra/)
-- 👨‍💻 &nbsp;Contact me for freelancing projects [Linkedin](https://www.linkedin.com/in/peeyushkmisra/)
 - ⚡ &nbsp;Fun fact: I love to teach and learn
-- 🎙 &nbsp;Listen My Podcast me on [Spotify](https://open.spotify.com/show/5HlTHA4yxnj56N1klajpQc)
+
 
 ### Profile Summary
 
