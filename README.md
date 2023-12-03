@@ -17,7 +17,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KVywiEy--lU"><img width="140px" src="https://i.ytimg.com/vi/KVywiEy--lU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=T9ZeIXzUQsw"><img width="140px" src="https://i.ytimg.com/vi/T9ZeIXzUQsw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=T9ZeIXzUQsw">4. Take User Input | Python</a><br/>Dec 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KVywiEy--lU"><img width="140px" src="https://i.ytimg.com/vi/KVywiEy--lU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KVywiEy--lU">Tools Installation and First Code | Python</a><br/>Dec 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SBFAPGvIpBM"><img width="140px" src="https://i.ytimg.com/vi/SBFAPGvIpBM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SBFAPGvIpBM">3. Basics of Strings | Python</a><br/>Dec 1, 2023</td></tr></table>
@@ -25,6 +27,4 @@
 <td><a href="https://www.youtube.com/watch?v=-OVjPxSQC1s">Should you learn Python in 2024??? | Python</a><br/>Dec 1, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NYYQeRHL6KU"><img width="140px" src="https://i.ytimg.com/vi/NYYQeRHL6KU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NYYQeRHL6KU">#2 Dependent v/s Independent Variable in ML | #mlshortsbyPK</a><br/>Nov 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=hSJfYsBBb7U"><img width="140px" src="https://i.ytimg.com/vi/hSJfYsBBb7U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hSJfYsBBb7U">Precision v/s Accuracy in ML | #mlshortsbyPK</a><br/>Nov 25, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
