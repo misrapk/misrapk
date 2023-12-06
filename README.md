@@ -17,14 +17,14 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EvlUeSjlK7g"><img width="140px" src="https://i.ytimg.com/vi/EvlUeSjlK7g/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3y8fzbOb1iQ"><img width="140px" src="https://i.ytimg.com/vi/3y8fzbOb1iQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3y8fzbOb1iQ">7. Type Conversion | Python | हिन्दी</a><br/>Dec 6, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=IJerriS-sF8"><img width="140px" src="https://i.ytimg.com/vi/IJerriS-sF8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IJerriS-sF8">6. Play with Strings and Numbers Data Type | Python | हिन्दी</a><br/>Dec 6, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EvlUeSjlK7g"><img width="140px" src="https://i.ytimg.com/vi/EvlUeSjlK7g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EvlUeSjlK7g">Variables in python</a><br/>Dec 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Tfb3GG1vkwk"><img width="140px" src="https://i.ytimg.com/vi/Tfb3GG1vkwk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Tfb3GG1vkwk">5. All about Variables | Python | हिन्दी</a><br/>Dec 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=IJerriS-sF8"><img width="140px" src="https://i.ytimg.com/vi/IJerriS-sF8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IJerriS-sF8">6. Play with Strings and Numbers Data Type | Python | हिन्दी</a><br/>Dec 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=T9ZeIXzUQsw"><img width="140px" src="https://i.ytimg.com/vi/T9ZeIXzUQsw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=T9ZeIXzUQsw">4. Take User Input | Python</a><br/>Dec 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SBFAPGvIpBM"><img width="140px" src="https://i.ytimg.com/vi/SBFAPGvIpBM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SBFAPGvIpBM">3. Basics of Strings | Python</a><br/>Dec 3, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
