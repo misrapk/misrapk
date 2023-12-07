@@ -18,7 +18,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3y8fzbOb1iQ"><img width="140px" src="https://i.ytimg.com/vi/3y8fzbOb1iQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3y8fzbOb1iQ">7. Type Conversion | Python | हिन्दी</a><br/>Dec 6, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=3y8fzbOb1iQ">7. Type Conversion | Python | हिन्दी</a><br/>Dec 7, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IJerriS-sF8"><img width="140px" src="https://i.ytimg.com/vi/IJerriS-sF8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IJerriS-sF8">6. Play with Strings and Numbers Data Type | Python | हिन्दी</a><br/>Dec 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EvlUeSjlK7g"><img width="140px" src="https://i.ytimg.com/vi/EvlUeSjlK7g/mqdefault.jpg"></a></td>
