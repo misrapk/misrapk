@@ -17,7 +17,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=USuVAjFZcEM"><img width="140px" src="https://i.ytimg.com/vi/USuVAjFZcEM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=37IyWkPalyE"><img width="140px" src="https://i.ytimg.com/vi/37IyWkPalyE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=37IyWkPalyE">11. Remove Elements from List | Python | हिन्दी</a><br/>Dec 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=USuVAjFZcEM"><img width="140px" src="https://i.ytimg.com/vi/USuVAjFZcEM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=USuVAjFZcEM">11. Lists - Part 1 | Python | हिन्दी</a><br/>Dec 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XdWbDX9uGdk"><img width="140px" src="https://i.ytimg.com/vi/XdWbDX9uGdk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XdWbDX9uGdk">10. Project -1 - Authorise User | Python | हिन्दी</a><br/>Dec 10, 2023</td></tr></table>
@@ -25,6 +27,4 @@
 <td><a href="https://www.youtube.com/watch?v=Rjwd7av0cUg">9. Conditional Statements &lpar;if-else&rpar; | Python | हिन्दी</a><br/>Dec 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8uW0QX_jgeU"><img width="140px" src="https://i.ytimg.com/vi/8uW0QX_jgeU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8uW0QX_jgeU">8. Boolean Operators | Python | हिन्दी</a><br/>Dec 8, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3y8fzbOb1iQ"><img width="140px" src="https://i.ytimg.com/vi/3y8fzbOb1iQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3y8fzbOb1iQ">7. Type Conversion | Python | हिन्दी</a><br/>Dec 7, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
