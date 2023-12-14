@@ -17,7 +17,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tV-hT0bgHLI"><img width="140px" src="https://i.ytimg.com/vi/tV-hT0bgHLI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Cu2QT4tj25Y"><img width="140px" src="https://i.ytimg.com/vi/Cu2QT4tj25Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Cu2QT4tj25Y">What is Google GEMINI &amp; Bard? Learn and Test using Python | New AI Era | Hindi</a><br/>Dec 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tV-hT0bgHLI"><img width="140px" src="https://i.ytimg.com/vi/tV-hT0bgHLI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tV-hT0bgHLI">14. Solution of Task 1| Python | हिन्दी</a><br/>Dec 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9VtEPAd6KhM"><img width="140px" src="https://i.ytimg.com/vi/9VtEPAd6KhM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9VtEPAd6KhM">13. Organise List Elements using Sorting| Python | हिन्दी</a><br/>Dec 13, 2023</td></tr></table>
@@ -25,6 +27,4 @@
 <td><a href="https://www.youtube.com/watch?v=37IyWkPalyE">12. Remove Elements from List | Python | हिन्दी</a><br/>Dec 12, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=USuVAjFZcEM"><img width="140px" src="https://i.ytimg.com/vi/USuVAjFZcEM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=USuVAjFZcEM">11. Lists - Part 1 | Python | हिन्दी</a><br/>Dec 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XdWbDX9uGdk"><img width="140px" src="https://i.ytimg.com/vi/XdWbDX9uGdk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XdWbDX9uGdk">10. Project -1 - Authorise User | Python | हिन्दी</a><br/>Dec 10, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
