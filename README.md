@@ -17,7 +17,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6q2SD02AFh0"><img width="140px" src="https://i.ytimg.com/vi/6q2SD02AFh0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nwIx1l3BWJ8"><img width="140px" src="https://i.ytimg.com/vi/nwIx1l3BWJ8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nwIx1l3BWJ8">2024 - The End of COMPETITIVE PROGRAMMING☠️⚰️</a><br/>Dec 17, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6q2SD02AFh0"><img width="140px" src="https://i.ytimg.com/vi/6q2SD02AFh0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6q2SD02AFh0">16. Range Function in For Loop | Python | हिन्दी</a><br/>Dec 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zcP8rA48q4I"><img width="140px" src="https://i.ytimg.com/vi/zcP8rA48q4I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zcP8rA48q4I">15. For Loop | Python | हिन्दी</a><br/>Dec 15, 2023</td></tr></table>
@@ -25,6 +27,4 @@
 <td><a href="https://www.youtube.com/watch?v=Cu2QT4tj25Y">What is Google GEMINI &amp; Bard? Learn and Test using Python | New AI Era | Hindi</a><br/>Dec 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tV-hT0bgHLI"><img width="140px" src="https://i.ytimg.com/vi/tV-hT0bgHLI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tV-hT0bgHLI">14. Solution of Task 1| Python | हिन्दी</a><br/>Dec 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9VtEPAd6KhM"><img width="140px" src="https://i.ytimg.com/vi/9VtEPAd6KhM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9VtEPAd6KhM">13. Organise List Elements using Sorting| Python | हिन्दी</a><br/>Dec 13, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
