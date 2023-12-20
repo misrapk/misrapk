@@ -17,7 +17,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9pSMcLcOU50"><img width="140px" src="https://i.ytimg.com/vi/9pSMcLcOU50/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OizC804k9K4"><img width="140px" src="https://i.ytimg.com/vi/OizC804k9K4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OizC804k9K4">19. While Loop | Python | हिन्दी</a><br/>Dec 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9pSMcLcOU50"><img width="140px" src="https://i.ytimg.com/vi/9pSMcLcOU50/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9pSMcLcOU50">18. Tuples | Python | हिन्दी</a><br/>Dec 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xqYkbdAy6OU"><img width="140px" src="https://i.ytimg.com/vi/xqYkbdAy6OU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xqYkbdAy6OU">17. List Slicing | Python | हिन्दी</a><br/>Dec 18, 2023</td></tr></table>
@@ -25,6 +27,4 @@
 <td><a href="https://www.youtube.com/watch?v=nwIx1l3BWJ8">2024 - The End of COMPETITIVE PROGRAMMING☠️⚰️</a><br/>Dec 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6q2SD02AFh0"><img width="140px" src="https://i.ytimg.com/vi/6q2SD02AFh0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6q2SD02AFh0">16. Range Function in For Loop | Python | हिन्दी</a><br/>Dec 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zcP8rA48q4I"><img width="140px" src="https://i.ytimg.com/vi/zcP8rA48q4I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zcP8rA48q4I">15. For Loop | Python | हिन्दी</a><br/>Dec 15, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
