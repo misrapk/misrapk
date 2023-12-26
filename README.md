@@ -17,14 +17,14 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6abFciC5Ft4"><img width="140px" src="https://i.ytimg.com/vi/6abFciC5Ft4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6abFciC5Ft4">23. Functions  | Python | हिन्दी</a><br/>Dec 25, 2023</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CNxtB3dIOMg"><img width="140px" src="https://i.ytimg.com/vi/CNxtB3dIOMg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CNxtB3dIOMg">25. Positional &amp; Keyword Arguments  | Python | हिन्दी</a><br/>Dec 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6abFciC5Ft4"><img width="140px" src="https://i.ytimg.com/vi/6abFciC5Ft4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6abFciC5Ft4">24. Functions  | Python | हिन्दी</a><br/>Dec 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rKf7LprP-sg"><img width="140px" src="https://i.ytimg.com/vi/rKf7LprP-sg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rKf7LprP-sg">23. Nested Dictionary | Python | हिन्दी</a><br/>Dec 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=b2fuo63noJ0"><img width="140px" src="https://i.ytimg.com/vi/b2fuo63noJ0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=b2fuo63noJ0">22. Traverse using loop in Dictionary | Python | हिन्दी</a><br/>Dec 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-8IMJl0_rrg"><img width="140px" src="https://i.ytimg.com/vi/-8IMJl0_rrg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-8IMJl0_rrg">21. Dictionary | Python | हिन्दी</a><br/>Dec 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AM9ibLYlUcw"><img width="140px" src="https://i.ytimg.com/vi/AM9ibLYlUcw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AM9ibLYlUcw">What is Competitive Programming? #competitiveprogramming  #programming #coding #competition</a><br/>Dec 22, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
