@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/peeyushkmisra?style=social)
 
 - 🔭 &nbsp;I’m currently working on an amazing project :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 🌱 &nbsp;I’m currently learning more conepts of Data Science
 - 💬 &nbsp;Ask me about anything related to Machine Learning/Javascript/C++/Python or Angular/React/Express/Django
 - 📫 &nbsp;How to reach me: [@letscode_daily](https://www.instagram.com/letscode_daily/) or [@peeyushkmisra](https://www.instagram.com/peeyushkmisra/)
 - ⚡ &nbsp;Fun fact: I love to teach and learn
