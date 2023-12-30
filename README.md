@@ -51,7 +51,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZRmUaV2Ojoc"><img width="140px" src="https://i.ytimg.com/vi/ZRmUaV2Ojoc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=swxNL_sS-lw"><img width="140px" src="https://i.ytimg.com/vi/swxNL_sS-lw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=swxNL_sS-lw">Why is LeetCode the best for Interview prep?</a><br/>Dec 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZRmUaV2Ojoc"><img width="140px" src="https://i.ytimg.com/vi/ZRmUaV2Ojoc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZRmUaV2Ojoc">29. Apply INHERITANCE concept in Python | Python | हिन्दी</a><br/>Dec 30, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2Dc_NvSEkSI"><img width="140px" src="https://i.ytimg.com/vi/2Dc_NvSEkSI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2Dc_NvSEkSI">How to learn any SKILL in 2024??🤔🤔</a><br/>Dec 30, 2023</td></tr></table>
@@ -59,6 +61,4 @@
 <td><a href="https://www.youtube.com/watch?v=C0NGWYrB9zE">28. Create User Class for Ecommerce | Python | हिन्दी</a><br/>Dec 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DKlCXFVXgq0"><img width="140px" src="https://i.ytimg.com/vi/DKlCXFVXgq0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DKlCXFVXgq0">27. How to use Classes and Objects in E-Commerce Website | Python | हिन्दी</a><br/>Dec 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sq588cill7A"><img width="140px" src="https://i.ytimg.com/vi/sq588cill7A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sq588cill7A">26. How to Return Value from Function| Python | हिन्दी</a><br/>Dec 27, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
