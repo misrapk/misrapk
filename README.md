@@ -51,7 +51,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=C0NGWYrB9zE"><img width="140px" src="https://i.ytimg.com/vi/C0NGWYrB9zE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2Dc_NvSEkSI"><img width="140px" src="https://i.ytimg.com/vi/2Dc_NvSEkSI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2Dc_NvSEkSI">How to learn any SKILL in 2024??🤔🤔</a><br/>Dec 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=C0NGWYrB9zE"><img width="140px" src="https://i.ytimg.com/vi/C0NGWYrB9zE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C0NGWYrB9zE">28. Create User Class for Ecommerce | Python | हिन्दी</a><br/>Dec 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DKlCXFVXgq0"><img width="140px" src="https://i.ytimg.com/vi/DKlCXFVXgq0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DKlCXFVXgq0">27. How to use Classes and Objects in E-Commerce Website | Python | हिन्दी</a><br/>Dec 28, 2023</td></tr></table>
@@ -59,6 +61,4 @@
 <td><a href="https://www.youtube.com/watch?v=sq588cill7A">26. How to Return Value from Function| Python | हिन्दी</a><br/>Dec 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CNxtB3dIOMg"><img width="140px" src="https://i.ytimg.com/vi/CNxtB3dIOMg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CNxtB3dIOMg">25. Positional &amp; Keyword Arguments  | Python | हिन्दी</a><br/>Dec 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6abFciC5Ft4"><img width="140px" src="https://i.ytimg.com/vi/6abFciC5Ft4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6abFciC5Ft4">24. Functions  | Python | हिन्दी</a><br/>Dec 25, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
