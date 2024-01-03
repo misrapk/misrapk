@@ -52,7 +52,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sDPrQJnMsBI"><img width="140px" src="https://i.ytimg.com/vi/sDPrQJnMsBI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xvgBMPuPZIM"><img width="140px" src="https://i.ytimg.com/vi/xvgBMPuPZIM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xvgBMPuPZIM">Day 3/100.  #100daysofcode</a><br/>Jan 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sDPrQJnMsBI"><img width="140px" src="https://i.ytimg.com/vi/sDPrQJnMsBI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sDPrQJnMsBI">32. Save Product info in Files using FILE HANDLING | Python | हिन्दी</a><br/>Jan 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rdcqUZ0PLjA"><img width="140px" src="https://i.ytimg.com/vi/rdcqUZ0PLjA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rdcqUZ0PLjA">Day 2 of #100daysofcode</a><br/>Jan 2, 2024</td></tr></table>
@@ -60,6 +62,4 @@
 <td><a href="https://www.youtube.com/watch?v=-nJ9w2WGotI">31. Break Classes into MODULES | Python | हिन्दी</a><br/>Jan 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=12rGl3kzBlo"><img width="140px" src="https://i.ytimg.com/vi/12rGl3kzBlo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=12rGl3kzBlo">30. INHERITANCE Code in Ecommerce Project | Python | हिन्दी</a><br/>Jan 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MDAq2n6Tinw"><img width="140px" src="https://i.ytimg.com/vi/MDAq2n6Tinw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MDAq2n6Tinw">HAPPY NEW YEAR 2024!!! 🥳🎉</a><br/>Jan 1, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
