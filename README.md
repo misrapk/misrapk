@@ -52,7 +52,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kAQloJ_7KLI"><img width="140px" src="https://i.ytimg.com/vi/kAQloJ_7KLI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=COtig4fGXmc"><img width="140px" src="https://i.ytimg.com/vi/COtig4fGXmc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=COtig4fGXmc">#day11 of #100daysofcode</a><br/>Jan 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kAQloJ_7KLI"><img width="140px" src="https://i.ytimg.com/vi/kAQloJ_7KLI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kAQloJ_7KLI">Complete Python from Begineer to Advance in one Video | 2024</a><br/>Jan 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FRMmkPyGhY4"><img width="140px" src="https://i.ytimg.com/vi/FRMmkPyGhY4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FRMmkPyGhY4">Day 10 of #100daysofcode</a><br/>Jan 11, 2024</td></tr></table>
@@ -60,6 +62,4 @@
 <td><a href="https://www.youtube.com/watch?v=YV3udW4qlDA">Do you know your purpose of learning?? #howtolearn</a><br/>Jan 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EixlpePchrc"><img width="140px" src="https://i.ytimg.com/vi/EixlpePchrc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EixlpePchrc">day 9 of #100daysofcode</a><br/>Jan 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fgwPJ-uKVn8"><img width="140px" src="https://i.ytimg.com/vi/fgwPJ-uKVn8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fgwPJ-uKVn8">day 7 - 8 of #100daysofcode</a><br/>Jan 8, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
