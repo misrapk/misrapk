@@ -52,10 +52,10 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=COtig4fGXmc"><img width="140px" src="https://i.ytimg.com/vi/COtig4fGXmc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kAQloJ_7KLI"><img width="140px" src="https://i.ytimg.com/vi/kAQloJ_7KLI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kAQloJ_7KLI">Complete Python from Begineer to Advance in one Video | 2024</a><br/>Jan 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=COtig4fGXmc"><img width="140px" src="https://i.ytimg.com/vi/COtig4fGXmc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=COtig4fGXmc">#day11 of #100daysofcode</a><br/>Jan 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kAQloJ_7KLI"><img width="140px" src="https://i.ytimg.com/vi/kAQloJ_7KLI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kAQloJ_7KLI">Complete Python from Begineer to Advance in one Video | 2024</a><br/>Jan 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FRMmkPyGhY4"><img width="140px" src="https://i.ytimg.com/vi/FRMmkPyGhY4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FRMmkPyGhY4">Day 10 of #100daysofcode</a><br/>Jan 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YV3udW4qlDA"><img width="140px" src="https://i.ytimg.com/vi/YV3udW4qlDA/mqdefault.jpg"></a></td>
