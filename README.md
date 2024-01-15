@@ -52,7 +52,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pn46gGNif5A"><img width="140px" src="https://i.ytimg.com/vi/pn46gGNif5A/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OJC2TqYWhzo"><img width="140px" src="https://i.ytimg.com/vi/OJC2TqYWhzo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OJC2TqYWhzo">Day 1 | Shipping Charges Probelm | 30 Days Python | Hindi</a><br/>Jan 15, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pn46gGNif5A"><img width="140px" src="https://i.ytimg.com/vi/pn46gGNif5A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pn46gGNif5A">Day 12-14 of #100daysofcode</a><br/>Jan 14, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6HbdhwbMpPc"><img width="140px" src="https://i.ytimg.com/vi/6HbdhwbMpPc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6HbdhwbMpPc">Advance Maths topic for Competitive Programming #programmingtips</a><br/>Jan 13, 2024</td></tr></table>
@@ -60,6 +62,4 @@
 <td><a href="https://www.youtube.com/watch?v=kAQloJ_7KLI">Complete Python from Begineer to Advance in one Video | 2024</a><br/>Jan 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=COtig4fGXmc"><img width="140px" src="https://i.ytimg.com/vi/COtig4fGXmc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=COtig4fGXmc">#day11 of #100daysofcode</a><br/>Jan 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FRMmkPyGhY4"><img width="140px" src="https://i.ytimg.com/vi/FRMmkPyGhY4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FRMmkPyGhY4">Day 10 of #100daysofcode</a><br/>Jan 11, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
