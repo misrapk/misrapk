@@ -52,7 +52,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gaJZgi34YV8"><img width="140px" src="https://i.ytimg.com/vi/gaJZgi34YV8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lsRKNtpdvHg"><img width="140px" src="https://i.ytimg.com/vi/lsRKNtpdvHg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lsRKNtpdvHg">New Guidelines for Indian Coaching Institutes | 2024</a><br/>Jan 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gaJZgi34YV8"><img width="140px" src="https://i.ytimg.com/vi/gaJZgi34YV8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gaJZgi34YV8">Day 17 | Challenged my self to complete Statistics in 2 weeks</a><br/>Jan 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=C0TGNGcvlAg"><img width="140px" src="https://i.ytimg.com/vi/C0TGNGcvlAg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C0TGNGcvlAg">Project 3 | Tossing Coin App | 30 Days Python | Hindi</a><br/>Jan 17, 2024</td></tr></table>
@@ -60,6 +62,4 @@
 <td><a href="https://www.youtube.com/watch?v=xP9Uo3NtnS0">Project 2 | Guessing Number | 30 Days Python | Hindi</a><br/>Jan 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OJC2TqYWhzo"><img width="140px" src="https://i.ytimg.com/vi/OJC2TqYWhzo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OJC2TqYWhzo">Day 1 | Shipping Charges Probelm | 30 Days Python | Hindi</a><br/>Jan 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pn46gGNif5A"><img width="140px" src="https://i.ytimg.com/vi/pn46gGNif5A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pn46gGNif5A">Day 12-14 of #100daysofcode</a><br/>Jan 14, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
