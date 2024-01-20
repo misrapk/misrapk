@@ -52,7 +52,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ADgsO9KoFhY"><img width="140px" src="https://i.ytimg.com/vi/ADgsO9KoFhY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tG0x_z1tLXc"><img width="140px" src="https://i.ytimg.com/vi/tG0x_z1tLXc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tG0x_z1tLXc">Project 6 | Polling App for decision making | 30 Days Python | Hindi</a><br/>Jan 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ADgsO9KoFhY"><img width="140px" src="https://i.ytimg.com/vi/ADgsO9KoFhY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ADgsO9KoFhY">Project 5 | Store User info in database | 30 Days Python | Hindi</a><br/>Jan 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=njM1C32G2ow"><img width="140px" src="https://i.ytimg.com/vi/njM1C32G2ow/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=njM1C32G2ow">Project 4 | Voting App | 30 Days Python | Hindi</a><br/>Jan 20, 2024</td></tr></table>
@@ -60,6 +62,4 @@
 <td><a href="https://www.youtube.com/watch?v=lsRKNtpdvHg">New Guidelines for Indian Coaching Institutes | 2024</a><br/>Jan 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gaJZgi34YV8"><img width="140px" src="https://i.ytimg.com/vi/gaJZgi34YV8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gaJZgi34YV8">Day 17 | Challenged my self to complete Statistics in 2 weeks</a><br/>Jan 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=C0TGNGcvlAg"><img width="140px" src="https://i.ytimg.com/vi/C0TGNGcvlAg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C0TGNGcvlAg">Project 3 | Tossing Coin App | 30 Days Python | Hindi</a><br/>Jan 17, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
