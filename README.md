@@ -52,7 +52,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IRrpJtRMGmQ"><img width="140px" src="https://i.ytimg.com/vi/IRrpJtRMGmQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7hXeL1eZ9V4"><img width="140px" src="https://i.ytimg.com/vi/7hXeL1eZ9V4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7hXeL1eZ9V4">Mini Web Project 6.    #webdeveloper #webproject</a><br/>Feb 8, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=IRrpJtRMGmQ"><img width="140px" src="https://i.ytimg.com/vi/IRrpJtRMGmQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IRrpJtRMGmQ">Day 21 of #100daysofcode</a><br/>Feb 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mRmpJLn9DqQ"><img width="140px" src="https://i.ytimg.com/vi/mRmpJLn9DqQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mRmpJLn9DqQ">I Got Scammed | Fraud Call Scam | Kaese Bache? @DelhiPoliceYT</a><br/>Feb 4, 2024</td></tr></table>
@@ -60,6 +62,4 @@
 <td><a href="https://www.youtube.com/watch?v=S1mpiCTlDvk">Project 2/50 - Progress Slider     #html #css #webdeveloper</a><br/>Feb 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8lg8JaVe9bo"><img width="140px" src="https://i.ytimg.com/vi/8lg8JaVe9bo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8lg8JaVe9bo">Project 1 of 50: Expanding Cards</a><br/>Jan 31, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tG0x_z1tLXc"><img width="140px" src="https://i.ytimg.com/vi/tG0x_z1tLXc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tG0x_z1tLXc">Project 6 | Polling App for decision making | 30 Days Python | Hindi</a><br/>Jan 22, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
