@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EXpEPOBJ4yE"><img width="140px" src="https://i.ytimg.com/vi/EXpEPOBJ4yE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oUAq8H4b7n0"><img width="140px" src="https://i.ytimg.com/vi/oUAq8H4b7n0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oUAq8H4b7n0">when do we use BiG data ??  #datascience #statistics</a><br/>Feb 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EXpEPOBJ4yE"><img width="140px" src="https://i.ytimg.com/vi/EXpEPOBJ4yE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EXpEPOBJ4yE">Does Size Matters in Data Science??  | Statistics | Hindi</a><br/>Feb 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GZZ9DkR9Aec"><img width="140px" src="https://i.ytimg.com/vi/GZZ9DkR9Aec/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GZZ9DkR9Aec">Mini Web Project 7 #webproject</a><br/>Feb 9, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=7hXeL1eZ9V4">Mini Web Project 6.    #webdeveloper #webproject</a><br/>Feb 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IRrpJtRMGmQ"><img width="140px" src="https://i.ytimg.com/vi/IRrpJtRMGmQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IRrpJtRMGmQ">Day 21 of #100daysofcode</a><br/>Feb 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mRmpJLn9DqQ"><img width="140px" src="https://i.ytimg.com/vi/mRmpJLn9DqQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mRmpJLn9DqQ">I Got Scammed | Fraud Call Scam | Kaese Bache? @DelhiPoliceYT</a><br/>Feb 4, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
