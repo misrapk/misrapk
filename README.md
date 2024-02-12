@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bNoeQSqW_I0"><img width="140px" src="https://i.ytimg.com/vi/bNoeQSqW_I0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jG6OzJvnwbg"><img width="140px" src="https://i.ytimg.com/vi/jG6OzJvnwbg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jG6OzJvnwbg">3. Bias and Sample Bias | Statistics | Hindi</a><br/>Feb 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bNoeQSqW_I0"><img width="140px" src="https://i.ytimg.com/vi/bNoeQSqW_I0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bNoeQSqW_I0">2. Population v/s Sample  | Statistics | Hindi</a><br/>Feb 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oUAq8H4b7n0"><img width="140px" src="https://i.ytimg.com/vi/oUAq8H4b7n0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oUAq8H4b7n0">when do we use BiG data ??  #datascience #statistics</a><br/>Feb 10, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=EXpEPOBJ4yE">Does Size Matters in Data Science??  | Statistics | Hindi</a><br/>Feb 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GZZ9DkR9Aec"><img width="140px" src="https://i.ytimg.com/vi/GZZ9DkR9Aec/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GZZ9DkR9Aec">Mini Web Project 7 #webproject</a><br/>Feb 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7hXeL1eZ9V4"><img width="140px" src="https://i.ytimg.com/vi/7hXeL1eZ9V4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7hXeL1eZ9V4">Mini Web Project 6.    #webdeveloper #webproject</a><br/>Feb 8, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
