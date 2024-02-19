@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JxiSZmLd-t4"><img width="140px" src="https://i.ytimg.com/vi/JxiSZmLd-t4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Y-zqNcCzDxo"><img width="140px" src="https://i.ytimg.com/vi/Y-zqNcCzDxo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Y-zqNcCzDxo">Customized Sound Band using HTML CSS and JS #webproject</a><br/>Feb 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=JxiSZmLd-t4"><img width="140px" src="https://i.ytimg.com/vi/JxiSZmLd-t4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JxiSZmLd-t4">4. Variable and Types of Variables | Statistics | Hindi</a><br/>Feb 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jG6OzJvnwbg"><img width="140px" src="https://i.ytimg.com/vi/jG6OzJvnwbg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jG6OzJvnwbg">3. Bias and Sample Bias | Statistics | Hindi</a><br/>Feb 12, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=bNoeQSqW_I0">2. Population v/s Sample  | Statistics | Hindi</a><br/>Feb 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oUAq8H4b7n0"><img width="140px" src="https://i.ytimg.com/vi/oUAq8H4b7n0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oUAq8H4b7n0">when do we use BiG data ??  #datascience #statistics</a><br/>Feb 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EXpEPOBJ4yE"><img width="140px" src="https://i.ytimg.com/vi/EXpEPOBJ4yE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EXpEPOBJ4yE">Does Size Matters in Data Science??  | Statistics | Hindi</a><br/>Feb 9, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
