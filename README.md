@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=S41Dru8dgvE"><img width="140px" src="https://i.ytimg.com/vi/S41Dru8dgvE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YRbpAoTEK5Q"><img width="140px" src="https://i.ytimg.com/vi/YRbpAoTEK5Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YRbpAoTEK5Q">Finally we are 2K🔥</a><br/>Mar 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=S41Dru8dgvE"><img width="140px" src="https://i.ytimg.com/vi/S41Dru8dgvE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S41Dru8dgvE">Clear your Baiscs First!!!    #programming #learningTips #learningvideos #education #funny</a><br/>Mar 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-9mR4V6FUrw"><img width="140px" src="https://i.ytimg.com/vi/-9mR4V6FUrw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-9mR4V6FUrw">Mini Web Project - Drink Water Tracker  #webproject</a><br/>Feb 20, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=Y-zqNcCzDxo">Customized Sound Band using HTML CSS and JS #webproject</a><br/>Feb 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JxiSZmLd-t4"><img width="140px" src="https://i.ytimg.com/vi/JxiSZmLd-t4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JxiSZmLd-t4">4. Variable and Types of Variables | Statistics | Hindi</a><br/>Feb 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jG6OzJvnwbg"><img width="140px" src="https://i.ytimg.com/vi/jG6OzJvnwbg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jG6OzJvnwbg">3. Bias and Sample Bias | Statistics | Hindi</a><br/>Feb 12, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
