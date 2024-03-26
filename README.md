@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=g2Rl-YwsLto"><img width="140px" src="https://i.ytimg.com/vi/g2Rl-YwsLto/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jCi_VVz-Das"><img width="140px" src="https://i.ytimg.com/vi/jCi_VVz-Das/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jCi_VVz-Das">Top Engineering &amp; Research Entrance Exams | After 12th | Apply 2024</a><br/>Mar 26, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=g2Rl-YwsLto"><img width="140px" src="https://i.ytimg.com/vi/g2Rl-YwsLto/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g2Rl-YwsLto">AI software Engineer. #shocking #ai #softwaredeveloper</a><br/>Mar 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=F1bd1veCeYM"><img width="140px" src="https://i.ytimg.com/vi/F1bd1veCeYM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=F1bd1veCeYM">Your Life Your Dreams!!!           #motivation #lifestyle</a><br/>Mar 7, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=YRbpAoTEK5Q">Finally we are 2K🔥| Thank You</a><br/>Mar 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=S41Dru8dgvE"><img width="140px" src="https://i.ytimg.com/vi/S41Dru8dgvE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S41Dru8dgvE">Clear your Baiscs First!!!    #programming #learningTips #learningvideos #education #funny</a><br/>Mar 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-9mR4V6FUrw"><img width="140px" src="https://i.ytimg.com/vi/-9mR4V6FUrw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-9mR4V6FUrw">Mini Web Project - Drink Water Tracker  #webproject</a><br/>Feb 20, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
