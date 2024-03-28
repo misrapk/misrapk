@@ -53,8 +53,8 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5rnSN3WT41s"><img width="140px" src="https://i.ytimg.com/vi/5rnSN3WT41s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5rnSN3WT41s">Live QnA | Career Guidence for all!</a><br/>Mar 28, 2024</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iLGFDftFsBw"><img width="140px" src="https://i.ytimg.com/vi/iLGFDftFsBw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iLGFDftFsBw">Live QnA | Career Guidence for all!</a><br/>Mar 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0O3EnYHO_Mw"><img width="140px" src="https://i.ytimg.com/vi/0O3EnYHO_Mw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0O3EnYHO_Mw">Admission opens for UG in DU #du #delhiuniversity</a><br/>Mar 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jCi_VVz-Das"><img width="140px" src="https://i.ytimg.com/vi/jCi_VVz-Das/mqdefault.jpg"></a></td>
