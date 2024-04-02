@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MPrYPTs2IJg"><img width="140px" src="https://i.ytimg.com/vi/MPrYPTs2IJg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=I3M3BtIjfd8"><img width="140px" src="https://i.ytimg.com/vi/I3M3BtIjfd8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=I3M3BtIjfd8">New Series Launch!!! 2024</a><br/>Apr 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MPrYPTs2IJg"><img width="140px" src="https://i.ytimg.com/vi/MPrYPTs2IJg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MPrYPTs2IJg">Live again. Ask your doubts! First Vertical Live</a><br/>Mar 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5ISPTKBhz6E"><img width="140px" src="https://i.ytimg.com/vi/5ISPTKBhz6E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5ISPTKBhz6E">Live QnA | Career Guidence for all!</a><br/>Mar 29, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=0O3EnYHO_Mw">Admission opens for UG in DU #du #delhiuniversity</a><br/>Mar 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jCi_VVz-Das"><img width="140px" src="https://i.ytimg.com/vi/jCi_VVz-Das/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jCi_VVz-Das">Top Engineering &amp; Research Entrance Exams | After 12th | Apply 2024</a><br/>Mar 26, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=g2Rl-YwsLto"><img width="140px" src="https://i.ytimg.com/vi/g2Rl-YwsLto/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=g2Rl-YwsLto">AI software Engineer. #shocking #ai #softwaredeveloper</a><br/>Mar 15, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
