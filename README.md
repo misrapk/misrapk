@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Bunzp8Mcvss"><img width="140px" src="https://i.ytimg.com/vi/Bunzp8Mcvss/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Bunzp8Mcvss">WHY learn DBMS? | 02 | #dbmsSeries</a><br/>Apr 2, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Bunzp8Mcvss">WHY learn DBMS? | 02 | #dbmsSeries</a><br/>Apr 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=I3M3BtIjfd8"><img width="140px" src="https://i.ytimg.com/vi/I3M3BtIjfd8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=I3M3BtIjfd8">New Series Launch!!! 2024</a><br/>Apr 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MPrYPTs2IJg"><img width="140px" src="https://i.ytimg.com/vi/MPrYPTs2IJg/mqdefault.jpg"></a></td>
