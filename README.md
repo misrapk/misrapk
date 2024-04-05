@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YsjQU6DKtgY"><img width="140px" src="https://i.ytimg.com/vi/YsjQU6DKtgY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7DbVcRPMfo8"><img width="140px" src="https://i.ytimg.com/vi/7DbVcRPMfo8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7DbVcRPMfo8">Characterstics of DataBase | 04 | #dbmsSeries | HINDI</a><br/>Apr 5, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=YsjQU6DKtgY"><img width="140px" src="https://i.ytimg.com/vi/YsjQU6DKtgY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YsjQU6DKtgY">What is DBMS? | 03 | #dbmsSeries | HINDI</a><br/>Apr 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Bunzp8Mcvss"><img width="140px" src="https://i.ytimg.com/vi/Bunzp8Mcvss/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Bunzp8Mcvss">WHY learn DBMS? | 02 | #dbmsSeries</a><br/>Apr 3, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=I3M3BtIjfd8">New Series Launch!!! 2024</a><br/>Apr 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MPrYPTs2IJg"><img width="140px" src="https://i.ytimg.com/vi/MPrYPTs2IJg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MPrYPTs2IJg">Live again. Ask your doubts! First Vertical Live</a><br/>Mar 30, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5ISPTKBhz6E"><img width="140px" src="https://i.ytimg.com/vi/5ISPTKBhz6E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5ISPTKBhz6E">Live QnA | Career Guidence for all!</a><br/>Mar 29, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
