@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=n6NBC5hvITo"><img width="140px" src="https://i.ytimg.com/vi/n6NBC5hvITo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=n6NBC5hvITo">lmabda function part 2</a><br/>Apr 6, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=n6NBC5hvITo">lambda function part 2</a><br/>Apr 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BBxOR9QthQU"><img width="140px" src="https://i.ytimg.com/vi/BBxOR9QthQU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BBxOR9QthQU">Lambda Function - Part 1</a><br/>Apr 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7DbVcRPMfo8"><img width="140px" src="https://i.ytimg.com/vi/7DbVcRPMfo8/mqdefault.jpg"></a></td>
