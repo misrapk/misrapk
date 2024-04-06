@@ -53,14 +53,14 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7DbVcRPMfo8"><img width="140px" src="https://i.ytimg.com/vi/7DbVcRPMfo8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=n6NBC5hvITo"><img width="140px" src="https://i.ytimg.com/vi/n6NBC5hvITo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=n6NBC5hvITo">lmabda function part 2</a><br/>Apr 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BBxOR9QthQU"><img width="140px" src="https://i.ytimg.com/vi/BBxOR9QthQU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BBxOR9QthQU">Lambda Function - Part 1</a><br/>Apr 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7DbVcRPMfo8"><img width="140px" src="https://i.ytimg.com/vi/7DbVcRPMfo8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7DbVcRPMfo8">Characterstics of DataBase | 04 | #dbmsSeries | HINDI</a><br/>Apr 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YsjQU6DKtgY"><img width="140px" src="https://i.ytimg.com/vi/YsjQU6DKtgY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YsjQU6DKtgY">What is DBMS? | 03 | #dbmsSeries | HINDI</a><br/>Apr 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Bunzp8Mcvss"><img width="140px" src="https://i.ytimg.com/vi/Bunzp8Mcvss/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Bunzp8Mcvss">WHY learn DBMS? | 02 | #dbmsSeries</a><br/>Apr 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=I3M3BtIjfd8"><img width="140px" src="https://i.ytimg.com/vi/I3M3BtIjfd8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=I3M3BtIjfd8">New Series Launch!!! 2024</a><br/>Apr 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MPrYPTs2IJg"><img width="140px" src="https://i.ytimg.com/vi/MPrYPTs2IJg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MPrYPTs2IJg">Live again. Ask your doubts! First Vertical Live</a><br/>Mar 30, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
