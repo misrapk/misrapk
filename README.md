@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RX-tegN-Jd8"><img width="140px" src="https://i.ytimg.com/vi/RX-tegN-Jd8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xZ7Y3pot0XI"><img width="140px" src="https://i.ytimg.com/vi/xZ7Y3pot0XI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xZ7Y3pot0XI">Reason Behind SURYA TILAK | Ram Mandir | Ram Navami 2024</a><br/>Apr 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RX-tegN-Jd8"><img width="140px" src="https://i.ytimg.com/vi/RX-tegN-Jd8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RX-tegN-Jd8">DataBase Models | 06 | #dbmsSeries | HINDI</a><br/>Apr 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xhc_NQ178ys"><img width="140px" src="https://i.ytimg.com/vi/xhc_NQ178ys/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xhc_NQ178ys">Different Roles Behind DataBase Design | 05 | #dbmsSeries | HINDI</a><br/>Apr 8, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=n6NBC5hvITo">lambda function part 2</a><br/>Apr 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BBxOR9QthQU"><img width="140px" src="https://i.ytimg.com/vi/BBxOR9QthQU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BBxOR9QthQU">Lambda Function - Part 1</a><br/>Apr 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7DbVcRPMfo8"><img width="140px" src="https://i.ytimg.com/vi/7DbVcRPMfo8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7DbVcRPMfo8">Characterstics of DataBase | 04 | #dbmsSeries | HINDI</a><br/>Apr 5, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
