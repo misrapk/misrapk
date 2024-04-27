@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=i5VOiMeADT8"><img width="140px" src="https://i.ytimg.com/vi/i5VOiMeADT8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7cEBTf-0g1U"><img width="140px" src="https://i.ytimg.com/vi/7cEBTf-0g1U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7cEBTf-0g1U">Data Models in DBMS. #dbms #databasemanagementsystems</a><br/>Apr 27, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=i5VOiMeADT8"><img width="140px" src="https://i.ytimg.com/vi/i5VOiMeADT8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=i5VOiMeADT8">Temples using Surya Tilak Concept.   #suryatilak #ayodhyarammandir #rammandir #jaishreram</a><br/>Apr 25, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kekcpdW0PfQ"><img width="140px" src="https://i.ytimg.com/vi/kekcpdW0PfQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kekcpdW0PfQ">Mechanism Behind Surya Tilak.  #suryatilak #rammandir #ayodhyarammandir</a><br/>Apr 22, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=RX-tegN-Jd8">DataBase Models | 06 | #dbmsSeries | HINDI</a><br/>Apr 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xZ7Y3pot0XI"><img width="140px" src="https://i.ytimg.com/vi/xZ7Y3pot0XI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xZ7Y3pot0XI">Reason Behind SURYA TILAK | Ram Mandir | Ram Navami 2024</a><br/>Apr 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xhc_NQ178ys"><img width="140px" src="https://i.ytimg.com/vi/xhc_NQ178ys/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xhc_NQ178ys">Different Roles Behind DataBase Design | 05 | #dbmsSeries | HINDI</a><br/>Apr 8, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
