@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8chk4YqznS8"><img width="140px" src="https://i.ytimg.com/vi/8chk4YqznS8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=th5olwZmJGk"><img width="140px" src="https://i.ytimg.com/vi/th5olwZmJGk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=th5olwZmJGk">Data Languages &lpar;DDL and DML&rpar; | 07 | #dbmsSeries | HINDI</a><br/>Jun 24, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8chk4YqznS8"><img width="140px" src="https://i.ytimg.com/vi/8chk4YqznS8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8chk4YqznS8">Lets Begin Again!!!</a><br/>Jun 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-3oqrkoHFHM"><img width="140px" src="https://i.ytimg.com/vi/-3oqrkoHFHM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-3oqrkoHFHM">Big Data!!!  #data #bigdata #databasemanagementsystems</a><br/>May 10, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=7cEBTf-0g1U">Data Models in DBMS. #dbms #databasemanagementsystems</a><br/>Apr 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=i5VOiMeADT8"><img width="140px" src="https://i.ytimg.com/vi/i5VOiMeADT8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=i5VOiMeADT8">Temples using Surya Tilak Concept.   #suryatilak #ayodhyarammandir #rammandir #jaishreram</a><br/>Apr 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kekcpdW0PfQ"><img width="140px" src="https://i.ytimg.com/vi/kekcpdW0PfQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kekcpdW0PfQ">Mechanism Behind Surya Tilak.  #suryatilak #rammandir #ayodhyarammandir</a><br/>Apr 22, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
