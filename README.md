@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ql5xOPbzDDk"><img width="140px" src="https://i.ytimg.com/vi/Ql5xOPbzDDk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UCKCU8nz4ag"><img width="140px" src="https://i.ytimg.com/vi/UCKCU8nz4ag/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UCKCU8nz4ag">GitHub Copilot is now FREE!!! Code Faster in 2025</a><br/>Dec 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ql5xOPbzDDk"><img width="140px" src="https://i.ytimg.com/vi/Ql5xOPbzDDk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ql5xOPbzDDk">Unlocking AVL Tree Efficiency: Rotations Made Easy &lpar;Visual Guide&rpar; | Hindi</a><br/>Dec 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=P2NdyvULPlM"><img width="140px" src="https://i.ytimg.com/vi/P2NdyvULPlM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=P2NdyvULPlM">Weekend Morning with a software engineer......#dayinlife #vlog #minivlog #vlog #december #trending</a><br/>Dec 17, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=8xtsN1CkMQk">Dont give up.</a><br/>Dec 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gghw2XbEYhU"><img width="140px" src="https://i.ytimg.com/vi/gghw2XbEYhU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gghw2XbEYhU">Jyda mega pixel mtlb jyda better camera????     #tech #techmyths</a><br/>Dec 14, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KZhRBM0tK_w"><img width="140px" src="https://i.ytimg.com/vi/KZhRBM0tK_w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KZhRBM0tK_w">Real pain of Data science job. #healingragas #datascience #coding #realityofdata</a><br/>Dec 13, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
