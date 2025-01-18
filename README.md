@@ -53,8 +53,8 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fhYK984WcmI"><img width="140px" src="https://i.ytimg.com/vi/fhYK984WcmI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fhYK984WcmI">Random Live</a><br/>Jan 18, 2025</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gFJt5wwPH2M"><img width="140px" src="https://i.ytimg.com/vi/gFJt5wwPH2M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gFJt5wwPH2M">Live CHECK Alert You Wont Believe What Happens Next</a><br/>Jan 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8_YGcFhvcaE"><img width="140px" src="https://i.ytimg.com/vi/8_YGcFhvcaE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8_YGcFhvcaE">Normal v/s Standard Normal Distribution in Machine learning | ML in Hindi</a><br/>Dec 31, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=M1acWAkkAuE"><img width="140px" src="https://i.ytimg.com/vi/M1acWAkkAuE/mqdefault.jpg"></a></td>
