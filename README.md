@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gFJt5wwPH2M"><img width="140px" src="https://i.ytimg.com/vi/gFJt5wwPH2M/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Jxo2yNUkWZs"><img width="140px" src="https://i.ytimg.com/vi/Jxo2yNUkWZs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Jxo2yNUkWZs">Matplotlib on Evening Chai | Live | Data Science</a><br/>Jan 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gFJt5wwPH2M"><img width="140px" src="https://i.ytimg.com/vi/gFJt5wwPH2M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gFJt5wwPH2M">Live CHECK Alert You Wont Believe What Happens Next</a><br/>Jan 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8_YGcFhvcaE"><img width="140px" src="https://i.ytimg.com/vi/8_YGcFhvcaE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8_YGcFhvcaE">Normal v/s Standard Normal Distribution in Machine learning | ML in Hindi</a><br/>Dec 31, 2024</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=M1acWAkkAuE">Depth First Search full Explanation | Graph Theory | Hindi | DSA</a><br/>Dec 25, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qar8Mbh-fcI"><img width="140px" src="https://i.ytimg.com/vi/qar8Mbh-fcI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qar8Mbh-fcI">Happy holidays!!! Or learning holiday 😂</a><br/>Dec 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Pz88TXr5ikQ"><img width="140px" src="https://i.ytimg.com/vi/Pz88TXr5ikQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Pz88TXr5ikQ">Organised desk == Clarity in mind 🧠.   #desk #organised</a><br/>Dec 22, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
