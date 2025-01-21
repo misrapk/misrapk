@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Jxo2yNUkWZs"><img width="140px" src="https://i.ytimg.com/vi/Jxo2yNUkWZs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Jxo2yNUkWZs">Matplotlib on Evening Chai | Live | Data Science</a><br/>Jan 20, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Jxo2yNUkWZs">Matplotlib on Evening Chai | Live | Data Science</a><br/>Jan 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gFJt5wwPH2M"><img width="140px" src="https://i.ytimg.com/vi/gFJt5wwPH2M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gFJt5wwPH2M">Live CHECK Alert You Wont Believe What Happens Next</a><br/>Jan 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8_YGcFhvcaE"><img width="140px" src="https://i.ytimg.com/vi/8_YGcFhvcaE/mqdefault.jpg"></a></td>
