@@ -53,14 +53,14 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4WfPJ-0apvg"><img width="140px" src="https://i.ytimg.com/vi/4WfPJ-0apvg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SCozKRhhH1E"><img width="140px" src="https://i.ytimg.com/vi/SCozKRhhH1E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SCozKRhhH1E">Complete Data Science Project - Live | Price Prediction</a><br/>Jan 26, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SBwgPS_50PU"><img width="140px" src="https://i.ytimg.com/vi/SBwgPS_50PU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SBwgPS_50PU">Live CHECK Alert You Wont Believe What Happens Next</a><br/>Jan 26, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4WfPJ-0apvg"><img width="140px" src="https://i.ytimg.com/vi/4WfPJ-0apvg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4WfPJ-0apvg">Over fitting v/s Underfitting on Machine learning #shortvideo</a><br/>Jan 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Jxo2yNUkWZs"><img width="140px" src="https://i.ytimg.com/vi/Jxo2yNUkWZs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Jxo2yNUkWZs">Matplotlib on Evening Chai | Live | Data Science</a><br/>Jan 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gFJt5wwPH2M"><img width="140px" src="https://i.ytimg.com/vi/gFJt5wwPH2M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gFJt5wwPH2M">Live CHECK Alert You Wont Believe What Happens Next</a><br/>Jan 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8_YGcFhvcaE"><img width="140px" src="https://i.ytimg.com/vi/8_YGcFhvcaE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8_YGcFhvcaE">Normal v/s Standard Normal Distribution in Machine learning | ML in Hindi</a><br/>Dec 31, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=M1acWAkkAuE"><img width="140px" src="https://i.ytimg.com/vi/M1acWAkkAuE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M1acWAkkAuE">Depth First Search full Explanation | Graph Theory | Hindi | DSA</a><br/>Dec 25, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
