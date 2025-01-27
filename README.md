@@ -53,10 +53,10 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0X4HCELKy1Q"><img width="140px" src="https://i.ytimg.com/vi/0X4HCELKy1Q/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SCozKRhhH1E"><img width="140px" src="https://i.ytimg.com/vi/SCozKRhhH1E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SCozKRhhH1E">Complete Data Science Project - Live | Price Prediction</a><br/>Jan 27, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0X4HCELKy1Q"><img width="140px" src="https://i.ytimg.com/vi/0X4HCELKy1Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0X4HCELKy1Q">See you in Live class #livestream #datascience</a><br/>Jan 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SCozKRhhH1E"><img width="140px" src="https://i.ytimg.com/vi/SCozKRhhH1E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SCozKRhhH1E">Complete Data Science Project - Live | Price Prediction</a><br/>Jan 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SBwgPS_50PU"><img width="140px" src="https://i.ytimg.com/vi/SBwgPS_50PU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SBwgPS_50PU">Live CHECK Alert You Wont Believe What Happens Next</a><br/>Jan 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4WfPJ-0apvg"><img width="140px" src="https://i.ytimg.com/vi/4WfPJ-0apvg/mqdefault.jpg"></a></td>
