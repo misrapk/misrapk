@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Rj-YEipHrJQ"><img width="140px" src="https://i.ytimg.com/vi/Rj-YEipHrJQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Rj-YEipHrJQ">Complete Data Science Project - Model Training LIVE | House Price Prediction</a><br/>Feb 2, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Rj-YEipHrJQ">Complete Data Science Project - Model Training LIVE | House Price Prediction</a><br/>Feb 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qshS5jNfbj8"><img width="140px" src="https://i.ytimg.com/vi/qshS5jNfbj8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qshS5jNfbj8">Thank you all for your support...abhi bs shuruat hai!!!</a><br/>Feb 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FQMJtnRQEPM"><img width="140px" src="https://i.ytimg.com/vi/FQMJtnRQEPM/mqdefault.jpg"></a></td>
