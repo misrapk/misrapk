@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HrvO3qugD8s"><img width="140px" src="https://i.ytimg.com/vi/HrvO3qugD8s/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ASeK7ozZY4Y"><img width="140px" src="https://i.ytimg.com/vi/ASeK7ozZY4Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ASeK7ozZY4Y">Day 6 - Complete Data Science Project - Another Approach LIVE | House Price Prediction</a><br/>Feb 4, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HrvO3qugD8s"><img width="140px" src="https://i.ytimg.com/vi/HrvO3qugD8s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HrvO3qugD8s">Complete Data Science Project - Training ML Model LIVE | House Price Prediction Day 5</a><br/>Feb 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Rj-YEipHrJQ"><img width="140px" src="https://i.ytimg.com/vi/Rj-YEipHrJQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Rj-YEipHrJQ">Complete Data Science Project - Model Training LIVE | House Price Prediction</a><br/>Feb 3, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=qshS5jNfbj8">Thank you all for your support...abhi bs shuruat hai!!!</a><br/>Feb 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FQMJtnRQEPM"><img width="140px" src="https://i.ytimg.com/vi/FQMJtnRQEPM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FQMJtnRQEPM">The 1 Thing You Need to Know About DEEPSEEK Right Now</a><br/>Jan 31, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7pcwBWosRIk"><img width="140px" src="https://i.ytimg.com/vi/7pcwBWosRIk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7pcwBWosRIk">Please listen!!! #mahakumbh2025 #kumbh #prayagraj</a><br/>Jan 30, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
