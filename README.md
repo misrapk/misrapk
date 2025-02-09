@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ONw9UYAKaY8"><img width="140px" src="https://i.ytimg.com/vi/ONw9UYAKaY8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ONw9UYAKaY8">Day 1- Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 8, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=ONw9UYAKaY8">Day 1- Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6wedatGXhp8"><img width="140px" src="https://i.ytimg.com/vi/6wedatGXhp8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6wedatGXhp8">Keep your ML model efficeint... #shortvideo</a><br/>Feb 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ASeK7ozZY4Y"><img width="140px" src="https://i.ytimg.com/vi/ASeK7ozZY4Y/mqdefault.jpg"></a></td>
