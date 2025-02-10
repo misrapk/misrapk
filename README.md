@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=M79Ngaq9E50"><img width="140px" src="https://i.ytimg.com/vi/M79Ngaq9E50/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M79Ngaq9E50">Day 2- EDA &amp; Visualisation of Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 9, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=M79Ngaq9E50">Day 2- EDA &amp; Visualisation of Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ONw9UYAKaY8"><img width="140px" src="https://i.ytimg.com/vi/ONw9UYAKaY8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ONw9UYAKaY8">Day 1- Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6wedatGXhp8"><img width="140px" src="https://i.ytimg.com/vi/6wedatGXhp8/mqdefault.jpg"></a></td>
