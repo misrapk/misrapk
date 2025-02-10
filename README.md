@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=M79Ngaq9E50"><img width="140px" src="https://i.ytimg.com/vi/M79Ngaq9E50/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fb5V5Jj-D-Q"><img width="140px" src="https://i.ytimg.com/vi/fb5V5Jj-D-Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fb5V5Jj-D-Q">Day 3-Data Visualisation of Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=M79Ngaq9E50"><img width="140px" src="https://i.ytimg.com/vi/M79Ngaq9E50/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=M79Ngaq9E50">Day 2- EDA &amp; Visualisation of Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ONw9UYAKaY8"><img width="140px" src="https://i.ytimg.com/vi/ONw9UYAKaY8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ONw9UYAKaY8">Day 1- Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 9, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=6wedatGXhp8">Keep your ML model efficeint... #shortvideo</a><br/>Feb 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ASeK7ozZY4Y"><img width="140px" src="https://i.ytimg.com/vi/ASeK7ozZY4Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ASeK7ozZY4Y">Day 6 - Complete Data Science Project - Another Approach LIVE | House Price Prediction</a><br/>Feb 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HrvO3qugD8s"><img width="140px" src="https://i.ytimg.com/vi/HrvO3qugD8s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HrvO3qugD8s">Complete Data Science Project - Training ML Model LIVE | House Price Prediction Day 5</a><br/>Feb 4, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
