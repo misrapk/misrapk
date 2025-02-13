@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DaPZcPnxXtk"><img width="140px" src="https://i.ytimg.com/vi/DaPZcPnxXtk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE"><img width="140px" src="https://i.ytimg.com/vi/tp_brPT-BLE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE">Housing Price Prediciton Complete DS Project in Hindi!</a><br/>Feb 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DaPZcPnxXtk"><img width="140px" src="https://i.ytimg.com/vi/DaPZcPnxXtk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DaPZcPnxXtk">Gyan bhi jaruri hai. #shortvideo</a><br/>Feb 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9PNUAoNpz30"><img width="140px" src="https://i.ytimg.com/vi/9PNUAoNpz30/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9PNUAoNpz30">Day 4 - Recommendation System of Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 12, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=fb5V5Jj-D-Q">Day 3-Data Visualisation of Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=M79Ngaq9E50"><img width="140px" src="https://i.ytimg.com/vi/M79Ngaq9E50/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=M79Ngaq9E50">Day 2- EDA &amp; Visualisation of Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ONw9UYAKaY8"><img width="140px" src="https://i.ytimg.com/vi/ONw9UYAKaY8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ONw9UYAKaY8">Day 1- Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 9, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
