@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE"><img width="140px" src="https://i.ytimg.com/vi/tp_brPT-BLE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE">Housing Price Prediciton Complete DS Project in Hindi!</a><br/>Feb 13, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE">Housing Price Prediciton Complete DS Project in Hindi!</a><br/>Feb 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DaPZcPnxXtk"><img width="140px" src="https://i.ytimg.com/vi/DaPZcPnxXtk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DaPZcPnxXtk">Gyan bhi jaruri hai. #shortvideo</a><br/>Feb 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9PNUAoNpz30"><img width="140px" src="https://i.ytimg.com/vi/9PNUAoNpz30/mqdefault.jpg"></a></td>
