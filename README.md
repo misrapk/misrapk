@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE"><img width="140px" src="https://i.ytimg.com/vi/tp_brPT-BLE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ViiajVr1SMo"><img width="140px" src="https://i.ytimg.com/vi/ViiajVr1SMo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ViiajVr1SMo">PYTHON is NOT a TRENDING technology in 2025</a><br/>Feb 17, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE"><img width="140px" src="https://i.ytimg.com/vi/tp_brPT-BLE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE">Housing Price Prediction Complete DS Project in Hindi! One Shot</a><br/>Feb 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DaPZcPnxXtk"><img width="140px" src="https://i.ytimg.com/vi/DaPZcPnxXtk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DaPZcPnxXtk">Gyan bhi jaruri hai. #shortvideo</a><br/>Feb 12, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=9PNUAoNpz30">Day 4 - Recommendation System of Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fb5V5Jj-D-Q"><img width="140px" src="https://i.ytimg.com/vi/fb5V5Jj-D-Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fb5V5Jj-D-Q">Day 3-Data Visualisation of Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=M79Ngaq9E50"><img width="140px" src="https://i.ytimg.com/vi/M79Ngaq9E50/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M79Ngaq9E50">Day 2- EDA &amp; Visualisation of Amazon Data Science Project - LIVE | Amazon Sales Recommendor</a><br/>Feb 10, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
