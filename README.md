@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ViiajVr1SMo"><img width="140px" src="https://i.ytimg.com/vi/ViiajVr1SMo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ViiajVr1SMo">PYTHON is NOT a TRENDING technology in 2025</a><br/>Feb 17, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=ViiajVr1SMo">PYTHON is NOT a TRENDING technology in 2025</a><br/>Feb 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE"><img width="140px" src="https://i.ytimg.com/vi/tp_brPT-BLE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE">Housing Price Prediction Complete DS Project in Hindi! One Shot</a><br/>Feb 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DaPZcPnxXtk"><img width="140px" src="https://i.ytimg.com/vi/DaPZcPnxXtk/mqdefault.jpg"></a></td>
