@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EiBRAiBZw8k"><img width="140px" src="https://i.ytimg.com/vi/EiBRAiBZw8k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EiBRAiBZw8k">FasTag Fraud Detection - Data Cleaning and Analysis | Data Science Project | Hindi</a><br/>Feb 19, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=EiBRAiBZw8k">FasTag Fraud Detection - Data Cleaning and Analysis | Data Science Project | Hindi</a><br/>Feb 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YLiaEiis2Wo"><img width="140px" src="https://i.ytimg.com/vi/YLiaEiis2Wo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YLiaEiis2Wo">Why Software engineers are going abroad???  #shortvideo</a><br/>Feb 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ViiajVr1SMo"><img width="140px" src="https://i.ytimg.com/vi/ViiajVr1SMo/mqdefault.jpg"></a></td>
