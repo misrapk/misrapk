@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xxWOpDrU2Mk"><img width="140px" src="https://i.ytimg.com/vi/xxWOpDrU2Mk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fXODZtmbOFs"><img width="140px" src="https://i.ytimg.com/vi/fXODZtmbOFs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fXODZtmbOFs">Day 3 | FasTag Fraud Detection - Model Training | Data Science Project | Hindi</a><br/>Feb 21, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xxWOpDrU2Mk"><img width="140px" src="https://i.ytimg.com/vi/xxWOpDrU2Mk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xxWOpDrU2Mk">Day 2 | FasTag Fraud Detection - Feature Engineering| Data Science Project | Hindi</a><br/>Feb 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EiBRAiBZw8k"><img width="140px" src="https://i.ytimg.com/vi/EiBRAiBZw8k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EiBRAiBZw8k">FasTag Fraud Detection - Data Cleaning and Analysis | Data Science Project | Hindi</a><br/>Feb 20, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=YLiaEiis2Wo">Why Software engineers are going abroad???  #shortvideo</a><br/>Feb 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ViiajVr1SMo"><img width="140px" src="https://i.ytimg.com/vi/ViiajVr1SMo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ViiajVr1SMo">PYTHON is NOT a TRENDING technology in 2025</a><br/>Feb 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE"><img width="140px" src="https://i.ytimg.com/vi/tp_brPT-BLE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tp_brPT-BLE">Housing Price Prediction Complete DS Project in Hindi! One Shot</a><br/>Feb 14, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
