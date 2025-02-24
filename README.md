@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Bg5q363stzc"><img width="140px" src="https://i.ytimg.com/vi/Bg5q363stzc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Bg5q363stzc">FasTag Fraud Detection Full Project | Data Science.</a><br/>Feb 23, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Bg5q363stzc">FasTag Fraud Detection Full Project | Data Science.</a><br/>Feb 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FR6FVpD3xGo"><img width="140px" src="https://i.ytimg.com/vi/FR6FVpD3xGo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FR6FVpD3xGo">Saturday Live  - General Discussion and QnA</a><br/>Feb 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fXODZtmbOFs"><img width="140px" src="https://i.ytimg.com/vi/fXODZtmbOFs/mqdefault.jpg"></a></td>
