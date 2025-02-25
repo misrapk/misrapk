@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Bg5q363stzc"><img width="140px" src="https://i.ytimg.com/vi/Bg5q363stzc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aAUO-nUT2Zc"><img width="140px" src="https://i.ytimg.com/vi/aAUO-nUT2Zc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aAUO-nUT2Zc">Linear Regression | ML Revision | Data Science</a><br/>Feb 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Bg5q363stzc"><img width="140px" src="https://i.ytimg.com/vi/Bg5q363stzc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Bg5q363stzc">FasTag Fraud Detection Full Project | Data Science.</a><br/>Feb 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FR6FVpD3xGo"><img width="140px" src="https://i.ytimg.com/vi/FR6FVpD3xGo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FR6FVpD3xGo">Saturday Live  - General Discussion and QnA</a><br/>Feb 23, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=fXODZtmbOFs">Day 3 | FasTag Fraud Detection - Model Training | Data Science Project | Hindi</a><br/>Feb 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xxWOpDrU2Mk"><img width="140px" src="https://i.ytimg.com/vi/xxWOpDrU2Mk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xxWOpDrU2Mk">Day 2 | FasTag Fraud Detection - Feature Engineering| Data Science Project | Hindi</a><br/>Feb 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EiBRAiBZw8k"><img width="140px" src="https://i.ytimg.com/vi/EiBRAiBZw8k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EiBRAiBZw8k">FasTag Fraud Detection - Data Cleaning and Analysis | Data Science Project | Hindi</a><br/>Feb 20, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
