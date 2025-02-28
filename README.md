@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=L_II_QnT6Is"><img width="140px" src="https://i.ytimg.com/vi/L_II_QnT6Is/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UabuzONpyBw"><img width="140px" src="https://i.ytimg.com/vi/UabuzONpyBw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UabuzONpyBw">Time Sereis Forecasting - Regression Algo | ML Revision | Data Science</a><br/>Feb 28, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=L_II_QnT6Is"><img width="140px" src="https://i.ytimg.com/vi/L_II_QnT6Is/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L_II_QnT6Is">Time Sereis Forecasting - Regression Algo | ML Revision | Data Science</a><br/>Feb 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=U53BbY_803k"><img width="140px" src="https://i.ytimg.com/vi/U53BbY_803k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U53BbY_803k">Ridge, Lasso Regression | ML Revision | Data Science</a><br/>Feb 27, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=1WhMpgk-y-U">We Hit 2500 Subscribers</a><br/>Feb 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aAUO-nUT2Zc"><img width="140px" src="https://i.ytimg.com/vi/aAUO-nUT2Zc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aAUO-nUT2Zc">Linear Regression | ML Revision | Data Science</a><br/>Feb 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Bg5q363stzc"><img width="140px" src="https://i.ytimg.com/vi/Bg5q363stzc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Bg5q363stzc">FasTag Fraud Detection Full Project | Data Science.</a><br/>Feb 24, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
