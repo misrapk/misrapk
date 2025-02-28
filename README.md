@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=L_II_QnT6Is"><img width="140px" src="https://i.ytimg.com/vi/L_II_QnT6Is/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=L_II_QnT6Is">Time Sereis Forecasting - Regression Algo | ML Revision | Data Science</a><br/>Feb 27, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=L_II_QnT6Is">Time Sereis Forecasting - Regression Algo | ML Revision | Data Science</a><br/>Feb 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=U53BbY_803k"><img width="140px" src="https://i.ytimg.com/vi/U53BbY_803k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U53BbY_803k">Ridge, Lasso Regression | ML Revision | Data Science</a><br/>Feb 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1WhMpgk-y-U"><img width="140px" src="https://i.ytimg.com/vi/1WhMpgk-y-U/mqdefault.jpg"></a></td>
