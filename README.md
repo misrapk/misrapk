@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mOlEJy0rZ8s"><img width="140px" src="https://i.ytimg.com/vi/mOlEJy0rZ8s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mOlEJy0rZ8s">Part 2 Time SeriesForecasting - Regression Algo | ML Revision | Data Science</a><br/>Feb 28, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=mOlEJy0rZ8s">Part 3 Time Series Forecasting - Regression Algo | ML Revision | Data Science</a><br/>Feb 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UabuzONpyBw"><img width="140px" src="https://i.ytimg.com/vi/UabuzONpyBw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UabuzONpyBw">Time Series Forecasting - Regression Algo | ML Revision | Data Science</a><br/>Feb 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=L_II_QnT6Is"><img width="140px" src="https://i.ytimg.com/vi/L_II_QnT6Is/mqdefault.jpg"></a></td>
