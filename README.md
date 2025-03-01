@@ -53,14 +53,14 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UabuzONpyBw"><img width="140px" src="https://i.ytimg.com/vi/UabuzONpyBw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eofwSrJWu9U"><img width="140px" src="https://i.ytimg.com/vi/eofwSrJWu9U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eofwSrJWu9U">Python Implementation of Linear Regression | ML | Data Science</a><br/>Mar 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UabuzONpyBw"><img width="140px" src="https://i.ytimg.com/vi/UabuzONpyBw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UabuzONpyBw">Part 2 - Time Series Forecasting - Regression Algo | ML Revision | Data Science</a><br/>Mar 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mOlEJy0rZ8s"><img width="140px" src="https://i.ytimg.com/vi/mOlEJy0rZ8s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mOlEJy0rZ8s">Part 3 Time Series Forecasting - Regression Algo | ML Revision | Data Science</a><br/>Feb 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=L_II_QnT6Is"><img width="140px" src="https://i.ytimg.com/vi/L_II_QnT6Is/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=L_II_QnT6Is">Time Sereis Forecasting - Regression Algo | ML Revision | Data Science</a><br/>Feb 28, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=L_II_QnT6Is">Time Sereis Forecasting Part 1 - Regression Algo | ML Revision | Data Science</a><br/>Feb 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=U53BbY_803k"><img width="140px" src="https://i.ytimg.com/vi/U53BbY_803k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U53BbY_803k">Ridge, Lasso Regression | ML Revision | Data Science</a><br/>Feb 27, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1WhMpgk-y-U"><img width="140px" src="https://i.ytimg.com/vi/1WhMpgk-y-U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1WhMpgk-y-U">We Hit 2500 Subscribers</a><br/>Feb 26, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
