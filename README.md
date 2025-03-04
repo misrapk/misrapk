@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mg07nxKrHFE"><img width="140px" src="https://i.ytimg.com/vi/Mg07nxKrHFE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Mg07nxKrHFE">Logistic Regression Theory - Classification Algo | ML Revision | Data Science</a><br/>Mar 3, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=Mg07nxKrHFE">Logistic Regression Theory - Classification Algo | ML Revision | Data Science</a><br/>Mar 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VfHBBh7YzrE"><img width="140px" src="https://i.ytimg.com/vi/VfHBBh7YzrE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VfHBBh7YzrE">Delhi Weather Forecast | Time series Forecasting | Beginner to PRO | Python</a><br/>Mar 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eofwSrJWu9U"><img width="140px" src="https://i.ytimg.com/vi/eofwSrJWu9U/mqdefault.jpg"></a></td>
