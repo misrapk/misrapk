@@ -53,10 +53,10 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EIl2CtwEzXg"><img width="140px" src="https://i.ytimg.com/vi/EIl2CtwEzXg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WaUGeXs-5WI"><img width="140px" src="https://i.ytimg.com/vi/WaUGeXs-5WI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WaUGeXs-5WI">Support Vector Machine Theory - Classification Algo | ML Revision | Data Science</a><br/>Mar 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EIl2CtwEzXg"><img width="140px" src="https://i.ytimg.com/vi/EIl2CtwEzXg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EIl2CtwEzXg">Support Vector Machine Complete Theory  | ML Revision | Data Science</a><br/>Mar 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=WaUGeXs-5WI"><img width="140px" src="https://i.ytimg.com/vi/WaUGeXs-5WI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WaUGeXs-5WI">Support Vector Machine Theory - Classification Algo | ML Revision | Data Science</a><br/>Mar 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Mg07nxKrHFE"><img width="140px" src="https://i.ytimg.com/vi/Mg07nxKrHFE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mg07nxKrHFE">Logistic Regression Theory - Classification Algo | ML Revision | Data Science</a><br/>Mar 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VfHBBh7YzrE"><img width="140px" src="https://i.ytimg.com/vi/VfHBBh7YzrE/mqdefault.jpg"></a></td>
