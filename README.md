@@ -53,10 +53,10 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8B2ZdyCDnGs"><img width="140px" src="https://i.ytimg.com/vi/8B2ZdyCDnGs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8B2ZdyCDnGs">Part 2 Complete Classification Algo - One Shot| ML Revision | Data Science</a><br/>Mar 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6tJuGQXjmPo"><img width="140px" src="https://i.ytimg.com/vi/6tJuGQXjmPo/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6tJuGQXjmPo"><img width="140px" src="https://i.ytimg.com/vi/6tJuGQXjmPo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6tJuGQXjmPo">Complete Classification Algo - One Shot| ML Revision | Data Science</a><br/>Mar 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8B2ZdyCDnGs"><img width="140px" src="https://i.ytimg.com/vi/8B2ZdyCDnGs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8B2ZdyCDnGs">Part 2 Complete Classification Algo - One Shot| ML Revision | Data Science</a><br/>Mar 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WaUGeXs-5WI"><img width="140px" src="https://i.ytimg.com/vi/WaUGeXs-5WI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WaUGeXs-5WI">Support Vector Machine Theory - Classification Algo | ML Revision | Data Science</a><br/>Mar 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EIl2CtwEzXg"><img width="140px" src="https://i.ytimg.com/vi/EIl2CtwEzXg/mqdefault.jpg"></a></td>
