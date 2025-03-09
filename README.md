@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=f1RaRoJpaVg"><img width="140px" src="https://i.ytimg.com/vi/f1RaRoJpaVg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=f5ODn8Ekf8E"><img width="140px" src="https://i.ytimg.com/vi/f5ODn8Ekf8E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=f5ODn8Ekf8E">Part 2 Heart Disease Predictor - Classification Project| Beginner to PRO | Python</a><br/>Mar 9, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=f1RaRoJpaVg"><img width="140px" src="https://i.ytimg.com/vi/f1RaRoJpaVg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=f1RaRoJpaVg">Heart Disease Predictor - Classification Project| Beginner to PRO | Python</a><br/>Mar 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6tJuGQXjmPo"><img width="140px" src="https://i.ytimg.com/vi/6tJuGQXjmPo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6tJuGQXjmPo">Complete Classification Algo - One Shot| ML Revision | Data Science</a><br/>Mar 8, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=8B2ZdyCDnGs">Part 2 Complete Classification Algo - One Shot| ML Revision | Data Science</a><br/>Mar 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WaUGeXs-5WI"><img width="140px" src="https://i.ytimg.com/vi/WaUGeXs-5WI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WaUGeXs-5WI">Support Vector Machine Theory - Classification Algo | ML Revision | Data Science</a><br/>Mar 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EIl2CtwEzXg"><img width="140px" src="https://i.ytimg.com/vi/EIl2CtwEzXg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EIl2CtwEzXg">Support Vector Machine Complete Theory  | ML Revision | Data Science</a><br/>Mar 5, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
