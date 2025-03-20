@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dTt3rcOYUkI"><img width="140px" src="https://i.ytimg.com/vi/dTt3rcOYUkI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=w511U_24eBE"><img width="140px" src="https://i.ytimg.com/vi/w511U_24eBE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=w511U_24eBE">Unsupervised ML - Principal Component Analysis |  ML Revision | Data Science</a><br/>Mar 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dTt3rcOYUkI"><img width="140px" src="https://i.ytimg.com/vi/dTt3rcOYUkI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dTt3rcOYUkI">How multicollinearity affects tree based algos? #shortvideo</a><br/>Mar 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3ZT3qjcf8hQ"><img width="140px" src="https://i.ytimg.com/vi/3ZT3qjcf8hQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3ZT3qjcf8hQ">ROADMAP for PLACEMENTS</a><br/>Mar 19, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=vIFQ2_XMzco">Can I publish Research papers which are already published??? #shortvideo</a><br/>Mar 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YUKcl8hPTFE"><img width="140px" src="https://i.ytimg.com/vi/YUKcl8hPTFE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YUKcl8hPTFE">QnA Live  - General Discussion and QnA</a><br/>Mar 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=f5ODn8Ekf8E"><img width="140px" src="https://i.ytimg.com/vi/f5ODn8Ekf8E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=f5ODn8Ekf8E">Part 2 Heart Disease Predictor - Classification Project| Beginner to PRO | Python</a><br/>Mar 9, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
