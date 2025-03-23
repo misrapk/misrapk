@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VKAS_zh0LRw"><img width="140px" src="https://i.ytimg.com/vi/VKAS_zh0LRw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VKAS_zh0LRw">GEN AI Masterclass | Learn about all the AI tools!</a><br/>Mar 22, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=VKAS_zh0LRw">GEN AI Masterclass | Learn about all the AI tools!</a><br/>Mar 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_cR4AmXF3g0"><img width="140px" src="https://i.ytimg.com/vi/_cR4AmXF3g0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_cR4AmXF3g0">Part 2 Principal Component Analysis |  ML Revision | Data Science</a><br/>Mar 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=V0YsKxU2uYc"><img width="140px" src="https://i.ytimg.com/vi/V0YsKxU2uYc/mqdefault.jpg"></a></td>
