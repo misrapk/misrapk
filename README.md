@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=n0M4rkx4_tE"><img width="140px" src="https://i.ytimg.com/vi/n0M4rkx4_tE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hy4bmVNsHL8"><img width="140px" src="https://i.ytimg.com/vi/hy4bmVNsHL8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hy4bmVNsHL8">K-Means Clustering | Unsupervised Algo |  ML Revision | Data Science</a><br/>Mar 24, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=n0M4rkx4_tE"><img width="140px" src="https://i.ytimg.com/vi/n0M4rkx4_tE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n0M4rkx4_tE">Studets Grade Predictor | DataScience Project| Python</a><br/>Mar 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VKAS_zh0LRw"><img width="140px" src="https://i.ytimg.com/vi/VKAS_zh0LRw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VKAS_zh0LRw">GEN AI Masterclass | Learn about all the AI tools!</a><br/>Mar 23, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=_cR4AmXF3g0">Part 2 Principal Component Analysis |  ML Revision | Data Science</a><br/>Mar 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=V0YsKxU2uYc"><img width="140px" src="https://i.ytimg.com/vi/V0YsKxU2uYc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=V0YsKxU2uYc">Live CHECK Alert You Wont Believe What Happens Next</a><br/>Mar 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=w511U_24eBE"><img width="140px" src="https://i.ytimg.com/vi/w511U_24eBE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=w511U_24eBE">Unsupervised ML - Principal Component Analysis |  ML Revision | Data Science</a><br/>Mar 20, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
