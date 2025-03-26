@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CNJ0faZJnzM"><img width="140px" src="https://i.ytimg.com/vi/CNJ0faZJnzM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CNJ0faZJnzM">Hierarchical Clustering | Unsupervised Algo |  ML Revision | Data Science</a><br/>Mar 26, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=CNJ0faZJnzM">Hierarchical Clustering &amp; DBSCAN | Unsupervised Algo |  ML Revision | Data Science</a><br/>Mar 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zGzoLAWREMs"><img width="140px" src="https://i.ytimg.com/vi/zGzoLAWREMs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zGzoLAWREMs">full week schedule!  #shortvideo</a><br/>Mar 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hy4bmVNsHL8"><img width="140px" src="https://i.ytimg.com/vi/hy4bmVNsHL8/mqdefault.jpg"></a></td>
