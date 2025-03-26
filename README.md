@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zGzoLAWREMs"><img width="140px" src="https://i.ytimg.com/vi/zGzoLAWREMs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CNJ0faZJnzM"><img width="140px" src="https://i.ytimg.com/vi/CNJ0faZJnzM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CNJ0faZJnzM">Hierarchical Clustering | Unsupervised Algo |  ML Revision | Data Science</a><br/>Mar 26, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zGzoLAWREMs"><img width="140px" src="https://i.ytimg.com/vi/zGzoLAWREMs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zGzoLAWREMs">full week schedule!  #shortvideo</a><br/>Mar 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hy4bmVNsHL8"><img width="140px" src="https://i.ytimg.com/vi/hy4bmVNsHL8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hy4bmVNsHL8">K-Means Clustering | Unsupervised Algo |  ML Revision | Data Science</a><br/>Mar 24, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=n0M4rkx4_tE">Studets Grade Predictor | DataScience Project| Python</a><br/>Mar 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VKAS_zh0LRw"><img width="140px" src="https://i.ytimg.com/vi/VKAS_zh0LRw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VKAS_zh0LRw">GEN AI Masterclass | Learn about all the AI tools!</a><br/>Mar 23, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_cR4AmXF3g0"><img width="140px" src="https://i.ytimg.com/vi/_cR4AmXF3g0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_cR4AmXF3g0">Part 2 Principal Component Analysis |  ML Revision | Data Science</a><br/>Mar 22, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
