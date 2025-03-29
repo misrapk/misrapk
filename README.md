@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=m83PZ79bLGY"><img width="140px" src="https://i.ytimg.com/vi/m83PZ79bLGY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=A7TXbLLxnkc"><img width="140px" src="https://i.ytimg.com/vi/A7TXbLLxnkc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=A7TXbLLxnkc">Monthly QnA Live  - General Discussion</a><br/>Mar 29, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=m83PZ79bLGY"><img width="140px" src="https://i.ytimg.com/vi/m83PZ79bLGY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m83PZ79bLGY">Recommendatoin System in ML |  ML Revision | Data Science</a><br/>Mar 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TKb3TYU_Wqk"><img width="140px" src="https://i.ytimg.com/vi/TKb3TYU_Wqk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TKb3TYU_Wqk">APRIORI - Association Rule Mining | Unsupervised Algo |  ML Revision | Data Science</a><br/>Mar 28, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=CNJ0faZJnzM">Hierarchical Clustering &amp; DBSCAN | Unsupervised Algo |  ML Revision | Data Science</a><br/>Mar 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zGzoLAWREMs"><img width="140px" src="https://i.ytimg.com/vi/zGzoLAWREMs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zGzoLAWREMs">full week schedule!  #shortvideo</a><br/>Mar 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=hy4bmVNsHL8"><img width="140px" src="https://i.ytimg.com/vi/hy4bmVNsHL8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hy4bmVNsHL8">K-Means Clustering | Unsupervised Algo |  ML Revision | Data Science</a><br/>Mar 24, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
