@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-iF404KYz9I"><img width="140px" src="https://i.ytimg.com/vi/-iF404KYz9I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-iF404KYz9I">DEEP LEARNING - New Series Launch</a><br/>Apr 3, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=-iF404KYz9I">DEEP LEARNING - New Series Launch</a><br/>Apr 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZMPEZNfOf0A"><img width="140px" src="https://i.ytimg.com/vi/ZMPEZNfOf0A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZMPEZNfOf0A">Part-2 | Use ML to Allocate Funding for Needed Country | Project on Unsupervised Learning</a><br/>Apr 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bMUCpVitpaw"><img width="140px" src="https://i.ytimg.com/vi/bMUCpVitpaw/mqdefault.jpg"></a></td>
