@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-iF404KYz9I"><img width="140px" src="https://i.ytimg.com/vi/-iF404KYz9I/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2SycEMd5LOE"><img width="140px" src="https://i.ytimg.com/vi/2SycEMd5LOE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2SycEMd5LOE">#1 PERCEPTRON  | Deep learning from Scratch</a><br/>Apr 4, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-iF404KYz9I"><img width="140px" src="https://i.ytimg.com/vi/-iF404KYz9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-iF404KYz9I">DEEP LEARNING - New Series Launch</a><br/>Apr 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZMPEZNfOf0A"><img width="140px" src="https://i.ytimg.com/vi/ZMPEZNfOf0A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZMPEZNfOf0A">Part-2 | Use ML to Allocate Funding for Needed Country | Project on Unsupervised Learning</a><br/>Apr 2, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=bMUCpVitpaw">Use ML to Allocate Funding for Needed Country | Project on Unsupervised Learning</a><br/>Mar 31, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=A7TXbLLxnkc"><img width="140px" src="https://i.ytimg.com/vi/A7TXbLLxnkc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=A7TXbLLxnkc">Monthly QnA Live  - General Discussion</a><br/>Mar 30, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=m83PZ79bLGY"><img width="140px" src="https://i.ytimg.com/vi/m83PZ79bLGY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=m83PZ79bLGY">Recommendatoin System in ML |  ML Revision | Data Science</a><br/>Mar 29, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
