@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2SycEMd5LOE"><img width="140px" src="https://i.ytimg.com/vi/2SycEMd5LOE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2SycEMd5LOE">#1 PERCEPTRON  | Deep learning from Scratch</a><br/>Apr 4, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=2SycEMd5LOE">#1 PERCEPTRON  | Deep learning from Scratch</a><br/>Apr 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-iF404KYz9I"><img width="140px" src="https://i.ytimg.com/vi/-iF404KYz9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-iF404KYz9I">DEEP LEARNING - New Series Launch</a><br/>Apr 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZMPEZNfOf0A"><img width="140px" src="https://i.ytimg.com/vi/ZMPEZNfOf0A/mqdefault.jpg"></a></td>
