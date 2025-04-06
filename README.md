@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_DrKUmcdIKQ"><img width="140px" src="https://i.ytimg.com/vi/_DrKUmcdIKQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_DrKUmcdIKQ">#1 Feed Forward Network | Deep learning from Scratch</a><br/>Apr 5, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=_DrKUmcdIKQ">#1 Feed Forward Network | Deep learning from Scratch</a><br/>Apr 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2SycEMd5LOE"><img width="140px" src="https://i.ytimg.com/vi/2SycEMd5LOE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2SycEMd5LOE">#1 PERCEPTRON  | Deep learning from Scratch</a><br/>Apr 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-iF404KYz9I"><img width="140px" src="https://i.ytimg.com/vi/-iF404KYz9I/mqdefault.jpg"></a></td>
