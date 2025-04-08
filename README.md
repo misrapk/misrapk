@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dyxXGYr6ryY"><img width="140px" src="https://i.ytimg.com/vi/dyxXGYr6ryY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OSBLBlX9Xxk"><img width="140px" src="https://i.ytimg.com/vi/OSBLBlX9Xxk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OSBLBlX9Xxk">#3 Vanishing Gradient and Activation Functions | Deep learning from Scratch</a><br/>Apr 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dyxXGYr6ryY"><img width="140px" src="https://i.ytimg.com/vi/dyxXGYr6ryY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dyxXGYr6ryY">Project : OSTEOPOROSIS Risk Prediction - Data Science Project  | LIVE</a><br/>Apr 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_DrKUmcdIKQ"><img width="140px" src="https://i.ytimg.com/vi/_DrKUmcdIKQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_DrKUmcdIKQ">#1 Feed Forward Network | Deep learning from Scratch</a><br/>Apr 6, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=2SycEMd5LOE">#1 PERCEPTRON  | Deep learning from Scratch</a><br/>Apr 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-iF404KYz9I"><img width="140px" src="https://i.ytimg.com/vi/-iF404KYz9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-iF404KYz9I">DEEP LEARNING - New Series Launch</a><br/>Apr 4, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZMPEZNfOf0A"><img width="140px" src="https://i.ytimg.com/vi/ZMPEZNfOf0A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZMPEZNfOf0A">Part-2 | Use ML to Allocate Funding for Needed Country | Project on Unsupervised Learning</a><br/>Apr 2, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
