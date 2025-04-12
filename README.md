@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=blM6TM1cRVY"><img width="140px" src="https://i.ytimg.com/vi/blM6TM1cRVY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RH-ZfmqbeNU"><img width="140px" src="https://i.ytimg.com/vi/RH-ZfmqbeNU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RH-ZfmqbeNU">Train, validation and test data. #shorts #ytshorts #machinelearninghindi</a><br/>Apr 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=blM6TM1cRVY"><img width="140px" src="https://i.ytimg.com/vi/blM6TM1cRVY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=blM6TM1cRVY">ML Development Cycle..... #shortvideo #ytshorts</a><br/>Apr 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eBNWdPhRO_0"><img width="140px" src="https://i.ytimg.com/vi/eBNWdPhRO_0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eBNWdPhRO_0">#4 Various Optimisers | Deep learning from Scratch</a><br/>Apr 10, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=OSBLBlX9Xxk">#3 Vanishing Gradient and Activation Functions | Deep learning from Scratch</a><br/>Apr 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dyxXGYr6ryY"><img width="140px" src="https://i.ytimg.com/vi/dyxXGYr6ryY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dyxXGYr6ryY">Project : OSTEOPOROSIS Risk Prediction - Data Science Project  | LIVE</a><br/>Apr 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_DrKUmcdIKQ"><img width="140px" src="https://i.ytimg.com/vi/_DrKUmcdIKQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_DrKUmcdIKQ">#2 Feed Forward Network | Deep learning from Scratch</a><br/>Apr 6, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
