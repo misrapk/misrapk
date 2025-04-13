@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=43p6XCdzMIk"><img width="140px" src="https://i.ytimg.com/vi/43p6XCdzMIk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=43p6XCdzMIk">Saturday QnA Live  - General Discussion</a><br/>Apr 12, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=43p6XCdzMIk">Saturday QnA Live  - General Discussion</a><br/>Apr 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RH-ZfmqbeNU"><img width="140px" src="https://i.ytimg.com/vi/RH-ZfmqbeNU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RH-ZfmqbeNU">Train, validation and test data. #shorts #ytshorts #machinelearninghindi</a><br/>Apr 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=blM6TM1cRVY"><img width="140px" src="https://i.ytimg.com/vi/blM6TM1cRVY/mqdefault.jpg"></a></td>
