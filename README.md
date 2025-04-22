@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DfJHzgbfRPg"><img width="140px" src="https://i.ytimg.com/vi/DfJHzgbfRPg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DfJHzgbfRPg">#7 Working of Convolutional Layer - Theory | Deep learning from Scratch</a><br/>Apr 21, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=DfJHzgbfRPg">#7 Working of Convolutional Layer - Theory | Deep learning from Scratch</a><br/>Apr 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qrtmR--8Ybs"><img width="140px" src="https://i.ytimg.com/vi/qrtmR--8Ybs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qrtmR--8Ybs">#6 Introduction to Convolutional Neural Network - CNN | Deep learning from Scratch</a><br/>Apr 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YWfF9jl9Ejo"><img width="140px" src="https://i.ytimg.com/vi/YWfF9jl9Ejo/mqdefault.jpg"></a></td>
