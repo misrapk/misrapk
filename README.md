@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DfJHzgbfRPg"><img width="140px" src="https://i.ytimg.com/vi/DfJHzgbfRPg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tLJSuy2pJvM"><img width="140px" src="https://i.ytimg.com/vi/tLJSuy2pJvM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tLJSuy2pJvM">#8 CNN Architecutre - Classical Network | Deep learning from Scratch</a><br/>Apr 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DfJHzgbfRPg"><img width="140px" src="https://i.ytimg.com/vi/DfJHzgbfRPg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DfJHzgbfRPg">#7 Working of Convolutional Layer - Theory | Deep learning from Scratch</a><br/>Apr 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qrtmR--8Ybs"><img width="140px" src="https://i.ytimg.com/vi/qrtmR--8Ybs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qrtmR--8Ybs">#6 Introduction to Convolutional Neural Network - CNN | Deep learning from Scratch</a><br/>Apr 20, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=YWfF9jl9Ejo">#5 Implementation of Neural Network in Python | Deep learning from Scratch</a><br/>Apr 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=43p6XCdzMIk"><img width="140px" src="https://i.ytimg.com/vi/43p6XCdzMIk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=43p6XCdzMIk">Saturday QnA Live  - General Discussion</a><br/>Apr 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=RH-ZfmqbeNU"><img width="140px" src="https://i.ytimg.com/vi/RH-ZfmqbeNU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RH-ZfmqbeNU">Train, validation and test data. #shorts #ytshorts #machinelearninghindi</a><br/>Apr 12, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
