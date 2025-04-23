@@ -53,8 +53,8 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sdmt_-47TR4"><img width="140px" src="https://i.ytimg.com/vi/sdmt_-47TR4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sdmt_-47TR4">#8 CNN Architecutre | Deep learning from Scratch</a><br/>Apr 23, 2025</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5eqq3eqa66w"><img width="140px" src="https://i.ytimg.com/vi/5eqq3eqa66w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5eqq3eqa66w">#8 CNN Architecutre - Classical Network | Deep learning from Scratch</a><br/>Apr 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DfJHzgbfRPg"><img width="140px" src="https://i.ytimg.com/vi/DfJHzgbfRPg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DfJHzgbfRPg">#7 Working of Convolutional Layer - Theory | Deep learning from Scratch</a><br/>Apr 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qrtmR--8Ybs"><img width="140px" src="https://i.ytimg.com/vi/qrtmR--8Ybs/mqdefault.jpg"></a></td>
