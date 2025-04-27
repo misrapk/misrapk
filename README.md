@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XMCQFNJ0W4E"><img width="140px" src="https://i.ytimg.com/vi/XMCQFNJ0W4E/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2bh6ww_GGNA"><img width="140px" src="https://i.ytimg.com/vi/2bh6ww_GGNA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2bh6ww_GGNA">🔴PART 2 -  World Population Analysis  - Data Analysis Project  | LIVE</a><br/>Apr 27, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XMCQFNJ0W4E"><img width="140px" src="https://i.ytimg.com/vi/XMCQFNJ0W4E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XMCQFNJ0W4E">🔴 World Population Analysis  - Data Analysis Project  | LIVE</a><br/>Apr 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NCEobmhGiTI"><img width="140px" src="https://i.ytimg.com/vi/NCEobmhGiTI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NCEobmhGiTI">Om shanti. #ytshorts #pahelgamterrorattack #pahalgamkashmir</a><br/>Apr 24, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=5eqq3eqa66w">#8 CNN Architecutre - Classical Network | Deep learning from Scratch</a><br/>Apr 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DfJHzgbfRPg"><img width="140px" src="https://i.ytimg.com/vi/DfJHzgbfRPg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DfJHzgbfRPg">#7 Working of Convolutional Layer - Theory | Deep learning from Scratch</a><br/>Apr 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qrtmR--8Ybs"><img width="140px" src="https://i.ytimg.com/vi/qrtmR--8Ybs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qrtmR--8Ybs">#6 Introduction to Convolutional Neural Network - CNN | Deep learning from Scratch</a><br/>Apr 20, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
