@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2bh6ww_GGNA"><img width="140px" src="https://i.ytimg.com/vi/2bh6ww_GGNA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2bh6ww_GGNA">🔴PART 2 -  World Population Analysis  - Data Analysis Project  | LIVE</a><br/>Apr 27, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=2bh6ww_GGNA">🔴PART 2 -  World Population Analysis  - Data Analysis Project  | LIVE</a><br/>Apr 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XMCQFNJ0W4E"><img width="140px" src="https://i.ytimg.com/vi/XMCQFNJ0W4E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XMCQFNJ0W4E">🔴 World Population Analysis  - Data Analysis Project  | LIVE</a><br/>Apr 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NCEobmhGiTI"><img width="140px" src="https://i.ytimg.com/vi/NCEobmhGiTI/mqdefault.jpg"></a></td>
