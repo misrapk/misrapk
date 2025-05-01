@@ -55,12 +55,12 @@
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lN0JV1N77Xk"><img width="140px" src="https://i.ytimg.com/vi/lN0JV1N77Xk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lN0JV1N77Xk">Introducing #100dayschallenge for #100daysoflearning</a><br/>May 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=15DvaEpcY6g"><img width="140px" src="https://i.ytimg.com/vi/15DvaEpcY6g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=15DvaEpcY6g">#10 Backpropagation in CNN | Deep learning from Scratch</a><br/>May 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yNyKGuKBR9I"><img width="140px" src="https://i.ytimg.com/vi/yNyKGuKBR9I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yNyKGuKBR9I">#9 ResNeT CNN Architecutre - Classical Network | Deep learning from Scratch</a><br/>Apr 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=A8rkoEgJIK8"><img width="140px" src="https://i.ytimg.com/vi/A8rkoEgJIK8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=A8rkoEgJIK8">Clone Any Website in Minutes!!!! 🫨🫨</a><br/>Apr 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2bh6ww_GGNA"><img width="140px" src="https://i.ytimg.com/vi/2bh6ww_GGNA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2bh6ww_GGNA">🔴PART 2 -  World Population Analysis  - Data Analysis Project  | LIVE</a><br/>Apr 28, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XMCQFNJ0W4E"><img width="140px" src="https://i.ytimg.com/vi/XMCQFNJ0W4E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XMCQFNJ0W4E">🔴 World Population Analysis  - Data Analysis Project  | LIVE</a><br/>Apr 26, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
