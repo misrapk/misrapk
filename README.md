@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JcMzkxJrm74"><img width="140px" src="https://i.ytimg.com/vi/JcMzkxJrm74/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JcMzkxJrm74">#12 L1 and L2 Regularaisation - Theory &amp; Implementation |  Deep learning from Scratch</a><br/>May 3, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=JcMzkxJrm74">#12 L1 and L2 Regularisation - Theory &amp; Implementation |  Deep learning from Scratch</a><br/>May 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ONJ8kJI36S4"><img width="140px" src="https://i.ytimg.com/vi/ONJ8kJI36S4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ONJ8kJI36S4">#11 Early Stopping &amp; DROPOUT Layers |  Deep learning from Scratch</a><br/>May 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=15DvaEpcY6g"><img width="140px" src="https://i.ytimg.com/vi/15DvaEpcY6g/mqdefault.jpg"></a></td>
