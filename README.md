@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JcMzkxJrm74"><img width="140px" src="https://i.ytimg.com/vi/JcMzkxJrm74/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0VBga7jBAHA"><img width="140px" src="https://i.ytimg.com/vi/0VBga7jBAHA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0VBga7jBAHA">#13 Vanishing Gradient and its Solution using Tensorflow  |  Deep learning from Scratch</a><br/>May 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=JcMzkxJrm74"><img width="140px" src="https://i.ytimg.com/vi/JcMzkxJrm74/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JcMzkxJrm74">#12 L1 and L2 Regularisation - Theory &amp; Implementation |  Deep learning from Scratch</a><br/>May 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ONJ8kJI36S4"><img width="140px" src="https://i.ytimg.com/vi/ONJ8kJI36S4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ONJ8kJI36S4">#11 Early Stopping &amp; DROPOUT Layers |  Deep learning from Scratch</a><br/>May 3, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=15DvaEpcY6g">#10 Backpropagation in CNN | Deep learning from Scratch</a><br/>May 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lN0JV1N77Xk"><img width="140px" src="https://i.ytimg.com/vi/lN0JV1N77Xk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lN0JV1N77Xk">Introducing #100dayschallenge for #100daysoflearning</a><br/>May 1, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yNyKGuKBR9I"><img width="140px" src="https://i.ytimg.com/vi/yNyKGuKBR9I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yNyKGuKBR9I">#9 ResNeT CNN Architecutre - Classical Network | Deep learning from Scratch</a><br/>Apr 29, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
