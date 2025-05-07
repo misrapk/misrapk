@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0VBga7jBAHA"><img width="140px" src="https://i.ytimg.com/vi/0VBga7jBAHA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0VBga7jBAHA">#13 Vanishing Gradient and its Solution using Tensorflow  |  Deep learning from Scratch</a><br/>May 6, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=0VBga7jBAHA">#13 Vanishing Gradient and its Solution using Tensorflow  |  Deep learning from Scratch</a><br/>May 7, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JcMzkxJrm74"><img width="140px" src="https://i.ytimg.com/vi/JcMzkxJrm74/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JcMzkxJrm74">#12 L1 and L2 Regularisation - Theory &amp; Implementation |  Deep learning from Scratch</a><br/>May 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ONJ8kJI36S4"><img width="140px" src="https://i.ytimg.com/vi/ONJ8kJI36S4/mqdefault.jpg"></a></td>
