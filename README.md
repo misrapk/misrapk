@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pnjGq3B7dw4"><img width="140px" src="https://i.ytimg.com/vi/pnjGq3B7dw4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ctz7VwQ82og"><img width="140px" src="https://i.ytimg.com/vi/ctz7VwQ82og/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ctz7VwQ82og">Complete Machine Learning in 24 Hours | Hindi | Part 1 – Data Science Practical &amp; Theory Masterclass</a><br/>May 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pnjGq3B7dw4"><img width="140px" src="https://i.ytimg.com/vi/pnjGq3B7dw4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pnjGq3B7dw4">#14 Using PreTrained Layers - Practical &amp; Theory |  Deep learning from Scratch</a><br/>May 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rf5Sgpztlhg"><img width="140px" src="https://i.ytimg.com/vi/rf5Sgpztlhg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rf5Sgpztlhg">Resume tips for college placements  #shortvideo #campusplacement2025</a><br/>May 8, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=bD24NWW97eM">Crack Campus Placements 2025 | Real Talk + Tips</a><br/>May 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kNiv2M0PQ0o"><img width="140px" src="https://i.ytimg.com/vi/kNiv2M0PQ0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kNiv2M0PQ0o">Buy on amazon@FortitudeForeverPodcast  #shortvideo #bookreview</a><br/>May 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0VBga7jBAHA"><img width="140px" src="https://i.ytimg.com/vi/0VBga7jBAHA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0VBga7jBAHA">#13 Vanishing Gradient and its Solution using Tensorflow  |  Deep learning from Scratch</a><br/>May 7, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
