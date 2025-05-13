@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RXVcNyuJC8Q"><img width="140px" src="https://i.ytimg.com/vi/RXVcNyuJC8Q/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vHwt6ZBxCZY"><img width="140px" src="https://i.ytimg.com/vi/vHwt6ZBxCZY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vHwt6ZBxCZY">Project - Predict the Price of Used Car using Deep Learning |  Deep learning from Scratch</a><br/>May 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RXVcNyuJC8Q"><img width="140px" src="https://i.ytimg.com/vi/RXVcNyuJC8Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RXVcNyuJC8Q">#15 Complete TENSORFLOW for DeepLearning |  Deep learning from Scratch</a><br/>May 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ctz7VwQ82og"><img width="140px" src="https://i.ytimg.com/vi/ctz7VwQ82og/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ctz7VwQ82og">Complete Machine Learning in 24 Hours | Hindi | Part 1 – Data Science Practical &amp; Theory Masterclass</a><br/>May 11, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=pnjGq3B7dw4">#14 Using PreTrained Layers - Practical &amp; Theory |  Deep learning from Scratch</a><br/>May 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rf5Sgpztlhg"><img width="140px" src="https://i.ytimg.com/vi/rf5Sgpztlhg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rf5Sgpztlhg">Resume tips for college placements  #shortvideo #campusplacement2025</a><br/>May 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=bD24NWW97eM"><img width="140px" src="https://i.ytimg.com/vi/bD24NWW97eM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bD24NWW97eM">Crack Campus Placements 2025 | Real Talk + Tips</a><br/>May 8, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
