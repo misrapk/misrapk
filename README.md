@@ -53,10 +53,10 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HDCb4bd8Ap0"><img width="140px" src="https://i.ytimg.com/vi/HDCb4bd8Ap0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vHwt6ZBxCZY"><img width="140px" src="https://i.ytimg.com/vi/vHwt6ZBxCZY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vHwt6ZBxCZY">Project - Predict the Price of Used Car using Deep Learning | PART 1</a><br/>May 14, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HDCb4bd8Ap0"><img width="140px" src="https://i.ytimg.com/vi/HDCb4bd8Ap0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HDCb4bd8Ap0">Project - Predict the Price of Used Car using Deep Learning | PART 2</a><br/>May 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vHwt6ZBxCZY"><img width="140px" src="https://i.ytimg.com/vi/vHwt6ZBxCZY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vHwt6ZBxCZY">Project - Predict the Price of Used Car using Deep Learning | PART 1</a><br/>May 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RXVcNyuJC8Q"><img width="140px" src="https://i.ytimg.com/vi/RXVcNyuJC8Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RXVcNyuJC8Q">#15 Complete TENSORFLOW for DeepLearning |  Deep learning from Scratch</a><br/>May 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ctz7VwQ82og"><img width="140px" src="https://i.ytimg.com/vi/ctz7VwQ82og/mqdefault.jpg"></a></td>
