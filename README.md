@@ -53,14 +53,14 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vHwt6ZBxCZY"><img width="140px" src="https://i.ytimg.com/vi/vHwt6ZBxCZY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GC1cZx-_eiA"><img width="140px" src="https://i.ytimg.com/vi/GC1cZx-_eiA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GC1cZx-_eiA">Complete Machine Learning in 16 Hours| Hindi | Part 2 – Data Science Practical &amp; Theory Masterclass</a><br/>May 14, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vHwt6ZBxCZY"><img width="140px" src="https://i.ytimg.com/vi/vHwt6ZBxCZY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vHwt6ZBxCZY">Project - Predict the Price of Used Car using Deep Learning | PART 1</a><br/>May 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HDCb4bd8Ap0"><img width="140px" src="https://i.ytimg.com/vi/HDCb4bd8Ap0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HDCb4bd8Ap0">Project - Predict the Price of Used Car using Deep Learning | PART 2</a><br/>May 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RXVcNyuJC8Q"><img width="140px" src="https://i.ytimg.com/vi/RXVcNyuJC8Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RXVcNyuJC8Q">#15 Complete TENSORFLOW for DeepLearning |  Deep learning from Scratch</a><br/>May 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ctz7VwQ82og"><img width="140px" src="https://i.ytimg.com/vi/ctz7VwQ82og/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ctz7VwQ82og">Complete Machine Learning in 24 Hours | Hindi | Part 1 – Data Science Practical &amp; Theory Masterclass</a><br/>May 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pnjGq3B7dw4"><img width="140px" src="https://i.ytimg.com/vi/pnjGq3B7dw4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pnjGq3B7dw4">#14 Using PreTrained Layers - Practical &amp; Theory |  Deep learning from Scratch</a><br/>May 10, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=ctz7VwQ82og">Complete Machine Learning in 16 Hours | Hindi | Part 1 – Data Science Practical &amp; Theory Masterclass</a><br/>May 11, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
