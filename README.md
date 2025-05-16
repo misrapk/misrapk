@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=H-E9VIYn5dk"><img width="140px" src="https://i.ytimg.com/vi/H-E9VIYn5dk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=H-E9VIYn5dk">🔴LIVE - Kaggle Competition - EDA on Podcast Listening Time 🎙️ | Data Analysis Project</a><br/>May 15, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=H-E9VIYn5dk">🔴LIVE - Kaggle Competition - EDA on Podcast Listening Time 🎙️ | Data Analysis Project</a><br/>May 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WOXm5RqSXRw"><img width="140px" src="https://i.ytimg.com/vi/WOXm5RqSXRw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WOXm5RqSXRw">Project - Predict the Price of Used Car using Deep Learning | PART 2</a><br/>May 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GC1cZx-_eiA"><img width="140px" src="https://i.ytimg.com/vi/GC1cZx-_eiA/mqdefault.jpg"></a></td>
