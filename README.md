@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=H-E9VIYn5dk"><img width="140px" src="https://i.ytimg.com/vi/H-E9VIYn5dk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ojMB4bsO2xc"><img width="140px" src="https://i.ytimg.com/vi/ojMB4bsO2xc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ojMB4bsO2xc">🔴LIVE - Part 2 Kaggle Competition - EDA on Podcast Listening Time  | Data Analysis Project</a><br/>May 16, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=H-E9VIYn5dk"><img width="140px" src="https://i.ytimg.com/vi/H-E9VIYn5dk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H-E9VIYn5dk">🔴LIVE - Kaggle Competition - EDA on Podcast Listening Time 🎙️ | Data Analysis Project</a><br/>May 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WOXm5RqSXRw"><img width="140px" src="https://i.ytimg.com/vi/WOXm5RqSXRw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WOXm5RqSXRw">Project - Predict the Price of Used Car using Deep Learning | PART 2</a><br/>May 15, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=GC1cZx-_eiA">Complete Machine Learning in 16 Hours| Hindi | Part 2 – Data Science Practical &amp; Theory Masterclass</a><br/>May 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vHwt6ZBxCZY"><img width="140px" src="https://i.ytimg.com/vi/vHwt6ZBxCZY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vHwt6ZBxCZY">Project - Predict the Price of Used Car using Deep Learning | PART 1</a><br/>May 14, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=RXVcNyuJC8Q"><img width="140px" src="https://i.ytimg.com/vi/RXVcNyuJC8Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RXVcNyuJC8Q">#15 Complete TENSORFLOW for DeepLearning |  Deep learning from Scratch</a><br/>May 13, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
