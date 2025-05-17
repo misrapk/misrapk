@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ojMB4bsO2xc"><img width="140px" src="https://i.ytimg.com/vi/ojMB4bsO2xc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ojMB4bsO2xc">🔴LIVE - Part 2 Kaggle Competition - EDA on Podcast Listening Time  | Data Analysis Project</a><br/>May 16, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=ojMB4bsO2xc">🔴LIVE - Part 2 Kaggle Competition - EDA on Podcast Listening Time  | Data Analysis Project</a><br/>May 17, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=H-E9VIYn5dk"><img width="140px" src="https://i.ytimg.com/vi/H-E9VIYn5dk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H-E9VIYn5dk">🔴LIVE - Kaggle Competition - EDA on Podcast Listening Time 🎙️ | Data Analysis Project</a><br/>May 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WOXm5RqSXRw"><img width="140px" src="https://i.ytimg.com/vi/WOXm5RqSXRw/mqdefault.jpg"></a></td>
