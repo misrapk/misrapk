@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ET-AhHHZsHc"><img width="140px" src="https://i.ytimg.com/vi/ET-AhHHZsHc/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Gd3O8vE6Vz8"><img width="140px" src="https://i.ytimg.com/vi/Gd3O8vE6Vz8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Gd3O8vE6Vz8">sochna jarur.... #ytshorts #shortvideo #motivationshort</a><br/>May 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ET-AhHHZsHc"><img width="140px" src="https://i.ytimg.com/vi/ET-AhHHZsHc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ET-AhHHZsHc">congratulations to all 🎉 #shorts #shortvideo</a><br/>May 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ojMB4bsO2xc"><img width="140px" src="https://i.ytimg.com/vi/ojMB4bsO2xc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ojMB4bsO2xc">🔴LIVE - Part 2 Kaggle Competition - EDA on Podcast Listening Time  | Data Analysis Project</a><br/>May 17, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=H-E9VIYn5dk">🔴LIVE - Kaggle Competition - EDA on Podcast Listening Time 🎙️ | Data Analysis Project</a><br/>May 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WOXm5RqSXRw"><img width="140px" src="https://i.ytimg.com/vi/WOXm5RqSXRw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WOXm5RqSXRw">Project - Predict the Price of Used Car using Deep Learning | PART 2</a><br/>May 15, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GC1cZx-_eiA"><img width="140px" src="https://i.ytimg.com/vi/GC1cZx-_eiA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GC1cZx-_eiA">Complete Machine Learning in 16 Hours| Hindi | Part 2 – Data Science Practical &amp; Theory Masterclass</a><br/>May 14, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
