@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JYT1Li_2cM4"><img width="140px" src="https://i.ytimg.com/vi/JYT1Li_2cM4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=diJzLshp3YU"><img width="140px" src="https://i.ytimg.com/vi/diJzLshp3YU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=diJzLshp3YU">Virtual Meetup - google meet</a><br/>May 31, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=JYT1Li_2cM4"><img width="140px" src="https://i.ytimg.com/vi/JYT1Li_2cM4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JYT1Li_2cM4">🔴LIVE - Part 5 Kaggle Competition - Model Training on Podcast Listening Time</a><br/>May 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cyTOD8NKABw"><img width="140px" src="https://i.ytimg.com/vi/cyTOD8NKABw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cyTOD8NKABw">🔴LIVE - Part 4 Kaggle Competition - EDA on Podcast Listening Time  | Data Analysis Project</a><br/>May 29, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=dO5QlCy1KX4">🔴LIVE - Part 3 Kaggle Competition - EDA on Podcast Listening Time  | Data Analysis Project</a><br/>May 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qOOi5QfTDmA"><img width="140px" src="https://i.ytimg.com/vi/qOOi5QfTDmA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qOOi5QfTDmA">[BTS]Live me light aane ki khushi #ytshorts</a><br/>May 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ni-qmFHWK1A"><img width="140px" src="https://i.ytimg.com/vi/ni-qmFHWK1A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ni-qmFHWK1A">best ever tip for placement interviews. #shortvideo #ytshorts #interview #placement</a><br/>May 20, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
