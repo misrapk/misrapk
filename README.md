@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uudn1Vf5MZA"><img width="140px" src="https://i.ytimg.com/vi/uudn1Vf5MZA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uudn1Vf5MZA">Virtual Meetup - LIVE | Google Meet</a><br/>May 31, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=uudn1Vf5MZA">Virtual Meetup - LIVE | Google Meet</a><br/>Jun 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=diJzLshp3YU"><img width="140px" src="https://i.ytimg.com/vi/diJzLshp3YU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=diJzLshp3YU">Virtual Meetup - google meet</a><br/>May 31, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JYT1Li_2cM4"><img width="140px" src="https://i.ytimg.com/vi/JYT1Li_2cM4/mqdefault.jpg"></a></td>
