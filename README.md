@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0q2-94MhHVw"><img width="140px" src="https://i.ytimg.com/vi/0q2-94MhHVw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0q2-94MhHVw">#18 Data Augumentation | Deep learning | CNN</a><br/>Jun 7, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=0q2-94MhHVw">#18 Data Augmentation | Deep learning | CNN</a><br/>Jun 7, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tWhl5IEFi1Q"><img width="140px" src="https://i.ytimg.com/vi/tWhl5IEFi1Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tWhl5IEFi1Q">All About TIER System in Colleges</a><br/>Jun 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JYT1Li_2cM4"><img width="140px" src="https://i.ytimg.com/vi/JYT1Li_2cM4/mqdefault.jpg"></a></td>
