@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0q2-94MhHVw"><img width="140px" src="https://i.ytimg.com/vi/0q2-94MhHVw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=v_jLXTRGJ_o"><img width="140px" src="https://i.ytimg.com/vi/v_jLXTRGJ_o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=v_jLXTRGJ_o">Semester wise Roadmap for NON-CSE Engineering Students |</a><br/>Jun 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0q2-94MhHVw"><img width="140px" src="https://i.ytimg.com/vi/0q2-94MhHVw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0q2-94MhHVw">#18 Data Augmentation | Deep learning | CNN</a><br/>Jun 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=s6NB010XWkw"><img width="140px" src="https://i.ytimg.com/vi/s6NB010XWkw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s6NB010XWkw">Perks of getting into IIT #shortvideo #shorts #ytshorts</a><br/>Jun 7, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=tWhl5IEFi1Q">All About TIER System in Colleges</a><br/>Jun 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JYT1Li_2cM4"><img width="140px" src="https://i.ytimg.com/vi/JYT1Li_2cM4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JYT1Li_2cM4">🔴LIVE - Part 5 Kaggle Competition - Model Training on Podcast Listening Time</a><br/>Jun 1, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uudn1Vf5MZA"><img width="140px" src="https://i.ytimg.com/vi/uudn1Vf5MZA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uudn1Vf5MZA">Virtual Meetup - LIVE | Google Meet</a><br/>Jun 1, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
