@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-GctEfDGqvs"><img width="140px" src="https://i.ytimg.com/vi/-GctEfDGqvs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-GctEfDGqvs">Cloth Classification using CNN - Deep Learning Project | Sunday Live</a><br/>Jun 15, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=-GctEfDGqvs">Cloth Classification using CNN - Deep Learning Project | Sunday Live</a><br/>Jun 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g__o0fa8qZs"><img width="140px" src="https://i.ytimg.com/vi/g__o0fa8qZs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g__o0fa8qZs">#20 Transfer Learning in CNN | Deep learning | CNN</a><br/>Jun 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6vLN_xT-K0w"><img width="140px" src="https://i.ytimg.com/vi/6vLN_xT-K0w/mqdefault.jpg"></a></td>
