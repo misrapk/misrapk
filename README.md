@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-GctEfDGqvs"><img width="140px" src="https://i.ytimg.com/vi/-GctEfDGqvs/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=b0Yhl1KVHRI"><img width="140px" src="https://i.ytimg.com/vi/b0Yhl1KVHRI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b0Yhl1KVHRI">20. Introduction to RNN and Forward Propogation | Deep Learning | Hindi</a><br/>Jun 16, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-GctEfDGqvs"><img width="140px" src="https://i.ytimg.com/vi/-GctEfDGqvs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-GctEfDGqvs">Cloth Classification using CNN - Deep Learning Project | Sunday Live</a><br/>Jun 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g__o0fa8qZs"><img width="140px" src="https://i.ytimg.com/vi/g__o0fa8qZs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g__o0fa8qZs">#20 Transfer Learning in CNN | Deep learning | CNN</a><br/>Jun 14, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=6vLN_xT-K0w">#19  Inception Network &amp; 1x1 Convolution | Deep learning | CNN</a><br/>Jun 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=v_jLXTRGJ_o"><img width="140px" src="https://i.ytimg.com/vi/v_jLXTRGJ_o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v_jLXTRGJ_o">Semester wise Roadmap for NON-CSE Engineering Students |</a><br/>Jun 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0q2-94MhHVw"><img width="140px" src="https://i.ytimg.com/vi/0q2-94MhHVw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0q2-94MhHVw">#18 Data Augmentation | Deep learning | CNN</a><br/>Jun 8, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
