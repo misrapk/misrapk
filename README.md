@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5-s7s5mbC6c"><img width="140px" src="https://i.ytimg.com/vi/5-s7s5mbC6c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5-s7s5mbC6c">23. Types of RNN and Vanishing Gradient Probelm in RNN | Deep Learning | Hindi</a><br/>Jun 18, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=5-s7s5mbC6c">23. Types of RNN and Vanishing Gradient Probelm in RNN | Deep Learning | Hindi</a><br/>Jun 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EFjYfxhDYK0"><img width="140px" src="https://i.ytimg.com/vi/EFjYfxhDYK0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EFjYfxhDYK0">22. Backpropagation in RNN | Deep Learning | Hindi</a><br/>Jun 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=b0Yhl1KVHRI"><img width="140px" src="https://i.ytimg.com/vi/b0Yhl1KVHRI/mqdefault.jpg"></a></td>
