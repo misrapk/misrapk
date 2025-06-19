@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5-s7s5mbC6c"><img width="140px" src="https://i.ytimg.com/vi/5-s7s5mbC6c/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/ZBVl6gvkuxA"><img width="140px" src="https://i.ytimg.com/vi/ZBVl6gvkuxA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/ZBVl6gvkuxA">What&#39;s your point and queries???  #shorts #ytshorts</a><br/>Jun 19, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5-s7s5mbC6c"><img width="140px" src="https://i.ytimg.com/vi/5-s7s5mbC6c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5-s7s5mbC6c">23. Types of RNN and Vanishing Gradient Probelm in RNN | Deep Learning | Hindi</a><br/>Jun 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EFjYfxhDYK0"><img width="140px" src="https://i.ytimg.com/vi/EFjYfxhDYK0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EFjYfxhDYK0">22. Backpropagation in RNN | Deep Learning | Hindi</a><br/>Jun 18, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=b0Yhl1KVHRI">21. Introduction to RNN and Forward Propogation | Deep Learning | Hindi</a><br/>Jun 17, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-GctEfDGqvs"><img width="140px" src="https://i.ytimg.com/vi/-GctEfDGqvs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-GctEfDGqvs">Cloth Classification using CNN - Deep Learning Project | Sunday Live</a><br/>Jun 16, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=g__o0fa8qZs"><img width="140px" src="https://i.ytimg.com/vi/g__o0fa8qZs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=g__o0fa8qZs">#20 Transfer Learning in CNN | Deep learning | CNN</a><br/>Jun 14, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
