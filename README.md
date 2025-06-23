@@ -53,10 +53,10 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/FO6aZBmfI5k"><img width="140px" src="https://i.ytimg.com/vi/FO6aZBmfI5k/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NNSSsJo1mVc"><img width="140px" src="https://i.ytimg.com/vi/NNSSsJo1mVc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NNSSsJo1mVc">Sunday QnA Live - Lets Talk</a><br/>Jun 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/FO6aZBmfI5k"><img width="140px" src="https://i.ytimg.com/vi/FO6aZBmfI5k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/FO6aZBmfI5k">#nextgen college se degree milegi???  #shortvideo #shortsfeed #ytshorts</a><br/>Jun 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NNSSsJo1mVc"><img width="140px" src="https://i.ytimg.com/vi/NNSSsJo1mVc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NNSSsJo1mVc">Sunday QnA Live - Lets Talk</a><br/>Jun 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cE2VxMCCepo"><img width="140px" src="https://i.ytimg.com/vi/cE2VxMCCepo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cE2VxMCCepo">Next Gen vs Traditional Engineering Colleges 🚀 My Honest Take!</a><br/>Jun 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ZBVl6gvkuxA"><img width="140px" src="https://i.ytimg.com/vi/ZBVl6gvkuxA/mqdefault.jpg"></a></td>
