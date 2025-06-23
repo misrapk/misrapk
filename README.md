@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/2Yoae4wDSk0"><img width="140px" src="https://i.ytimg.com/vi/2Yoae4wDSk0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pGMscJWa3zs"><img width="140px" src="https://i.ytimg.com/vi/pGMscJWa3zs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pGMscJWa3zs">Part 2 Cloths Classification using CNN - Deep Learning Project</a><br/>Jun 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/2Yoae4wDSk0"><img width="140px" src="https://i.ytimg.com/vi/2Yoae4wDSk0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/2Yoae4wDSk0">Fee structure of #newtonschooloftechnology #reels #shortvideo</a><br/>Jun 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NNSSsJo1mVc"><img width="140px" src="https://i.ytimg.com/vi/NNSSsJo1mVc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NNSSsJo1mVc">Sunday QnA Live - Lets Talk</a><br/>Jun 23, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/shorts/FO6aZBmfI5k">#nextgen college se degree milegi???  #shortvideo #shortsfeed #ytshorts</a><br/>Jun 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cE2VxMCCepo"><img width="140px" src="https://i.ytimg.com/vi/cE2VxMCCepo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cE2VxMCCepo">Next Gen vs Traditional Engineering Colleges 🚀 My Honest Take!</a><br/>Jun 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/ZBVl6gvkuxA"><img width="140px" src="https://i.ytimg.com/vi/ZBVl6gvkuxA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/ZBVl6gvkuxA">What&#39;s your point and queries???  #shorts #ytshorts</a><br/>Jun 19, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
