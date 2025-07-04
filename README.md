@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ydtNP2P-R3w"><img width="140px" src="https://i.ytimg.com/vi/ydtNP2P-R3w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/p0hLOUI3ltg"><img width="140px" src="https://i.ytimg.com/vi/p0hLOUI3ltg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/p0hLOUI3ltg">How to Save a Machine Learning Model???   #ytshorts #shortvideo #ml</a><br/>Jul 4, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ydtNP2P-R3w"><img width="140px" src="https://i.ytimg.com/vi/ydtNP2P-R3w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ydtNP2P-R3w">Sleeping Disorder Prediction using Machine Learning | Data Science Project</a><br/>Jun 30, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/gp-w0yBJtwc"><img width="140px" src="https://i.ytimg.com/vi/gp-w0yBJtwc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/gp-w0yBJtwc">Best Roadmap for ML. #datascience #shortvideo #ytshorts</a><br/>Jun 27, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=NjaQQRfdhmQ">24. Complete LSTM - Theory | Deep Learning | Hindi</a><br/>Jun 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pGMscJWa3zs"><img width="140px" src="https://i.ytimg.com/vi/pGMscJWa3zs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pGMscJWa3zs">Part 2 Cloths Classification using CNN - Deep Learning Project</a><br/>Jun 23, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/2Yoae4wDSk0"><img width="140px" src="https://i.ytimg.com/vi/2Yoae4wDSk0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/2Yoae4wDSk0">Fee structure of #newtonschooloftechnology #reels #shortvideo</a><br/>Jun 23, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
