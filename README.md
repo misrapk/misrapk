@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/ZK15UWD4lNA"><img width="140px" src="https://i.ytimg.com/vi/ZK15UWD4lNA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bSXnBa89OtY"><img width="140px" src="https://i.ytimg.com/vi/bSXnBa89OtY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bSXnBa89OtY">PyTorch Course Launch | Chalo Padhe PyTorch</a><br/>Jul 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/ZK15UWD4lNA"><img width="140px" src="https://i.ytimg.com/vi/ZK15UWD4lNA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ZK15UWD4lNA">Ap kya kahete ho???  #ytshorts #programing</a><br/>Jul 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/YF57Uv5o1pw"><img width="140px" src="https://i.ytimg.com/vi/YF57Uv5o1pw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/YF57Uv5o1pw">new course sneakpeak. #ytshorts</a><br/>Jul 11, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/shorts/TszHFYAeOGI">Comment me btana!! ✌🏻. #ytshorts #newcoursealert</a><br/>Jul 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SZsByUvsr_0"><img width="140px" src="https://i.ytimg.com/vi/SZsByUvsr_0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SZsByUvsr_0">25. GRU - Gated Recurrent Unit - Complete Theory | Deep Learning | Hindi</a><br/>Jul 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/FEHY3AmTt8U"><img width="140px" src="https://i.ytimg.com/vi/FEHY3AmTt8U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/FEHY3AmTt8U">Competition Bahut jyada hai 👍🏻#shortvideo #shorts #ytshorts</a><br/>Jul 4, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
