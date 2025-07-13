@@ -53,14 +53,14 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bSXnBa89OtY"><img width="140px" src="https://i.ytimg.com/vi/bSXnBa89OtY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bSXnBa89OtY">PyTorch Course Launch | Chalo Padhe PyTorch</a><br/>Jul 12, 2025</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Q2kk0VHfKiU"><img width="140px" src="https://i.ytimg.com/vi/Q2kk0VHfKiU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Q2kk0VHfKiU">E3. Random, Zeros and Ones Tensors | Chalo Padhe PyTorch</a><br/>Jul 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yrnbCANXndg"><img width="140px" src="https://i.ytimg.com/vi/yrnbCANXndg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yrnbCANXndg">E2. Tensor Basics | Chalo Padhe PyTorch</a><br/>Jul 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bSXnBa89OtY"><img width="140px" src="https://i.ytimg.com/vi/bSXnBa89OtY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bSXnBa89OtY">E1. PyTorch Course Launch | Chalo Padhe PyTorch</a><br/>Jul 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ZK15UWD4lNA"><img width="140px" src="https://i.ytimg.com/vi/ZK15UWD4lNA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ZK15UWD4lNA">Ap kya kahete ho???  #ytshorts #programing</a><br/>Jul 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/YF57Uv5o1pw"><img width="140px" src="https://i.ytimg.com/vi/YF57Uv5o1pw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/YF57Uv5o1pw">new course sneakpeak. #ytshorts</a><br/>Jul 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/TszHFYAeOGI"><img width="140px" src="https://i.ytimg.com/vi/TszHFYAeOGI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/TszHFYAeOGI">Comment me btana!! ✌🏻. #ytshorts #newcoursealert</a><br/>Jul 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SZsByUvsr_0"><img width="140px" src="https://i.ytimg.com/vi/SZsByUvsr_0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SZsByUvsr_0">25. GRU - Gated Recurrent Unit - Complete Theory | Deep Learning | Hindi</a><br/>Jul 5, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
