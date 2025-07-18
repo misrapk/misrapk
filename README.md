@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mhHMh1i7uCE"><img width="140px" src="https://i.ytimg.com/vi/mhHMh1i7uCE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cvaJy3RCaeU"><img width="140px" src="https://i.ytimg.com/vi/cvaJy3RCaeU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cvaJy3RCaeU">KIRO from Amazon The Future of AI IDEs</a><br/>Jul 18, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mhHMh1i7uCE"><img width="140px" src="https://i.ytimg.com/vi/mhHMh1i7uCE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mhHMh1i7uCE">Is Competitive Programming still worth it?</a><br/>Jul 17, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0H-E1Cdnhkk"><img width="140px" src="https://i.ytimg.com/vi/0H-E1Cdnhkk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0H-E1Cdnhkk">E4. What is CUDA? | Chalo Padhe PyTorch</a><br/>Jul 16, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=Q2kk0VHfKiU">E3. Random, Zeros and Ones Tensors | Chalo Padhe PyTorch</a><br/>Jul 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ePg12_w9FBI"><img width="140px" src="https://i.ytimg.com/vi/ePg12_w9FBI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ePg12_w9FBI">Effort Matters!   #ytshorts  #indvseng</a><br/>Jul 15, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yrnbCANXndg"><img width="140px" src="https://i.ytimg.com/vi/yrnbCANXndg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yrnbCANXndg">E2. Tensor Basics | Chalo Padhe PyTorch</a><br/>Jul 14, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
