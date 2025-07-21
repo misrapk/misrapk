@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vsLhLkib74A"><img width="140px" src="https://i.ytimg.com/vi/vsLhLkib74A/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1PzWGb6bfxs"><img width="140px" src="https://i.ytimg.com/vi/1PzWGb6bfxs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1PzWGb6bfxs">Complete Deep Learning - Part 1 | Hindi</a><br/>Jul 21, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vsLhLkib74A"><img width="140px" src="https://i.ytimg.com/vi/vsLhLkib74A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vsLhLkib74A">E5. Data Types in Pytorch</a><br/>Jul 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/tgm49he9EWY"><img width="140px" src="https://i.ytimg.com/vi/tgm49he9EWY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/tgm49he9EWY">Gemini pro is free 🆓 🥳. #ytshorts #gemini #students</a><br/>Jul 19, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=cvaJy3RCaeU">KIRO from Amazon The Future of AI IDEs</a><br/>Jul 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mhHMh1i7uCE"><img width="140px" src="https://i.ytimg.com/vi/mhHMh1i7uCE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mhHMh1i7uCE">Is Competitive Programming still worth it?</a><br/>Jul 17, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0H-E1Cdnhkk"><img width="140px" src="https://i.ytimg.com/vi/0H-E1Cdnhkk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0H-E1Cdnhkk">E4. What is CUDA? | Chalo Padhe PyTorch</a><br/>Jul 16, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
