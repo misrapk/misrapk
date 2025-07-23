@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/PPNkUlwMxS0"><img width="140px" src="https://i.ytimg.com/vi/PPNkUlwMxS0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=l7YPVG7qAVg"><img width="140px" src="https://i.ytimg.com/vi/l7YPVG7qAVg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=l7YPVG7qAVg">E6. Operations on Tensors in Pytorch</a><br/>Jul 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/PPNkUlwMxS0"><img width="140px" src="https://i.ytimg.com/vi/PPNkUlwMxS0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/PPNkUlwMxS0">complete deep learning launched.  #ytshorts #deeplearning</a><br/>Jul 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1PzWGb6bfxs"><img width="140px" src="https://i.ytimg.com/vi/1PzWGb6bfxs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1PzWGb6bfxs">Complete Deep Learning - Part 1 | Hindi</a><br/>Jul 21, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=vsLhLkib74A">E5. Data Types in Pytorch</a><br/>Jul 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/tgm49he9EWY"><img width="140px" src="https://i.ytimg.com/vi/tgm49he9EWY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/tgm49he9EWY">Gemini pro is free 🆓 🥳. #ytshorts #gemini #students</a><br/>Jul 19, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cvaJy3RCaeU"><img width="140px" src="https://i.ytimg.com/vi/cvaJy3RCaeU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cvaJy3RCaeU">KIRO from Amazon The Future of AI IDEs</a><br/>Jul 18, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
