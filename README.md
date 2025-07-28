@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/6wCrbhHsggM"><img width="140px" src="https://i.ytimg.com/vi/6wCrbhHsggM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/01mO7umEceQ"><img width="140px" src="https://i.ytimg.com/vi/01mO7umEceQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/01mO7umEceQ">Suno Sabki Karo Apni....  #indvseng #reels #ytshorts</a><br/>Jul 28, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/6wCrbhHsggM"><img width="140px" src="https://i.ytimg.com/vi/6wCrbhHsggM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/6wCrbhHsggM">which is best college for admission??? #ytshorts #college #engineeringlife #trending</a><br/>Jul 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=l7YPVG7qAVg"><img width="140px" src="https://i.ytimg.com/vi/l7YPVG7qAVg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=l7YPVG7qAVg">E6. Operations on Tensors in Pytorch</a><br/>Jul 23, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/shorts/PPNkUlwMxS0">complete deep learning launched.  #ytshorts #deeplearning</a><br/>Jul 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1PzWGb6bfxs"><img width="140px" src="https://i.ytimg.com/vi/1PzWGb6bfxs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1PzWGb6bfxs">Complete Deep Learning - Part 1 | Hindi</a><br/>Jul 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vsLhLkib74A"><img width="140px" src="https://i.ytimg.com/vi/vsLhLkib74A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vsLhLkib74A">E5. Data Types in Pytorch</a><br/>Jul 19, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
