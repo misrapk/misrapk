@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-f_WvnSwu-w"><img width="140px" src="https://i.ytimg.com/vi/-f_WvnSwu-w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-f_WvnSwu-w">Complete Deep Learning - Part 2 | Hindi</a><br/>Jul 30, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=-f_WvnSwu-w">Complete Deep Learning - Part 2 | Hindi</a><br/>Jul 31, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3x_2qNHYSbQ"><img width="140px" src="https://i.ytimg.com/vi/3x_2qNHYSbQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3x_2qNHYSbQ">🔴Monday Live - Chit Chat with Programming</a><br/>Jul 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/01mO7umEceQ"><img width="140px" src="https://i.ytimg.com/vi/01mO7umEceQ/mqdefault.jpg"></a></td>
