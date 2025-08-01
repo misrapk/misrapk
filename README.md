@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-f_WvnSwu-w"><img width="140px" src="https://i.ytimg.com/vi/-f_WvnSwu-w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-PpcTYzMaLk"><img width="140px" src="https://i.ytimg.com/vi/-PpcTYzMaLk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-PpcTYzMaLk">Day 1 - Intro to Natural Lanuage Procesing | Chalo Padhe NLP</a><br/>Aug 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-f_WvnSwu-w"><img width="140px" src="https://i.ytimg.com/vi/-f_WvnSwu-w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-f_WvnSwu-w">Complete Deep Learning - Part 2 | Hindi</a><br/>Jul 31, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3x_2qNHYSbQ"><img width="140px" src="https://i.ytimg.com/vi/3x_2qNHYSbQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3x_2qNHYSbQ">🔴Monday Live - Chit Chat with Programming</a><br/>Jul 29, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/shorts/01mO7umEceQ">Suno Sabki Karo Apni....  #indvseng #reels #ytshorts</a><br/>Jul 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/6wCrbhHsggM"><img width="140px" src="https://i.ytimg.com/vi/6wCrbhHsggM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/6wCrbhHsggM">which is best college for admission??? #ytshorts #college #engineeringlife #trending</a><br/>Jul 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=l7YPVG7qAVg"><img width="140px" src="https://i.ytimg.com/vi/l7YPVG7qAVg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=l7YPVG7qAVg">E6. Operations on Tensors in Pytorch</a><br/>Jul 23, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
