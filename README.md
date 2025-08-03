@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=X1RH1enDYYI"><img width="140px" src="https://i.ytimg.com/vi/X1RH1enDYYI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fZrwdIgucPA"><img width="140px" src="https://i.ytimg.com/vi/fZrwdIgucPA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fZrwdIgucPA">🔴Sunday Live - Chit Chat with Programming</a><br/>Aug 3, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=X1RH1enDYYI"><img width="140px" src="https://i.ytimg.com/vi/X1RH1enDYYI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X1RH1enDYYI">Day 2 - Basic Teminologies &lpar;PreRequisite&rpar; | Chalo Padhe NLP</a><br/>Aug 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/y34T4dJ1QTM"><img width="140px" src="https://i.ytimg.com/vi/y34T4dJ1QTM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/y34T4dJ1QTM">Keep Grinding!!!! #ytshorts #shortvideo</a><br/>Aug 1, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=-PpcTYzMaLk">Day 1 - Intro to Natural Lanuage Procesing | Chalo Padhe NLP</a><br/>Aug 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-f_WvnSwu-w"><img width="140px" src="https://i.ytimg.com/vi/-f_WvnSwu-w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-f_WvnSwu-w">Complete Deep Learning - Part 2 | Hindi</a><br/>Jul 31, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3x_2qNHYSbQ"><img width="140px" src="https://i.ytimg.com/vi/3x_2qNHYSbQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3x_2qNHYSbQ">🔴Monday Live - Chit Chat with Programming</a><br/>Jul 29, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
