@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fZrwdIgucPA"><img width="140px" src="https://i.ytimg.com/vi/fZrwdIgucPA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fZrwdIgucPA">🔴Sunday Live - Chit Chat with Programming</a><br/>Aug 3, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=fZrwdIgucPA">🔴Sunday Live - Chit Chat with Programming</a><br/>Aug 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=X1RH1enDYYI"><img width="140px" src="https://i.ytimg.com/vi/X1RH1enDYYI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X1RH1enDYYI">Day 2 - Basic Teminologies &lpar;PreRequisite&rpar; | Chalo Padhe NLP</a><br/>Aug 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/y34T4dJ1QTM"><img width="140px" src="https://i.ytimg.com/vi/y34T4dJ1QTM/mqdefault.jpg"></a></td>
