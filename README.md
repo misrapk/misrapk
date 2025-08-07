@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iAADo7GV3rY"><img width="140px" src="https://i.ytimg.com/vi/iAADo7GV3rY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oRdDFhRdLWM"><img width="140px" src="https://i.ytimg.com/vi/oRdDFhRdLWM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oRdDFhRdLWM">Day 4 - StopWords and Custom Cleaning Function | Chalo Padhe NLP</a><br/>Aug 7, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iAADo7GV3rY"><img width="140px" src="https://i.ytimg.com/vi/iAADo7GV3rY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iAADo7GV3rY">Day 3 - TEXT PREPROCESSING | Chalo Padhe NLP</a><br/>Aug 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fZrwdIgucPA"><img width="140px" src="https://i.ytimg.com/vi/fZrwdIgucPA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fZrwdIgucPA">🔴Sunday Live - Chit Chat with Programming</a><br/>Aug 4, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=X1RH1enDYYI">Day 2 - Basic Teminologies &lpar;PreRequisite&rpar; | Chalo Padhe NLP</a><br/>Aug 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/y34T4dJ1QTM"><img width="140px" src="https://i.ytimg.com/vi/y34T4dJ1QTM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/y34T4dJ1QTM">Keep Grinding!!!! #ytshorts #shortvideo</a><br/>Aug 1, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-PpcTYzMaLk"><img width="140px" src="https://i.ytimg.com/vi/-PpcTYzMaLk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-PpcTYzMaLk">Day 1 - Intro to Natural Lanuage Procesing | Chalo Padhe NLP</a><br/>Aug 1, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
