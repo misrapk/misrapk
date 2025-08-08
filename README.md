@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oRdDFhRdLWM"><img width="140px" src="https://i.ytimg.com/vi/oRdDFhRdLWM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oRdDFhRdLWM">Day 4 - StopWords and Custom Cleaning Function | Chalo Padhe NLP</a><br/>Aug 7, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=oRdDFhRdLWM">Day 4 - StopWords and Custom Cleaning Function | Chalo Padhe NLP</a><br/>Aug 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iAADo7GV3rY"><img width="140px" src="https://i.ytimg.com/vi/iAADo7GV3rY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iAADo7GV3rY">Day 3 - TEXT PREPROCESSING | Chalo Padhe NLP</a><br/>Aug 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fZrwdIgucPA"><img width="140px" src="https://i.ytimg.com/vi/fZrwdIgucPA/mqdefault.jpg"></a></td>
