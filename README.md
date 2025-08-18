@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/R0_EKwf8Rl0"><img width="140px" src="https://i.ytimg.com/vi/R0_EKwf8Rl0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hmKsBtqQDDU"><img width="140px" src="https://i.ytimg.com/vi/hmKsBtqQDDU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hmKsBtqQDDU">Day 5 - VECTORIZATION - BoW &amp; OneHotEncoding | Chalo Padhe NLP</a><br/>Aug 18, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/R0_EKwf8Rl0"><img width="140px" src="https://i.ytimg.com/vi/R0_EKwf8Rl0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/R0_EKwf8Rl0">can you learn anything from.0 to 100%??  #ytshorts #shortvideo</a><br/>Aug 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oRdDFhRdLWM"><img width="140px" src="https://i.ytimg.com/vi/oRdDFhRdLWM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oRdDFhRdLWM">Day 4 - StopWords and Custom Cleaning Function | Chalo Padhe NLP</a><br/>Aug 8, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=iAADo7GV3rY">Day 3 - TEXT PREPROCESSING | Chalo Padhe NLP</a><br/>Aug 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fZrwdIgucPA"><img width="140px" src="https://i.ytimg.com/vi/fZrwdIgucPA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fZrwdIgucPA">🔴Sunday Live - Chit Chat with Programming</a><br/>Aug 4, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=X1RH1enDYYI"><img width="140px" src="https://i.ytimg.com/vi/X1RH1enDYYI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X1RH1enDYYI">Day 2 - Basic Teminologies &lpar;PreRequisite&rpar; | Chalo Padhe NLP</a><br/>Aug 2, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
