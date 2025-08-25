@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3GNvUrNTdlQ"><img width="140px" src="https://i.ytimg.com/vi/3GNvUrNTdlQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/7qBiNb-XUWs"><img width="140px" src="https://i.ytimg.com/vi/7qBiNb-XUWs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/7qBiNb-XUWs">Bhaiya apki Maths kaese itni achi hai?????   #secret #ytshorts @shalumishra5303</a><br/>Aug 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3GNvUrNTdlQ"><img width="140px" src="https://i.ytimg.com/vi/3GNvUrNTdlQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3GNvUrNTdlQ">🔴Sunday Live - Chit Chat with Programming</a><br/>Aug 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3nowOe4eYL8"><img width="140px" src="https://i.ytimg.com/vi/3nowOe4eYL8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3nowOe4eYL8">Day 7 - POS Tagging, Chunking and NER | Chalo Padhe NLP</a><br/>Aug 22, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=79AtGl7jc0w">Day 6 - TF-IDF Practical with Theory | Chalo Padhe NLP</a><br/>Aug 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hmKsBtqQDDU"><img width="140px" src="https://i.ytimg.com/vi/hmKsBtqQDDU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hmKsBtqQDDU">Day 5 - VECTORIZATION - BoW &amp; OneHotEncoding | Chalo Padhe NLP</a><br/>Aug 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/R0_EKwf8Rl0"><img width="140px" src="https://i.ytimg.com/vi/R0_EKwf8Rl0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/R0_EKwf8Rl0">can you learn anything from.0 to 100%??  #ytshorts #shortvideo</a><br/>Aug 12, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
