@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3GNvUrNTdlQ"><img width="140px" src="https://i.ytimg.com/vi/3GNvUrNTdlQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3GNvUrNTdlQ">🔴Sunday Live - Chit Chat with Programming</a><br/>Aug 24, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=3GNvUrNTdlQ">🔴Sunday Live - Chit Chat with Programming</a><br/>Aug 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3nowOe4eYL8"><img width="140px" src="https://i.ytimg.com/vi/3nowOe4eYL8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3nowOe4eYL8">Day 7 - POS Tagging, Chunking and NER | Chalo Padhe NLP</a><br/>Aug 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=79AtGl7jc0w"><img width="140px" src="https://i.ytimg.com/vi/79AtGl7jc0w/mqdefault.jpg"></a></td>
