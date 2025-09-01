@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mq9r_TC4-W8"><img width="140px" src="https://i.ytimg.com/vi/mq9r_TC4-W8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mq9r_TC4-W8">Loan Eligibility Prediction using Machine Learning - Data Science Project | LIVE</a><br/>Sep 1, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=mq9r_TC4-W8">Part 1 | Loan Eligibility Prediction using Machine Learning - Data Science Project | LIVE</a><br/>Sep 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/jyXIPgIn9QQ"><img width="140px" src="https://i.ytimg.com/vi/jyXIPgIn9QQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/jyXIPgIn9QQ">Is Andrew Ng&#39;s Machine learning course best??  #ytshorts #shortvideo</a><br/>Aug 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/IjUXAiuoPBE"><img width="140px" src="https://i.ytimg.com/vi/IjUXAiuoPBE/mqdefault.jpg"></a></td>
