@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mq9r_TC4-W8"><img width="140px" src="https://i.ytimg.com/vi/mq9r_TC4-W8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4LXoZysrP3o"><img width="140px" src="https://i.ytimg.com/vi/4LXoZysrP3o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4LXoZysrP3o">Part 2 | Loan Eligibility Prediction using Machine Learning - Data Science Project</a><br/>Sep 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mq9r_TC4-W8"><img width="140px" src="https://i.ytimg.com/vi/mq9r_TC4-W8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mq9r_TC4-W8">Part 1 | Loan Eligibility Prediction using Machine Learning - Data Science Project | LIVE</a><br/>Sep 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/jyXIPgIn9QQ"><img width="140px" src="https://i.ytimg.com/vi/jyXIPgIn9QQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/jyXIPgIn9QQ">Is Andrew Ng&#39;s Machine learning course best??  #ytshorts #shortvideo</a><br/>Aug 28, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/shorts/IjUXAiuoPBE">Is maths really necessary for Machine Learning??  #ytshorts #shortvideo</a><br/>Aug 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/7qBiNb-XUWs"><img width="140px" src="https://i.ytimg.com/vi/7qBiNb-XUWs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/7qBiNb-XUWs">Bhaiya apki Maths kaese itni achi hai?????   #secret #ytshorts @shalumishra5303</a><br/>Aug 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3GNvUrNTdlQ"><img width="140px" src="https://i.ytimg.com/vi/3GNvUrNTdlQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3GNvUrNTdlQ">🔴Sunday Live - Chit Chat with Programming</a><br/>Aug 25, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
