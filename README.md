@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=v39XHSgrDd0"><img width="140px" src="https://i.ytimg.com/vi/v39XHSgrDd0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v39XHSgrDd0">Part 3 | Loan Eligibility Prediction using Machine Learning - Data Science Project | LIVE</a><br/>Sep 3, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=v39XHSgrDd0">Part 3 | Loan Eligibility Prediction using Machine Learning - Data Science Project | LIVE</a><br/>Sep 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4LXoZysrP3o"><img width="140px" src="https://i.ytimg.com/vi/4LXoZysrP3o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4LXoZysrP3o">Part 2 | Loan Eligibility Prediction using Machine Learning - Data Science Project</a><br/>Sep 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mq9r_TC4-W8"><img width="140px" src="https://i.ytimg.com/vi/mq9r_TC4-W8/mqdefault.jpg"></a></td>
