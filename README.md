@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=v39XHSgrDd0"><img width="140px" src="https://i.ytimg.com/vi/v39XHSgrDd0/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bdAbSq8am1M"><img width="140px" src="https://i.ytimg.com/vi/bdAbSq8am1M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bdAbSq8am1M">Part 4 | Loan Eligibility Prediction using Machine Learning - Data Science Project | LIVE</a><br/>Sep 7, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=v39XHSgrDd0"><img width="140px" src="https://i.ytimg.com/vi/v39XHSgrDd0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v39XHSgrDd0">Part 3 | Loan Eligibility Prediction using Machine Learning - Data Science Project | LIVE</a><br/>Sep 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4LXoZysrP3o"><img width="140px" src="https://i.ytimg.com/vi/4LXoZysrP3o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4LXoZysrP3o">Part 2 | Loan Eligibility Prediction using Machine Learning - Data Science Project</a><br/>Sep 2, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=mq9r_TC4-W8">Part 1 | Loan Eligibility Prediction using Machine Learning - Data Science Project | LIVE</a><br/>Sep 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/jyXIPgIn9QQ"><img width="140px" src="https://i.ytimg.com/vi/jyXIPgIn9QQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/jyXIPgIn9QQ">Is Andrew Ng&#39;s Machine learning course best??  #ytshorts #shortvideo</a><br/>Aug 28, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/IjUXAiuoPBE"><img width="140px" src="https://i.ytimg.com/vi/IjUXAiuoPBE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/IjUXAiuoPBE">Is maths really necessary for Machine Learning??  #ytshorts #shortvideo</a><br/>Aug 27, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
