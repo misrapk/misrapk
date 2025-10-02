@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qb9MsHR1RcE"><img width="140px" src="https://i.ytimg.com/vi/qb9MsHR1RcE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N-mHVpsVMIM"><img width="140px" src="https://i.ytimg.com/vi/N-mHVpsVMIM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N-mHVpsVMIM">Finding Similar Words - NLP Proejct 1 | Day 10</a><br/>Oct 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qb9MsHR1RcE"><img width="140px" src="https://i.ytimg.com/vi/qb9MsHR1RcE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qb9MsHR1RcE">Day 9  - Word2Vec — CBOW &amp; Skip-Gram | Chalo Padhe NLP</a><br/>Sep 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GPHlCHz_-6k"><img width="140px" src="https://i.ytimg.com/vi/GPHlCHz_-6k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GPHlCHz_-6k">Day 8  - Word Embeddings Intro: Why TF-IDF fails? | Chalo Padhe NLP</a><br/>Sep 24, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=JV7iRfFOpks">Part 5 | Loan Eligibility Prediction using Machine Learning - Data Science Project | Model building</a><br/>Sep 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/KNo0TRt_R_o"><img width="140px" src="https://i.ytimg.com/vi/KNo0TRt_R_o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/KNo0TRt_R_o">How Netflix Recommend the movies??? #shortvideo #reels #ytshorts #genai</a><br/>Sep 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/4HFz74Z0PtE"><img width="140px" src="https://i.ytimg.com/vi/4HFz74Z0PtE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/4HFz74Z0PtE">Reality of every enginnering student 🤣🤣. #ytshorts #shortvideo #peeyushkmisra</a><br/>Sep 10, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
