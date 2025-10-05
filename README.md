@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/_54Q4CPU-8A"><img width="140px" src="https://i.ytimg.com/vi/_54Q4CPU-8A/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fh-rj81qqXc"><img width="140px" src="https://i.ytimg.com/vi/fh-rj81qqXc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fh-rj81qqXc">ChatBot Intent Classifier | NLP PROJECT 2 | NLP in Hindi</a><br/>Oct 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/_54Q4CPU-8A"><img width="140px" src="https://i.ytimg.com/vi/_54Q4CPU-8A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/_54Q4CPU-8A">Reason behind delay in NLP series #ytshorts #shorts #trending</a><br/>Oct 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=N-mHVpsVMIM"><img width="140px" src="https://i.ytimg.com/vi/N-mHVpsVMIM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=N-mHVpsVMIM">Finding Similar Words - NLP Proejct 1 | Day 10</a><br/>Oct 2, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=qb9MsHR1RcE">Day 9  - Word2Vec — CBOW &amp; Skip-Gram | Chalo Padhe NLP</a><br/>Sep 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GPHlCHz_-6k"><img width="140px" src="https://i.ytimg.com/vi/GPHlCHz_-6k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GPHlCHz_-6k">Day 8  - Word Embeddings Intro: Why TF-IDF fails? | Chalo Padhe NLP</a><br/>Sep 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JV7iRfFOpks"><img width="140px" src="https://i.ytimg.com/vi/JV7iRfFOpks/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JV7iRfFOpks">Part 5 | Loan Eligibility Prediction using Machine Learning - Data Science Project | Model building</a><br/>Sep 20, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
