@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RFIV9UgLBtA"><img width="140px" src="https://i.ytimg.com/vi/RFIV9UgLBtA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dI80NaQFTqU"><img width="140px" src="https://i.ytimg.com/vi/dI80NaQFTqU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dI80NaQFTqU">Day 15: RNN vs Word Embeddings in NLP</a><br/>Dec 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RFIV9UgLBtA"><img width="140px" src="https://i.ytimg.com/vi/RFIV9UgLBtA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RFIV9UgLBtA">Day 14 - RESUME MATCHING PART 2 - PROJECT 3 | NLP</a><br/>Dec 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aLnpFl3P3i8"><img width="140px" src="https://i.ytimg.com/vi/aLnpFl3P3i8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aLnpFl3P3i8">Day 13 - RESUME MATCHING - PROJECT 3 | NLP</a><br/>Dec 2, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=4pwmf4etJkc">Day 12 - Cosine Similarity, Clustering with Embeddings |  Chalo Padhe NLP</a><br/>Nov 30, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/xoGe809fB8c"><img width="140px" src="https://i.ytimg.com/vi/xoGe809fB8c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/xoGe809fB8c">Always take breaks. #education #ytshorts</a><br/>Nov 23, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/N5AUmR_2nkQ"><img width="140px" src="https://i.ytimg.com/vi/N5AUmR_2nkQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/N5AUmR_2nkQ">Choose your correct path.  #ytshorts #development</a><br/>Oct 26, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
