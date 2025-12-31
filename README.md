@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/zoR85w6AUqM"><img width="140px" src="https://i.ytimg.com/vi/zoR85w6AUqM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/yKxz_5c9hwc"><img width="140px" src="https://i.ytimg.com/vi/yKxz_5c9hwc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/yKxz_5c9hwc">Message for 2026.   #coding #newyear2026</a><br/>Dec 31, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/zoR85w6AUqM"><img width="140px" src="https://i.ytimg.com/vi/zoR85w6AUqM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/zoR85w6AUqM">Life learnings #coding #dedication #arijitsingh #arijitconcert</a><br/>Dec 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dI80NaQFTqU"><img width="140px" src="https://i.ytimg.com/vi/dI80NaQFTqU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dI80NaQFTqU">Day 15: RNN vs Word Embeddings in NLP</a><br/>Dec 6, 2025</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=RFIV9UgLBtA">Day 14 - RESUME MATCHING PART 2 - PROJECT 3 | NLP</a><br/>Dec 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aLnpFl3P3i8"><img width="140px" src="https://i.ytimg.com/vi/aLnpFl3P3i8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aLnpFl3P3i8">Day 13 - RESUME MATCHING - PROJECT 3 | NLP</a><br/>Dec 2, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4pwmf4etJkc"><img width="140px" src="https://i.ytimg.com/vi/4pwmf4etJkc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4pwmf4etJkc">Day 12 - Cosine Similarity, Clustering with Embeddings |  Chalo Padhe NLP</a><br/>Nov 30, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
