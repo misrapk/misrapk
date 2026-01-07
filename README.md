@@ -28,7 +28,7 @@
 ### You can connect with me on ...
 
 <a href="https://www.linkedin.com/in/peeyushkmisra/" title="peeyushkmisra" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="hhttps://www.instagram.com/letscode_daily//" title="letscode_daily" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
+<a href="https://www.instagram.com/peeyushkmisra05/" title="peeyushkmisra" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>
 
 <a href="https://www.youtube.com/channel/UCgmk1KXmrHXt_DO0kScyVmQ" title="@peeyushkmisra" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" width="30" height="30"/></a>
 
