@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/gZoqYYayFyY"><img width="140px" src="https://i.ytimg.com/vi/gZoqYYayFyY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/qEA_2fff9mo"><img width="140px" src="https://i.ytimg.com/vi/qEA_2fff9mo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/qEA_2fff9mo">AI IDE for Everyone. #gemini #ytshorts</a><br/>Jan 9, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/gZoqYYayFyY"><img width="140px" src="https://i.ytimg.com/vi/gZoqYYayFyY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/gZoqYYayFyY">Comment your views. #coding #chatgpt #itindustry</a><br/>Jan 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1f_HzOviRno"><img width="140px" src="https://i.ytimg.com/vi/1f_HzOviRno/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1f_HzOviRno">You are REPLACABLE in IT Industry.😱</a><br/>Jan 5, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/shorts/gjGJFzT3GVQ">Whats Your take??? #genai #llm</a><br/>Jan 4, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/JRg7qy0O8xc"><img width="140px" src="https://i.ytimg.com/vi/JRg7qy0O8xc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/JRg7qy0O8xc">Why only focus on GENAI???</a><br/>Jan 3, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gTiXEygWD3E"><img width="140px" src="https://i.ytimg.com/vi/gTiXEygWD3E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gTiXEygWD3E">Message for you all for 2026.</a><br/>Jan 2, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
