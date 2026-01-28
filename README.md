@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/L_J6c2OGssU"><img width="140px" src="https://i.ytimg.com/vi/L_J6c2OGssU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/-2wWLOkTI4Q"><img width="140px" src="https://i.ytimg.com/vi/-2wWLOkTI4Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/-2wWLOkTI4Q">stay updated. #softwaredevelopment #bookmyshow #tutorial</a><br/>Jan 28, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/L_J6c2OGssU"><img width="140px" src="https://i.ytimg.com/vi/L_J6c2OGssU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/L_J6c2OGssU">Best Book for ML. #machinelearning #ml #python #peeyushkmisra</a><br/>Jan 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/rf_7efOonGs"><img width="140px" src="https://i.ytimg.com/vi/rf_7efOonGs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/rf_7efOonGs">SOS for freshers #campushiring #interview #fresher #jobopportunity #placement</a><br/>Jan 23, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/shorts/CCfmBbTJXZ8">ChatGPT translate    #chatgpt #gemini #googletranslate #llm</a><br/>Jan 16, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/oddinxmC8jc"><img width="140px" src="https://i.ytimg.com/vi/oddinxmC8jc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/oddinxmC8jc">apka kya kahena hai.  #neetpg #indianeducation</a><br/>Jan 14, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/qEA_2fff9mo"><img width="140px" src="https://i.ytimg.com/vi/qEA_2fff9mo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/qEA_2fff9mo">AI IDE for Everyone. #gemini #ytshorts</a><br/>Jan 9, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
