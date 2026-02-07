@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/YNSO7ovp8oE"><img width="140px" src="https://i.ytimg.com/vi/YNSO7ovp8oE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ix8hEdPYLAE"><img width="140px" src="https://i.ytimg.com/vi/Ix8hEdPYLAE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ix8hEdPYLAE">Rose Day Project using HTML CSS and JS</a><br/>Feb 7, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/YNSO7ovp8oE"><img width="140px" src="https://i.ytimg.com/vi/YNSO7ovp8oE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/YNSO7ovp8oE">main problem in ugc 2026 #ugcact #ugc206 #castesystem</a><br/>Jan 30, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wjJzU1JCbPU"><img width="140px" src="https://i.ytimg.com/vi/wjJzU1JCbPU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wjJzU1JCbPU">UGC 2026: Equity or Discrimination? | Complete Reality Check | Supreme Court Update |</a><br/>Jan 30, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/shorts/-2wWLOkTI4Q">stay updated. #softwaredevelopment #bookmyshow #tutorial</a><br/>Jan 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/L_J6c2OGssU"><img width="140px" src="https://i.ytimg.com/vi/L_J6c2OGssU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/L_J6c2OGssU">Best Book for ML. #machinelearning #ml #python #peeyushkmisra</a><br/>Jan 25, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/rf_7efOonGs"><img width="140px" src="https://i.ytimg.com/vi/rf_7efOonGs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/rf_7efOonGs">SOS for freshers #campushiring #interview #fresher #jobopportunity #placement</a><br/>Jan 23, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
