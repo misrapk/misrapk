@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0QDh7rL_DTg"><img width="140px" src="https://i.ytimg.com/vi/0QDh7rL_DTg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0QDh7rL_DTg">5 Generative AI Projects for FRESHERS for Resume in 2026 |</a><br/>Feb 13, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=0QDh7rL_DTg">5 Generative AI Projects for FRESHERS and EXPERIENCED for Resume in 2026 |</a><br/>Feb 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/R8pq5gsFXM4"><img width="140px" src="https://i.ytimg.com/vi/R8pq5gsFXM4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/R8pq5gsFXM4">day 6 HUG DAY PROJECT.  #webproject #coding #hugday #valentinesday</a><br/>Feb 12, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/KJJNiy3NVF8"><img width="140px" src="https://i.ytimg.com/vi/KJJNiy3NVF8/mqdefault.jpg"></a></td>
