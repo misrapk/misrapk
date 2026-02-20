@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lNlGqxuBGvA"><img width="140px" src="https://i.ytimg.com/vi/lNlGqxuBGvA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lNlGqxuBGvA">Introduction to LLM | Day 1 of  Building LLM From Scratch</a><br/>Feb 19, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=lNlGqxuBGvA">Introduction to LLM | Day 1 of  Building LLM From Scratch</a><br/>Feb 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/9d_wI_vODzE"><img width="140px" src="https://i.ytimg.com/vi/9d_wI_vODzE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/9d_wI_vODzE">gyan ki batein. #motivation #shortsfeed #trendingshorts</a><br/>Feb 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0QDh7rL_DTg"><img width="140px" src="https://i.ytimg.com/vi/0QDh7rL_DTg/mqdefault.jpg"></a></td>
