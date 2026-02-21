@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jBMFDobTY1A"><img width="140px" src="https://i.ytimg.com/vi/jBMFDobTY1A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jBMFDobTY1A">Introducing Transformer Architecture | Day 2 of  Building LLM From Scratch</a><br/>Feb 20, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=jBMFDobTY1A">Introducing Transformer Architecture | Day 2 of  Building LLM From Scratch</a><br/>Feb 21, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lNlGqxuBGvA"><img width="140px" src="https://i.ytimg.com/vi/lNlGqxuBGvA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lNlGqxuBGvA">Introduction to LLM | Day 1 of  Building LLM From Scratch</a><br/>Feb 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/9d_wI_vODzE"><img width="140px" src="https://i.ytimg.com/vi/9d_wI_vODzE/mqdefault.jpg"></a></td>
