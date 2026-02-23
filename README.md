@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-RyfFViW85w"><img width="140px" src="https://i.ytimg.com/vi/-RyfFViW85w/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=15xRulw41Bs"><img width="140px" src="https://i.ytimg.com/vi/15xRulw41Bs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=15xRulw41Bs">BERT Theory + Practical | Day 4 of  Building LLM From Scratch</a><br/>Feb 23, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-RyfFViW85w"><img width="140px" src="https://i.ytimg.com/vi/-RyfFViW85w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-RyfFViW85w">Convert Text to Tokens and Token IDs | Day 3 of  Building LLM From Scratch</a><br/>Feb 22, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jBMFDobTY1A"><img width="140px" src="https://i.ytimg.com/vi/jBMFDobTY1A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jBMFDobTY1A">Introducing Transformer Architecture | Day 2 of  Building LLM From Scratch</a><br/>Feb 21, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=lNlGqxuBGvA">Introduction to LLM | Day 1 of  Building LLM From Scratch</a><br/>Feb 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/9d_wI_vODzE"><img width="140px" src="https://i.ytimg.com/vi/9d_wI_vODzE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/9d_wI_vODzE">gyan ki batein. #motivation #shortsfeed #trendingshorts</a><br/>Feb 15, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0QDh7rL_DTg"><img width="140px" src="https://i.ytimg.com/vi/0QDh7rL_DTg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0QDh7rL_DTg">5 Generative AI Projects for FRESHERS and EXPERIENCED for Resume in 2026 |</a><br/>Feb 13, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
