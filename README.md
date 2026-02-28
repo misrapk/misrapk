@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pRAthB4dTBg"><img width="140px" src="https://i.ytimg.com/vi/pRAthB4dTBg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gqfrp9k9Fyc"><img width="140px" src="https://i.ytimg.com/vi/gqfrp9k9Fyc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gqfrp9k9Fyc">LIVE CHIT CHAT | Holiday Time 🫟</a><br/>Feb 28, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pRAthB4dTBg"><img width="140px" src="https://i.ytimg.com/vi/pRAthB4dTBg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pRAthB4dTBg">Token Embeddings | Day 6 of  Building LLM From Scratch</a><br/>Feb 26, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=33i99IQ02uk"><img width="140px" src="https://i.ytimg.com/vi/33i99IQ02uk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=33i99IQ02uk">Sliding Window for Data Sampling | Day 5 of  Building LLM From Scratch</a><br/>Feb 25, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=15xRulw41Bs">BPE - Byte Pair Encoding | Day 4 of  Building LLM From Scratch</a><br/>Feb 24, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-RyfFViW85w"><img width="140px" src="https://i.ytimg.com/vi/-RyfFViW85w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-RyfFViW85w">Convert Text to Tokens and Token IDs | Day 3 of  Building LLM From Scratch</a><br/>Feb 22, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jBMFDobTY1A"><img width="140px" src="https://i.ytimg.com/vi/jBMFDobTY1A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jBMFDobTY1A">Introducing Transformer Architecture | Day 2 of  Building LLM From Scratch</a><br/>Feb 21, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
