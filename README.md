@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/SJZDFiAGlsk"><img width="140px" src="https://i.ytimg.com/vi/SJZDFiAGlsk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/7ZPOxgvmECg"><img width="140px" src="https://i.ytimg.com/vi/7ZPOxgvmECg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/7ZPOxgvmECg">DSA OR DEVELOPMENT???   #coding #DSA #developer</a><br/>Mar 9, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/SJZDFiAGlsk"><img width="140px" src="https://i.ytimg.com/vi/SJZDFiAGlsk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/SJZDFiAGlsk">YAGNI principle.     #coding #trendingshorts #developer</a><br/>Mar 1, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gqfrp9k9Fyc"><img width="140px" src="https://i.ytimg.com/vi/gqfrp9k9Fyc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gqfrp9k9Fyc">LIVE CHIT CHAT | Holiday Time 🫟</a><br/>Mar 1, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=pRAthB4dTBg">Token Embeddings | Day 6 of  Building LLM From Scratch</a><br/>Feb 26, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=33i99IQ02uk"><img width="140px" src="https://i.ytimg.com/vi/33i99IQ02uk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=33i99IQ02uk">Sliding Window for Data Sampling | Day 5 of  Building LLM From Scratch</a><br/>Feb 25, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=15xRulw41Bs"><img width="140px" src="https://i.ytimg.com/vi/15xRulw41Bs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=15xRulw41Bs">BPE - Byte Pair Encoding | Day 4 of  Building LLM From Scratch</a><br/>Feb 24, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
