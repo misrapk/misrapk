@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2XUwg63Rxd4"><img width="140px" src="https://i.ytimg.com/vi/2XUwg63Rxd4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2XUwg63Rxd4">Complete End to End ML Project | Churn Prediction | Hindi</a><br/>Mar 15, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=2XUwg63Rxd4">Part 1 - Complete End to End ML Project | Churn Prediction | Hindi</a><br/>Mar 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oZvrL1hmKfc"><img width="140px" src="https://i.ytimg.com/vi/oZvrL1hmKfc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oZvrL1hmKfc">Coding Self Attention without Trainable weights | Day 8 of  Building LLM From Scratch</a><br/>Mar 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0tnIXi3iuew"><img width="140px" src="https://i.ytimg.com/vi/0tnIXi3iuew/mqdefault.jpg"></a></td>
