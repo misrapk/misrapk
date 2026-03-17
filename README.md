@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ty7Ppm3KEaI"><img width="140px" src="https://i.ytimg.com/vi/Ty7Ppm3KEaI/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=f1MT6eTMrGU"><img width="140px" src="https://i.ytimg.com/vi/f1MT6eTMrGU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=f1MT6eTMrGU">Coding Self Attention with Trainable weights | Day 9 of  Building LLM From Scratch</a><br/>Mar 17, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ty7Ppm3KEaI"><img width="140px" src="https://i.ytimg.com/vi/Ty7Ppm3KEaI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ty7Ppm3KEaI">Part 2  - Complete End to End ML Project | Churn Prediction | Hindi</a><br/>Mar 16, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2XUwg63Rxd4"><img width="140px" src="https://i.ytimg.com/vi/2XUwg63Rxd4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2XUwg63Rxd4">Part 1 - Complete End to End ML Project | Churn Prediction | Hindi</a><br/>Mar 15, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=oZvrL1hmKfc">Coding Self Attention without Trainable weights | Day 8 of  Building LLM From Scratch</a><br/>Mar 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0tnIXi3iuew"><img width="140px" src="https://i.ytimg.com/vi/0tnIXi3iuew/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0tnIXi3iuew">Why Self Attention Mechanism in LLM | Day 7 of  Building LLM From Scratch</a><br/>Mar 12, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/7ZPOxgvmECg"><img width="140px" src="https://i.ytimg.com/vi/7ZPOxgvmECg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/7ZPOxgvmECg">DSA OR DEVELOPMENT???   #coding #DSA #developer</a><br/>Mar 9, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
