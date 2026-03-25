@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-R-Xzr_jnvw"><img width="140px" src="https://i.ytimg.com/vi/-R-Xzr_jnvw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-R-Xzr_jnvw">Building Multi Head Attention Mechanism | Day 11 of  Building LLM From Scratch</a><br/>Mar 24, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=-R-Xzr_jnvw">Building Multi Head Attention Mechanism | Day 11 of  Building LLM From Scratch</a><br/>Mar 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0fYvPgKmFQI"><img width="140px" src="https://i.ytimg.com/vi/0fYvPgKmFQI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0fYvPgKmFQI">Building Multi Head Attention Mechanism | Day 11 of  Building LLM From Scratch</a><br/>Mar 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aXXuWVLKs8c"><img width="140px" src="https://i.ytimg.com/vi/aXXuWVLKs8c/mqdefault.jpg"></a></td>
