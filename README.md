@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Maw1-5qEoPk"><img width="140px" src="https://i.ytimg.com/vi/Maw1-5qEoPk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/7jdsrq-FgNg"><img width="140px" src="https://i.ytimg.com/vi/7jdsrq-FgNg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/7jdsrq-FgNg">#AIR1 in WeekendDevChallange #codechef #coding</a><br/>Apr 4, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Maw1-5qEoPk"><img width="140px" src="https://i.ytimg.com/vi/Maw1-5qEoPk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Maw1-5qEoPk">Kahani ab Tak - Summary of LLM Series | Day 12 of  Building LLM From Scratch</a><br/>Mar 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-R-Xzr_jnvw"><img width="140px" src="https://i.ytimg.com/vi/-R-Xzr_jnvw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-R-Xzr_jnvw">Building Multi Head Attention Mechanism | Day 11 of  Building LLM From Scratch</a><br/>Mar 25, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=0fYvPgKmFQI">Building Multi Head Attention Mechanism | Day 11 of  Building LLM From Scratch</a><br/>Mar 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aXXuWVLKs8c"><img width="140px" src="https://i.ytimg.com/vi/aXXuWVLKs8c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aXXuWVLKs8c">Build a TODO APP in 2 minutes | AntiGravity</a><br/>Mar 22, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=j7zDS_1-Io8"><img width="140px" src="https://i.ytimg.com/vi/j7zDS_1-Io8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=j7zDS_1-Io8">Building Casual Attention Mechanism | Day 10 of  Building LLM From Scratch</a><br/>Mar 22, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
