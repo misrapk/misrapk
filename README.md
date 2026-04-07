@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BMxExI5kwV4"><img width="140px" src="https://i.ytimg.com/vi/BMxExI5kwV4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BMxExI5kwV4">2.1 Coding LLM Architecture | Day 12 of  Building LLM From Scratch</a><br/>Apr 6, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=BMxExI5kwV4">2.1 Coding LLM Architecture | Day 12 of  Building LLM From Scratch</a><br/>Apr 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/7jdsrq-FgNg"><img width="140px" src="https://i.ytimg.com/vi/7jdsrq-FgNg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/7jdsrq-FgNg">#AIR1 in WeekendDevChallange #codechef #coding</a><br/>Apr 4, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Maw1-5qEoPk"><img width="140px" src="https://i.ytimg.com/vi/Maw1-5qEoPk/mqdefault.jpg"></a></td>
