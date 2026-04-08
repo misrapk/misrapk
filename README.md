@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ojRSzuq97FY"><img width="140px" src="https://i.ytimg.com/vi/ojRSzuq97FY/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/atcuuTPStwE"><img width="140px" src="https://i.ytimg.com/vi/atcuuTPStwE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/atcuuTPStwE">Great learnings from #samayraina #motivation</a><br/>Apr 8, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ojRSzuq97FY"><img width="140px" src="https://i.ytimg.com/vi/ojRSzuq97FY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ojRSzuq97FY">2.2 Layer Normalisation | Day 13 of  Building LLM From Scratch</a><br/>Apr 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BMxExI5kwV4"><img width="140px" src="https://i.ytimg.com/vi/BMxExI5kwV4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BMxExI5kwV4">2.1 Coding LLM Architecture | Day 12 of  Building LLM From Scratch</a><br/>Apr 7, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/shorts/7jdsrq-FgNg">#AIR1 in WeekendDevChallange #codechef #coding</a><br/>Apr 4, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Maw1-5qEoPk"><img width="140px" src="https://i.ytimg.com/vi/Maw1-5qEoPk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Maw1-5qEoPk">Kahani ab Tak - Summary of LLM Series | Day 12 of  Building LLM From Scratch</a><br/>Mar 28, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-R-Xzr_jnvw"><img width="140px" src="https://i.ytimg.com/vi/-R-Xzr_jnvw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-R-Xzr_jnvw">Building Multi Head Attention Mechanism | Day 11 of  Building LLM From Scratch</a><br/>Mar 25, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
