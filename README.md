@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hVpTtV6QihE"><img width="140px" src="https://i.ytimg.com/vi/hVpTtV6QihE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hVpTtV6QihE">2.3 Feed Forward with GELU Activation  | Day 14 of  Building LLM From Scratch</a><br/>Apr 8, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=hVpTtV6QihE">2.3 Feed Forward with GELU Activation  | Day 14 of  Building LLM From Scratch</a><br/>Apr 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/atcuuTPStwE"><img width="140px" src="https://i.ytimg.com/vi/atcuuTPStwE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/atcuuTPStwE">Great learnings from #samayraina #motivation</a><br/>Apr 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ojRSzuq97FY"><img width="140px" src="https://i.ytimg.com/vi/ojRSzuq97FY/mqdefault.jpg"></a></td>
