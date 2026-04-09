@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hVpTtV6QihE"><img width="140px" src="https://i.ytimg.com/vi/hVpTtV6QihE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kk-RAYC-nJo"><img width="140px" src="https://i.ytimg.com/vi/kk-RAYC-nJo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kk-RAYC-nJo">2.3 Feed Forward with GELU Activation  | Day 14 of  Building LLM From Scratch</a><br/>Apr 9, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hVpTtV6QihE"><img width="140px" src="https://i.ytimg.com/vi/hVpTtV6QihE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hVpTtV6QihE">2.3 Feed Forward with GELU Activation  | Day 14 of  Building LLM From Scratch</a><br/>Apr 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/atcuuTPStwE"><img width="140px" src="https://i.ytimg.com/vi/atcuuTPStwE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/atcuuTPStwE">Great learnings from #samayraina #motivation</a><br/>Apr 8, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=ojRSzuq97FY">2.2 Layer Normalisation | Day 13 of  Building LLM From Scratch</a><br/>Apr 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=BMxExI5kwV4"><img width="140px" src="https://i.ytimg.com/vi/BMxExI5kwV4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BMxExI5kwV4">2.1 Coding LLM Architecture | Day 12 of  Building LLM From Scratch</a><br/>Apr 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/7jdsrq-FgNg"><img width="140px" src="https://i.ytimg.com/vi/7jdsrq-FgNg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/7jdsrq-FgNg">#AIR1 in WeekendDevChallange #codechef #coding</a><br/>Apr 4, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
