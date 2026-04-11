@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RtgQlfcCwWc"><img width="140px" src="https://i.ytimg.com/vi/RtgQlfcCwWc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RtgQlfcCwWc">2.5 Building Transformer Block  | Day 16of  Building LLM From Scratch</a><br/>Apr 10, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=RtgQlfcCwWc">2.5 Building Transformer Block  | Day 16of  Building LLM From Scratch</a><br/>Apr 11, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kk-RAYC-nJo"><img width="140px" src="https://i.ytimg.com/vi/kk-RAYC-nJo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kk-RAYC-nJo">2.4 Shortcut Connections in LLM  | Day 15 of  Building LLM From Scratch</a><br/>Apr 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=y6Bhiz3Q3Rs"><img width="140px" src="https://i.ytimg.com/vi/y6Bhiz3Q3Rs/mqdefault.jpg"></a></td>
