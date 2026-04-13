@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mQat6zR2-KQ"><img width="140px" src="https://i.ytimg.com/vi/mQat6zR2-KQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UL641ubaUFI"><img width="140px" src="https://i.ytimg.com/vi/UL641ubaUFI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UL641ubaUFI">The Journey of a Token - Kahani Ab tak LLM ki  - PART 2 | Summary till now</a><br/>Apr 13, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mQat6zR2-KQ"><img width="140px" src="https://i.ytimg.com/vi/mQat6zR2-KQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mQat6zR2-KQ">2.7 Generate Text using LLM  | Day 18 of Building LLM From Scratch</a><br/>Apr 12, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nX2l-xzpOSI"><img width="140px" src="https://i.ytimg.com/vi/nX2l-xzpOSI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nX2l-xzpOSI">2.6 Coding Complete GPT MODEL  | Day 17 of Building LLM From Scratch</a><br/>Apr 12, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=RtgQlfcCwWc">2.5 Building Transformer Block  | Day 16of  Building LLM From Scratch</a><br/>Apr 11, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kk-RAYC-nJo"><img width="140px" src="https://i.ytimg.com/vi/kk-RAYC-nJo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kk-RAYC-nJo">2.4 Shortcut Connections in LLM  | Day 15 of  Building LLM From Scratch</a><br/>Apr 10, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=y6Bhiz3Q3Rs"><img width="140px" src="https://i.ytimg.com/vi/y6Bhiz3Q3Rs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=y6Bhiz3Q3Rs">[Vertical Stream] 2.4 Shortcut Connections in LLM  | Day 15 of  Building LLM From Scratch</a><br/>Apr 10, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
