@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UL641ubaUFI"><img width="140px" src="https://i.ytimg.com/vi/UL641ubaUFI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UL641ubaUFI">The Journey of a Token - Kahani Ab tak LLM ki  - PART 2 | Summary till now</a><br/>Apr 13, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=UL641ubaUFI">The Journey of a Token - Kahani Ab tak LLM ki  - PART 2 | Summary till now</a><br/>Apr 14, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mQat6zR2-KQ"><img width="140px" src="https://i.ytimg.com/vi/mQat6zR2-KQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mQat6zR2-KQ">2.7 Generate Text using LLM  | Day 18 of Building LLM From Scratch</a><br/>Apr 12, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nX2l-xzpOSI"><img width="140px" src="https://i.ytimg.com/vi/nX2l-xzpOSI/mqdefault.jpg"></a></td>
