@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aAPyT5bzVK8"><img width="140px" src="https://i.ytimg.com/vi/aAPyT5bzVK8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aAPyT5bzVK8">Back Again | Sunday Live</a><br/>Jul 19, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=aAPyT5bzVK8">Back Again | Sunday Live</a><br/>Jul 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DfjmOsAQ8a0"><img width="140px" src="https://i.ytimg.com/vi/DfjmOsAQ8a0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DfjmOsAQ8a0">3.1 Evaluate Generative Text Model  | Day 20 of Building LLM From Scratch</a><br/>Apr 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/70zN_DZaOsc"><img width="140px" src="https://i.ytimg.com/vi/70zN_DZaOsc/mqdefault.jpg"></a></td>
