@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/eyGi8a2FjaM"><img width="140px" src="https://i.ytimg.com/vi/eyGi8a2FjaM/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EyW6tMwzE5I"><img width="140px" src="https://i.ytimg.com/vi/EyW6tMwzE5I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EyW6tMwzE5I">What to learn in AI?? SATURDAY LIVE 🔴</a><br/>Jul 25, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/eyGi8a2FjaM"><img width="140px" src="https://i.ytimg.com/vi/eyGi8a2FjaM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/eyGi8a2FjaM">Students ki victory!!</a><br/>Jul 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hYFgYWnp3eI"><img width="140px" src="https://i.ytimg.com/vi/hYFgYWnp3eI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hYFgYWnp3eI">THATS ENOUGH!!! 😡⚠️ | Honest Talk</a><br/>Jul 23, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/shorts/84RdwezFm70">New India - My honest talk</a><br/>Jul 21, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aAPyT5bzVK8"><img width="140px" src="https://i.ytimg.com/vi/aAPyT5bzVK8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aAPyT5bzVK8">Back Again | Sunday Live</a><br/>Jul 20, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DfjmOsAQ8a0"><img width="140px" src="https://i.ytimg.com/vi/DfjmOsAQ8a0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DfjmOsAQ8a0">3.1 Evaluate Generative Text Model  | Day 20 of Building LLM From Scratch</a><br/>Apr 15, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
