@@ -53,14 +53,14 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EyW6tMwzE5I"><img width="140px" src="https://i.ytimg.com/vi/EyW6tMwzE5I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EyW6tMwzE5I">What to learn in AI?? SATURDAY LIVE 🔴</a><br/>Jul 25, 2026</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0JSGWgNb1vM"><img width="140px" src="https://i.ytimg.com/vi/0JSGWgNb1vM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0JSGWgNb1vM">LLM Project - Human vs AI Text detection - Complete Project | Sunday LIVE</a><br/>Jul 26, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EyW6tMwzE5I"><img width="140px" src="https://i.ytimg.com/vi/EyW6tMwzE5I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EyW6tMwzE5I">What to learn in AI?? SATURDAY LIVE 🔴</a><br/>Jul 26, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/eyGi8a2FjaM"><img width="140px" src="https://i.ytimg.com/vi/eyGi8a2FjaM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/eyGi8a2FjaM">Students ki victory!!</a><br/>Jul 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hYFgYWnp3eI"><img width="140px" src="https://i.ytimg.com/vi/hYFgYWnp3eI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hYFgYWnp3eI">THATS ENOUGH!!! 😡⚠️ | Honest Talk</a><br/>Jul 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/84RdwezFm70"><img width="140px" src="https://i.ytimg.com/vi/84RdwezFm70/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/84RdwezFm70">New India - My honest talk</a><br/>Jul 21, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=aAPyT5bzVK8"><img width="140px" src="https://i.ytimg.com/vi/aAPyT5bzVK8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aAPyT5bzVK8">Back Again | Sunday Live</a><br/>Jul 20, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
