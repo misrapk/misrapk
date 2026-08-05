@@ -53,7 +53,9 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=m_N37ye0Ai8"><img width="140px" src="https://i.ytimg.com/vi/m_N37ye0Ai8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iHU49Xx5XCk"><img width="140px" src="https://i.ytimg.com/vi/iHU49Xx5XCk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iHU49Xx5XCk">Complete AI Roadmap to learn in 2026 and 2027 | Hindi</a><br/>Aug 5, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=m_N37ye0Ai8"><img width="140px" src="https://i.ytimg.com/vi/m_N37ye0Ai8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m_N37ye0Ai8">PART 2 - LLM Project - Human vs AI Text detection - Complete Project |  LIVE</a><br/>Jul 30, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/_DDwF_9cJqE"><img width="140px" src="https://i.ytimg.com/vi/_DDwF_9cJqE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/_DDwF_9cJqE">Dastan e Palak Paneer!!!</a><br/>Jul 29, 2026</td></tr></table>
@@ -61,6 +63,4 @@
 <td><a href="https://www.youtube.com/shorts/U0hGE0_PHTA">EDUCATION SYSTEM CHANGE HONE KI JARURAT HAI!!!</a><br/>Jul 27, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0JSGWgNb1vM"><img width="140px" src="https://i.ytimg.com/vi/0JSGWgNb1vM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0JSGWgNb1vM">LLM Project - Human vs AI Text detection - Complete Project | Sunday LIVE</a><br/>Jul 26, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EyW6tMwzE5I"><img width="140px" src="https://i.ytimg.com/vi/EyW6tMwzE5I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EyW6tMwzE5I">What to learn in AI?? SATURDAY LIVE 🔴</a><br/>Jul 26, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
