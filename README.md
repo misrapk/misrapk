@@ -54,7 +54,7 @@
 ### Latest Youtube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iHU49Xx5XCk"><img width="140px" src="https://i.ytimg.com/vi/iHU49Xx5XCk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iHU49Xx5XCk">Complete AI Roadmap to learn in 2026 and 2027 | Hindi</a><br/>Aug 5, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=iHU49Xx5XCk">Complete AI Roadmap to learn in 2026 and 2027 | Hindi</a><br/>Aug 6, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=m_N37ye0Ai8"><img width="140px" src="https://i.ytimg.com/vi/m_N37ye0Ai8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m_N37ye0Ai8">PART 2 - LLM Project - Human vs AI Text detection - Complete Project |  LIVE</a><br/>Jul 30, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/_DDwF_9cJqE"><img width="140px" src="https://i.ytimg.com/vi/_DDwF_9cJqE/mqdefault.jpg"></a></td>
