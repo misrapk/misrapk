@@ -53,9 +53,7 @@
 
 ### Latest Youtube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TkAz6SgxJU4"><img width="140px" src="https://i.ytimg.com/vi/TkAz6SgxJU4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TkAz6SgxJU4">Peeyush K. Misra is live</a><br/>Aug 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=iHU49Xx5XCk"><img width="140px" src="https://i.ytimg.com/vi/iHU49Xx5XCk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iHU49Xx5XCk"><img width="140px" src="https://i.ytimg.com/vi/iHU49Xx5XCk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iHU49Xx5XCk">Complete AI Roadmap to learn in 2026 and 2027 | Hindi</a><br/>Aug 6, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=m_N37ye0Ai8"><img width="140px" src="https://i.ytimg.com/vi/m_N37ye0Ai8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m_N37ye0Ai8">PART 2 - LLM Project - Human vs AI Text detection - Complete Project |  LIVE</a><br/>Jul 30, 2026</td></tr></table>
@@ -63,4 +61,6 @@
 <td><a href="https://www.youtube.com/shorts/_DDwF_9cJqE">Dastan e Palak Paneer!!!</a><br/>Jul 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/U0hGE0_PHTA"><img width="140px" src="https://i.ytimg.com/vi/U0hGE0_PHTA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/U0hGE0_PHTA">EDUCATION SYSTEM CHANGE HONE KI JARURAT HAI!!!</a><br/>Jul 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0JSGWgNb1vM"><img width="140px" src="https://i.ytimg.com/vi/0JSGWgNb1vM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0JSGWgNb1vM">LLM Project - Human vs AI Text detection - Complete Project | Sunday LIVE</a><br/>Jul 26, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
