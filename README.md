@@ -24,7 +24,7 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 ### Connect
 - YouTube: [youtube.com/@peeyushmisra](https://youtube.com/@peeyushmisra)
 - LinkedIn: [linkedin.com/in/peeyushkmisra](https://www.linkedin.com/in/peeyushkmisra)
-- X: [@peeyushkmisra](https://x.com/peeyushkmisra)
+- X: [@peeyushkmisra07](https://x.com/peeyushkmisra07)
 
 ### Profile activity
 
