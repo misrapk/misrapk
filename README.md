@@ -32,8 +32,16 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 
 ### Latest on YouTube
 
-<!-- YOUTUBE:START -->
-<!-- Keep this block if you use a sync action; otherwise update manually -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EiIVaMIpS4w"><img width="140px" src="https://i.ytimg.com/vi/EiIVaMIpS4w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EiIVaMIpS4w">Ab Ek Insaan Ko Team Ki Zarurat Nahi? 😳 | Grok Bot</a><br/>Sep 12, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rpj_IHSCavs"><img width="140px" src="https://i.ytimg.com/vi/rpj_IHSCavs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rpj_IHSCavs">AI Code Agents Dataset 2026 🚀 | EDA &amp; Data Analysis LIVE | Part 1</a><br/>Aug 25, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=q5s5hmM5NfI"><img width="140px" src="https://i.ytimg.com/vi/q5s5hmM5NfI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=q5s5hmM5NfI">Project End Product</a><br/>Aug 24, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/5jcMeFvuf3E"><img width="140px" src="https://i.ytimg.com/vi/5jcMeFvuf3E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/5jcMeFvuf3E">web sockets vs SSE</a><br/>Aug 18, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iHU49Xx5XCk"><img width="140px" src="https://i.ytimg.com/vi/iHU49Xx5XCk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iHU49Xx5XCk">Complete AI Roadmap to learn in 2026 and 2027 | Hindi</a><br/>Aug 6, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ⭐ If a repo helps you learn, star it and open an issue with questions — I read them.
