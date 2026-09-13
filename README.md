@@ -33,7 +33,7 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 ### Latest on YouTube
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EiIVaMIpS4w"><img width="140px" src="https://i.ytimg.com/vi/EiIVaMIpS4w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EiIVaMIpS4w">Ab Ek Insaan Ko Team Ki Zarurat Nahi? 😳 | Grok Bot</a><br/>Sep 12, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=EiIVaMIpS4w">Ab Ek Insaan Ko Team Ki Zarurat Nahi? 😳 | Grok Bot</a><br/>Sep 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rpj_IHSCavs"><img width="140px" src="https://i.ytimg.com/vi/rpj_IHSCavs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rpj_IHSCavs">AI Code Agents Dataset 2026 🚀 | EDA &amp; Data Analysis LIVE | Part 1</a><br/>Aug 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=q5s5hmM5NfI"><img width="140px" src="https://i.ytimg.com/vi/q5s5hmM5NfI/mqdefault.jpg"></a></td>
