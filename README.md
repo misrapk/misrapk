@@ -32,7 +32,9 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 
 ### Latest on YouTube
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mPVh_Ig-ajU"><img width="140px" src="https://i.ytimg.com/vi/mPVh_Ig-ajU/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=M8knSXv0ujY"><img width="140px" src="https://i.ytimg.com/vi/M8knSXv0ujY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=M8knSXv0ujY">S0 E0 - Welcome to DSA Case Files</a><br/>Sep 26, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mPVh_Ig-ajU"><img width="140px" src="https://i.ytimg.com/vi/mPVh_Ig-ajU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mPVh_Ig-ajU">🚀DSA CASE FILE - Trailer Launch</a><br/>Sep 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/KXh2B5-qhE8"><img width="140px" src="https://i.ytimg.com/vi/KXh2B5-qhE8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/KXh2B5-qhE8">The next AI bottleneck may not be GPUs. It may be data</a><br/>Sep 24, 2026</td></tr></table>
@@ -40,8 +42,6 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 <td><a href="https://www.youtube.com/watch?v=pCF4GnaQ_88">Are we overusing AI?? Think and Talk</a><br/>Sep 19, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EiIVaMIpS4w"><img width="140px" src="https://i.ytimg.com/vi/EiIVaMIpS4w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EiIVaMIpS4w">Ab Ek Insaan Ko Team Ki Zarurat Nahi? 😳 | Grok Bot</a><br/>Sep 13, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rpj_IHSCavs"><img width="140px" src="https://i.ytimg.com/vi/rpj_IHSCavs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rpj_IHSCavs">AI Code Agents Dataset 2026 🚀 | EDA &amp; Data Analysis LIVE | Part 1</a><br/>Aug 25, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ⭐ If a repo helps you learn, star it and open an issue with questions — I read them.
