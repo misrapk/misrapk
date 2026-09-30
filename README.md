@@ -32,7 +32,9 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 
 ### Latest on YouTube
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=10OrCoW3jw8"><img width="140px" src="https://i.ytimg.com/vi/10OrCoW3jw8/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Sehqvr86rfk"><img width="140px" src="https://i.ytimg.com/vi/Sehqvr86rfk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Sehqvr86rfk">S1 E4- Stop Repeating Yourself | Duplicate in Array  | Hashing | Hindi</a><br/>Sep 30, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=10OrCoW3jw8"><img width="140px" src="https://i.ytimg.com/vi/10OrCoW3jw8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=10OrCoW3jw8">S1 E3 - Two Sum | Brute Force → Optimization Solution | Hindi</a><br/>Sep 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=v00QtRIG5tY"><img width="140px" src="https://i.ytimg.com/vi/v00QtRIG5tY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v00QtRIG5tY">Honest talk</a><br/>Sep 29, 2026</td></tr></table>
@@ -40,8 +42,6 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 <td><a href="https://www.youtube.com/watch?v=5Jiq0HrKkCw">S1 E2 - Understanding any Problem | Hindi</a><br/>Sep 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Pzms9HmYEhY"><img width="140px" src="https://i.ytimg.com/vi/Pzms9HmYEhY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Pzms9HmYEhY">S1 E1- The First Interview - Largest Number in Array | Hindi</a><br/>Sep 27, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=M8knSXv0ujY"><img width="140px" src="https://i.ytimg.com/vi/M8knSXv0ujY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M8knSXv0ujY">S0 E0 - Welcome to DSA Case Files</a><br/>Sep 26, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ⭐ If a repo helps you learn, star it and open an issue with questions — I read them.
