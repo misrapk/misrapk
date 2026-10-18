@@ -32,7 +32,9 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 
 ### Latest on YouTube
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aLRW99ziSR4"><img width="140px" src="https://i.ytimg.com/vi/aLRW99ziSR4/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/ZCa2RpEULpA"><img width="140px" src="https://i.ytimg.com/vi/ZCa2RpEULpA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/ZCa2RpEULpA">&quot;AI Expectations Gap&quot; report</a><br/>Oct 18, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=aLRW99ziSR4"><img width="140px" src="https://i.ytimg.com/vi/aLRW99ziSR4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aLRW99ziSR4">S1 E6- The Frequency Detective | Frequency Counting  | HashMap  | Hindi</a><br/>Oct 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/x_Yy2yvCeMY"><img width="140px" src="https://i.ytimg.com/vi/x_Yy2yvCeMY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/x_Yy2yvCeMY">What&#39;s your take. #coding #ai #trending</a><br/>Oct 11, 2026</td></tr></table>
@@ -40,8 +42,6 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 <td><a href="https://www.youtube.com/watch?v=uRPXGsB0cZs">S1 E5- The Missing Number | Duplicate in Array  | Trade-offs | Hindi</a><br/>Oct 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Sehqvr86rfk"><img width="140px" src="https://i.ytimg.com/vi/Sehqvr86rfk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Sehqvr86rfk">S1 E4- Stop Repeating Yourself | Duplicate in Array  | Hashing | Hindi</a><br/>Sep 30, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=10OrCoW3jw8"><img width="140px" src="https://i.ytimg.com/vi/10OrCoW3jw8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=10OrCoW3jw8">S1 E3 - Two Sum | Brute Force → Optimization Solution | Hindi</a><br/>Sep 29, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ⭐ If a repo helps you learn, star it and open an issue with questions — I read them.
