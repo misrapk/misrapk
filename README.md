@@ -32,7 +32,9 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 
 ### Latest on YouTube
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/lI-Li_UxYeA"><img width="140px" src="https://i.ytimg.com/vi/lI-Li_UxYeA/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/K2HtvoghhnQ"><img width="140px" src="https://i.ytimg.com/vi/K2HtvoghhnQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/K2HtvoghhnQ">AI ko island pe akela chhoda… toh woh KHELNE laga</a><br/>Oct 20, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/lI-Li_UxYeA"><img width="140px" src="https://i.ytimg.com/vi/lI-Li_UxYeA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/lI-Li_UxYeA">🚨 Students, stop using ChatGPT just to copy answers!</a><br/>Oct 19, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/ZCa2RpEULpA"><img width="140px" src="https://i.ytimg.com/vi/ZCa2RpEULpA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ZCa2RpEULpA">&quot;AI Expectations Gap&quot; report</a><br/>Oct 18, 2026</td></tr></table>
@@ -40,8 +42,6 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 <td><a href="https://www.youtube.com/watch?v=aLRW99ziSR4">S1 E6- The Frequency Detective | Frequency Counting  | HashMap  | Hindi</a><br/>Oct 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/x_Yy2yvCeMY"><img width="140px" src="https://i.ytimg.com/vi/x_Yy2yvCeMY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/x_Yy2yvCeMY">What&#39;s your take. #coding #ai #trending</a><br/>Oct 11, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uRPXGsB0cZs"><img width="140px" src="https://i.ytimg.com/vi/uRPXGsB0cZs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uRPXGsB0cZs">S1 E5- The Missing Number | Duplicate in Array  | Trade-offs | Hindi</a><br/>Oct 8, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ⭐ If a repo helps you learn, star it and open an issue with questions — I read them.
