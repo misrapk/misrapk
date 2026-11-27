@@ -32,7 +32,9 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 
 ### Latest on YouTube
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/yfexOSFb70s"><img width="140px" src="https://i.ytimg.com/vi/yfexOSFb70s/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/shorts/jAScjBP_eZ0"><img width="140px" src="https://i.ytimg.com/vi/jAScjBP_eZ0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/jAScjBP_eZ0">AI इतना confidently गलत क्यों है?</a><br/>Nov 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/yfexOSFb70s"><img width="140px" src="https://i.ytimg.com/vi/yfexOSFb70s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/yfexOSFb70s">क्या आपके प्रोजेक्ट को सच में AI चाहिए?</a><br/>Nov 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/pkqVlqgv2Go"><img width="140px" src="https://i.ytimg.com/vi/pkqVlqgv2Go/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/pkqVlqgv2Go">What happend when Microsoft down. #tech #outage #microsoft</a><br/>Nov 14, 2026</td></tr></table>
@@ -40,8 +42,6 @@ I teach **Machine Learning, Data Science, and GenAI in Hindi** — and I ship th
 <td><a href="https://www.youtube.com/shorts/1kLf3HEP-mw">Phone Mein 5G Hai, Phir Bhi Internet Slow Kyun Hai? 📶</a><br/>Nov 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/K2HtvoghhnQ"><img width="140px" src="https://i.ytimg.com/vi/K2HtvoghhnQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/K2HtvoghhnQ">AI ko island pe akela chhoda… toh woh KHELNE laga</a><br/>Oct 20, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/lI-Li_UxYeA"><img width="140px" src="https://i.ytimg.com/vi/lI-Li_UxYeA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/lI-Li_UxYeA">🚨 Students, stop using ChatGPT just to copy answers!</a><br/>Oct 19, 2026</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ⭐ If a repo helps you learn, star it and open an issue with questions — I read them.
